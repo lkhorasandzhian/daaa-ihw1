@@ -1,4 +1,5 @@
 #include <iostream>
+#include <chrono>
 #include "sorting_algorithms.h"
 
 bool checkCorrectness(const int arr[], int n) {
@@ -16,7 +17,7 @@ void copyElements(const int a[], int b[], int n) {
     }
 }
 
-void launch(const int initial_array[], int n) {
+void launchCorrectnessChecker(const int initial_array[], int n) {
     const int count_of_tests = 13;
     const std::string tests[count_of_tests] { "Selection Sort",
                                               "Bubble Sort",
@@ -35,7 +36,7 @@ void launch(const int initial_array[], int n) {
     int successful_tests = 0, failed_tests = 0;
     int current_test = 0;
 
-    std::cout << "--------------------[START TEST]--------------------\n\n";
+    std::cout << "--------------------[START CORRECTNESS TEST]--------------------\n\n";
 
     int array[n];
 
@@ -259,7 +260,161 @@ void launch(const int initial_array[], int n) {
     }
 
     std::cout << "\n\n";
-    std::cout << "--------------------[FINISH TEST]--------------------\n";
+    std::cout << "--------------------[FINISH CORRECTNESS TEST]--------------------\n";
     std::cout << "SUCCESSFUL TESTS: " << successful_tests << "/" << count_of_tests << "\n";
     std::cout << "FAILED TESTS: " << failed_tests << "/" << count_of_tests << "\n\n";
+}
+
+void launchTimeChecker(const int initial_array[], int n) {
+    const int count_of_tests = 13;
+    const std::string tests[count_of_tests] { "Selection Sort",
+                                              "Bubble Sort",
+                                              "Bubble Sort (Iverson 1)",
+                                              "Bubble Sort (Iverson 1+2)",
+                                              "Insertion Sort",
+                                              "Binary Insertion Sort",
+                                              "Stable Counting Sort",
+                                              "Radix Sort",
+                                              "Merge Sort",
+                                              "Quick Sort",
+                                              "Heap Sort",
+                                              "Shell Sort (Tsiur Sequence)",
+                                              "Shell Sort (Shell Sequence)"
+    };
+    int current_test = 0;
+
+    std::cout << "--------------------[START TIME TEST]--------------------\n\n";
+
+    int array[n];
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    auto start_time_point =  std::chrono::high_resolution_clock::now();
+    selectionSort(array, n);
+    auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    long long milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    bubbleSort(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    bubbleSortIversonFirst(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    bubbleSortIversonFirstAndSecond(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    insertionSort(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    binaryInsertionSort(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    stableCountingSort(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    radixSort10(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    mergeSort(array, 0, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    quickSort(array, 0, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    heapSort(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    shellSortTsiurSequence(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+
+    std::cout << tests[current_test++] << "\n";
+    copyElements(initial_array, array, n);
+    start_time_point = std::chrono::high_resolution_clock::now();
+    shellSortShellSequence(array, n);
+    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
+    std::cout << milliseconds << " ms." << "\n";
+
+    std::cout << "\n\n";
+    std::cout << "--------------------[FINISH TIME TEST]--------------------\n\n";
 }
