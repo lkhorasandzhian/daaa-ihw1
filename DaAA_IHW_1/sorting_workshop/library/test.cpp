@@ -92,7 +92,7 @@ void launch(const int initial_array[], int n) {
 
     std::cout << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
-    bubbleSortIversonFirstAndSecond(array);
+    bubbleSortIversonFirstAndSecond(array, n);
     for (int i : array) {
         std::cout << i << " ";
     }

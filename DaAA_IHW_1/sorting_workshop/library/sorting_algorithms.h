@@ -1,5 +1,5 @@
-#ifndef SORTING_WORKSHOP_LIBRARY_SORTING_ALGORITHMS_H_
-#define SORTING_WORKSHOP_LIBRARY_SORTING_ALGORITHMS_H_
+#ifndef SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_SORTING_ALGORITHMS_H_
+#define SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_SORTING_ALGORITHMS_H_
 
 /// 1) Сортировка выбором.
 void selectionSort(int arr[], int n);
@@ -11,7 +11,7 @@ void bubbleSort(int arr[], int n);
 void bubbleSortIversonFirst(int arr[], int n);
 
 /// 4) Сортировка пузырьком с условием Айверсона 1+2.
-void bubbleSortIversonFirstAndSecond(int arr[]);
+void bubbleSortIversonFirstAndSecond(int arr[], int n);
 
 /// 5) Сортировка простыми вставками.
 void insertionSort(int arr[], int n);
@@ -40,4 +40,4 @@ void shellSortTsiurSequence(int arr[], int n);
 /// 13) Сортировка Шелла (последовательность Шелла).
 void shellSortShellSequence(int arr[], int n);
 
-#endif //SORTING_WORKSHOP_LIBRARY_SORTING_ALGORITHMS_H_
+#endif //SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_SORTING_ALGORITHMS_H_

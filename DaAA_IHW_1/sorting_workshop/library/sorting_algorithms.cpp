@@ -23,7 +23,7 @@ void bubbleSort(int arr[], int n) {
     int i, j;
 
     for (i = 0; i < n - 1; ++i) {
-        for (j = 0; j < n - i - 1; ++j) {
+        for (j = 0; j < n - 1; ++j) {
             if (arr[j] > arr[j + 1]) {
                 std::swap(arr[j], arr[j + 1]);
             }
@@ -37,7 +37,7 @@ void bubbleSortIversonFirst(int arr[], int n) {
 
     do {
         was_swapped = false;
-        for (j = 0; j < n - i - 1; ++j) {
+        for (j = 0; j < n - 1; ++j) {
             if (arr[j] > arr[j + 1]) {
                 std::swap(arr[j], arr[j + 1]);
                 was_swapped = true;
@@ -47,23 +47,19 @@ void bubbleSortIversonFirst(int arr[], int n) {
     } while (was_swapped);
 }
 
-void bubbleSortIversonFirstAndSecond(int arr[]) {
-    int i = 0, j = 0;
+void bubbleSortIversonFirstAndSecond(int arr[], int n) {
+    int i = 0, j;
     bool was_swapped;
-    int last_swapped_index;
 
     do {
         was_swapped = false;
-        last_swapped_index = 0;
-        do {
+        for (j = 0; j < n - i - 1; ++j) {
             if (arr[j] > arr[j + 1]) {
                 std::swap(arr[j], arr[j + 1]);
                 was_swapped = true;
-                last_swapped_index = j;
             }
-        } while (j < last_swapped_index);
+        }
         ++i;
-        ++j;
     } while (was_swapped);
 }
 
