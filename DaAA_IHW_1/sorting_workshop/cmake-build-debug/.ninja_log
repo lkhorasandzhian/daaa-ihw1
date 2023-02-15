@@ -1,0 +1,9 @@
+# ninja log v5
+12	467	6981638321387755	CMakeFiles/sorting_workshop.dir/library/sorting_algorithms.cpp.obj	c5379b0c71a22376
+4	548	6981657208939372	CMakeFiles/sorting_workshop.dir/main.cpp.obj	2ce1ff8ee27f728
+562	713	6981686411868655	sorting_workshop.exe	6c8f30fa0ccf14b5
+3	562	6981686410362677	CMakeFiles/sorting_workshop.dir/library/test.cpp.obj	4e4adb4646365070
+13	600	6981691202550748	CMakeFiles/sorting_workshop.dir/library/sorting_algorithms.cpp.obj	ea6bcd7219af48c8
+3	603	6981691202580360	CMakeFiles/sorting_workshop.dir/main.cpp.obj	e172a46881c7f48c
+23	689	6981691203448048	CMakeFiles/sorting_workshop.dir/library/test.cpp.obj	61114cff28b52945
+689	951	6981691206051169	sorting_workshop.exe	6c8f30fa0ccf14b5
