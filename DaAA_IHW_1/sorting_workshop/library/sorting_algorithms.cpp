@@ -80,7 +80,7 @@ void insertionSort(int arr[], int n) {
     }
 }
 
-int leftBinarySearch(const int arr[], int key, int left, int right) {
+int binarySearch(const int arr[], int key, int left, int right) {
     int middle;
 
     while (right - left > 1) {
@@ -88,12 +88,14 @@ int leftBinarySearch(const int arr[], int key, int left, int right) {
 
         if (key > arr[middle]) {
             left = middle;
-        } else {
+        } else if (key < arr[middle]) {
             right = middle;
+        } else {
+            return middle + 1;
         }
     }
 
-    return right;
+    return key > arr[left] ? left + 1 : left;
 }
 
 void binaryInsertionSort(int arr[], int n) {
@@ -104,7 +106,7 @@ void binaryInsertionSort(int arr[], int n) {
         j = i - 1;
         current = arr[i];
 
-        position = leftBinarySearch(arr, current, 0, j);
+        position = binarySearch(arr, current, 0, j + 1);
 
         while (j >= position) {
             arr[j + 1] = arr[j];
