@@ -266,6 +266,7 @@ void launchCorrectnessChecker(const int initial_array[], int n) {
 }
 
 void launchTimeChecker(const int initial_array[], int n) {
+    const int count_of_repeats = 10;
     const int count_of_tests = 13;
     const std::string tests[count_of_tests] { "Selection Sort",
                                               "Bubble Sort",
@@ -285,135 +286,176 @@ void launchTimeChecker(const int initial_array[], int n) {
 
     std::cout << "--------------------[START TIME TEST]--------------------\n\n";
 
+    long long nanoseconds;
+
     int array[n];
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    auto start_time_point =  std::chrono::high_resolution_clock::now();
-    selectionSort(array, n);
-    auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    long long milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        selectionSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    bubbleSort(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        bubbleSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    bubbleSortIversonFirst(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        bubbleSortIversonFirst(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    bubbleSortIversonFirstAndSecond(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        bubbleSortIversonFirstAndSecond(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    insertionSort(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        insertionSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    binaryInsertionSort(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        binaryInsertionSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    stableCountingSort(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        stableCountingSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    radixSort10(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        radixSort10(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    mergeSort(array, 0, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        mergeSort(array, 0, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    quickSort(array, 0, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        quickSort(array, 0, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    heapSort(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        heapSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    shellSortTsiurSequence(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        shellSortTsiurSequence(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
 
     std::cout << tests[current_test++] << "\n";
-    copyElements(initial_array, array, n);
-    start_time_point = std::chrono::high_resolution_clock::now();
-    shellSortShellSequence(array, n);
-    elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-    milliseconds = std::chrono::duration_cast<std::chrono::microseconds>(elapsed_time).count();
-    std::cout << milliseconds << " ms." << "\n";
+    nanoseconds = 0;
+    for (int i = 0; i < 10; ++i) {
+        copyElements(initial_array, array, n);
+        auto start_time_point =  std::chrono::high_resolution_clock::now();
+        shellSortShellSequence(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
+    }
+    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
     std::cout << "\n\n";
     std::cout << "--------------------[FINISH TIME TEST]--------------------\n\n";
