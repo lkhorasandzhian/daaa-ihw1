@@ -1,5 +1,6 @@
 #include <iostream>
 #include <chrono>
+#include <fstream>
 #include "sorting_algorithms.h"
 
 bool checkCorrectness(const int arr[], int n) {
@@ -17,7 +18,7 @@ void copyElements(const int a[], int b[], int n) {
     }
 }
 
-void launchCorrectnessChecker(const int initial_array[], int n) {
+void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *output) {
     const int count_of_tests = 13;
     const std::string tests[count_of_tests] { "Selection Sort",
                                               "Bubble Sort",
@@ -36,236 +37,236 @@ void launchCorrectnessChecker(const int initial_array[], int n) {
     int successful_tests = 0, failed_tests = 0;
     int current_test = 0;
 
-    std::cout << "--------------------[START CORRECTNESS TEST]--------------------\n\n";
+    *output << "--------------------[START CORRECTNESS TEST]--------------------\n\n";
 
     int array[n];
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     selectionSort(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     bubbleSort(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     bubbleSortIversonFirst(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     bubbleSortIversonFirstAndSecond(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     insertionSort(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     binaryInsertionSort(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     stableCountingSort(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     radixSort10(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     mergeSort(array, 0, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     quickSort(array, 0, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     heapSort(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     shellSortTsiurSequence(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     copyElements(initial_array, array, n);
     shellSortShellSequence(array, n);
     for (int i : array) {
-        std::cout << i << " ";
+        *output << i << " ";
     }
-    std::cout << "\n";
+    *output << "\n";
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        std::cout << "-SUCCESS-\n";
+        *output << "-SUCCESS-\n";
     } else {
         ++failed_tests;
-        std::cout << "-FAIL-\n";
+        *output << "-FAIL-\n";
     }
 
-    std::cout << "\n\n";
-    std::cout << "--------------------[FINISH CORRECTNESS TEST]--------------------\n";
-    std::cout << "SUCCESSFUL TESTS: " << successful_tests << "/" << count_of_tests << "\n";
-    std::cout << "FAILED TESTS: " << failed_tests << "/" << count_of_tests << "\n\n";
+    *output << "\n\n";
+    *output << "--------------------[FINISH CORRECTNESS TEST]--------------------\n";
+    *output << "SUCCESSFUL TESTS: " << successful_tests << "/" << count_of_tests << "\n";
+    *output << "FAILED TESTS: " << failed_tests << "/" << count_of_tests << "\n\n";
 }
 
-void launchTimeChecker(const int initial_array[], int n) {
+void launchTimeChecker(const int initial_array[], int n, std::ofstream *output) {
     const int count_of_repeats = 10;
     const int count_of_tests = 13;
     const std::string tests[count_of_tests] { "Selection Sort",
@@ -284,13 +285,13 @@ void launchTimeChecker(const int initial_array[], int n) {
     };
     int current_test = 0;
 
-    std::cout << "--------------------[START TIME TEST]--------------------\n\n";
+    *output << "--------------------[START TIME TEST]--------------------\n\n";
 
     long long nanoseconds;
 
     int array[n];
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -299,11 +300,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -312,11 +313,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -325,11 +326,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -338,11 +339,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -351,11 +352,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -364,11 +365,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -377,11 +378,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -390,11 +391,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -403,11 +404,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -416,11 +417,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -429,11 +430,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -442,11 +443,11 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
+    *output << "\n\n";
 
-    std::cout << tests[current_test++] << "\n";
+    *output << tests[current_test++] << "\n";
     nanoseconds = 0;
     for (int i = 0; i < 10; ++i) {
         copyElements(initial_array, array, n);
@@ -455,8 +456,8 @@ void launchTimeChecker(const int initial_array[], int n) {
         auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
-    std::cout << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
+    *output << "Average " << nanoseconds / count_of_repeats << " ns." << "\n";
 
-    std::cout << "\n\n";
-    std::cout << "--------------------[FINISH TIME TEST]--------------------\n\n";
+    *output << "\n\n";
+    *output << "--------------------[FINISH TIME TEST]--------------------\n\n";
 }
