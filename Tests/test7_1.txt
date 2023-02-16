@@ -1,0 +1,1140 @@
+Randomized in range [0;5]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 4990 ns.
+
+
+Bubble Sort
+Average 12770 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 10950 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 8980 ns.
+
+
+Insertion Sort
+Average 2340 ns.
+
+
+Binary Insertion Sort
+Average 3120 ns.
+
+
+Stable Counting Sort
+Average 1200 ns.
+
+
+Radix Sort
+Average 24850 ns.
+
+
+Merge Sort
+Average 11940 ns.
+
+
+Quick Sort
+Average 2340 ns.
+
+
+Heap Sort
+Average 4090 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 1820 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 2130 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 5610 ns.
+
+
+Bubble Sort
+Average 15620 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 13890 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 11510 ns.
+
+
+Insertion Sort
+Average 3080 ns.
+
+
+Binary Insertion Sort
+Average 4370 ns.
+
+
+Stable Counting Sort
+Average 24010 ns.
+
+
+Radix Sort
+Average 24730 ns.
+
+
+Merge Sort
+Average 11500 ns.
+
+
+Quick Sort
+Average 2960 ns.
+
+
+Heap Sort
+Average 4290 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 3240 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 3270 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Almost sorted in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 4410 ns.
+
+
+Bubble Sort
+Average 7610 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 200 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 210 ns.
+
+
+Insertion Sort
+Average 310 ns.
+
+
+Binary Insertion Sort
+Average 1530 ns.
+
+
+Stable Counting Sort
+Average 24350 ns.
+
+
+Radix Sort
+Average 24650 ns.
+
+
+Merge Sort
+Average 10720 ns.
+
+
+Quick Sort
+Average 14750 ns.
+
+
+Heap Sort
+Average 4580 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 780 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 910 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Reverse sorted in range [1;4100]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 4370 ns.
+
+
+Bubble Sort
+Average 7590 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 200 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 200 ns.
+
+
+Insertion Sort
+Average 310 ns.
+
+
+Binary Insertion Sort
+Average 1460 ns.
+
+
+Stable Counting Sort
+Average 23830 ns.
+
+
+Radix Sort
+Average 24580 ns.
+
+
+Merge Sort
+Average 10590 ns.
+
+
+Quick Sort
+Average 15160 ns.
+
+
+Heap Sort
+Average 4310 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 770 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 900 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;5]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 18700 ns.
+
+
+Bubble Sort
+Average 48880 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 41440 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 33040 ns.
+
+
+Insertion Sort
+Average 7700 ns.
+
+
+Binary Insertion Sort
+Average 8780 ns.
+
+
+Stable Counting Sort
+Average 1950 ns.
+
+
+Radix Sort
+Average 48510 ns.
+
+
+Merge Sort
+Average 23690 ns.
+
+
+Quick Sort
+Average 7530 ns.
+
+
+Heap Sort
+Average 10060 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 4690 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 5460 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 20520 ns.
+
+
+Bubble Sort
+Average 61020 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 60860 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 45510 ns.
+
+
+Insertion Sort
+Average 10680 ns.
+
+
+Binary Insertion Sort
+Average 13440 ns.
+
+
+Stable Counting Sort
+Average 26280 ns.
+
+
+Radix Sort
+Average 48540 ns.
+
+
+Merge Sort
+Average 24350 ns.
+
+
+Quick Sort
+Average 7360 ns.
+
+
+Heap Sort
+Average 11330 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 8340 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 11560 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Almost sorted in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 16860 ns.
+
+
+Bubble Sort
+Average 29840 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 330 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 330 ns.
+
+
+Insertion Sort
+Average 510 ns.
+
+
+Binary Insertion Sort
+Average 3400 ns.
+
+
+Stable Counting Sort
+Average 26330 ns.
+
+
+Radix Sort
+Average 48590 ns.
+
+
+Merge Sort
+Average 22210 ns.
+
+
+Quick Sort
+Average 56100 ns.
+
+
+Heap Sort
+Average 11320 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 1730 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 2080 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Reverse sorted in range [1;4100]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 16790 ns.
+
+
+Bubble Sort
+Average 29940 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 350 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 360 ns.
+
+
+Insertion Sort
+Average 520 ns.
+
+
+Binary Insertion Sort
+Average 3400 ns.
+
+
+Stable Counting Sort
+Average 27400 ns.
+
+
+Radix Sort
+Average 48510 ns.
+
+
+Merge Sort
+Average 21850 ns.
+
+
+Quick Sort
+Average 54720 ns.
+
+
+Heap Sort
+Average 10630 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 1700 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 2060 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;5]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 40110 ns.
+
+
+Bubble Sort
+Average 117290 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 108500 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 83480 ns.
+
+
+Insertion Sort
+Average 18130 ns.
+
+
+Binary Insertion Sort
+Average 18340 ns.
+
+
+Stable Counting Sort
+Average 2840 ns.
+
+
+Radix Sort
+Average 72410 ns.
+
+
+Merge Sort
+Average 38950 ns.
+
+
+Quick Sort
+Average 13760 ns.
+
+
+Heap Sort
+Average 17190 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 8200 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 9340 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 43630 ns.
+
+
+Bubble Sort
+Average 128140 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 120520 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 94040 ns.
+
+
+Insertion Sort
+Average 21720 ns.
+
+
+Binary Insertion Sort
+Average 25710 ns.
+
+
+Stable Counting Sort
+Average 27410 ns.
+
+
+Radix Sort
+Average 72470 ns.
+
+
+Merge Sort
+Average 38020 ns.
+
+
+Quick Sort
+Average 12020 ns.
+
+
+Heap Sort
+Average 20070 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 17030 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 19190 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Almost sorted in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 37030 ns.
+
+
+Bubble Sort
+Average 67040 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 510 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 470 ns.
+
+
+Insertion Sort
+Average 730 ns.
+
+
+Binary Insertion Sort
+Average 5580 ns.
+
+
+Stable Counting Sort
+Average 27540 ns.
+
+
+Radix Sort
+Average 72440 ns.
+
+
+Merge Sort
+Average 33710 ns.
+
+
+Quick Sort
+Average 120300 ns.
+
+
+Heap Sort
+Average 19350 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 2880 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 3600 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Reverse sorted in range [1;4100]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 36960 ns.
+
+
+Bubble Sort
+Average 66890 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 450 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 480 ns.
+
+
+Insertion Sort
+Average 760 ns.
+
+
+Binary Insertion Sort
+Average 5590 ns.
+
+
+Stable Counting Sort
+Average 27690 ns.
+
+
+Radix Sort
+Average 72330 ns.
+
+
+Merge Sort
+Average 33610 ns.
+
+
+Quick Sort
+Average 119690 ns.
+
+
+Heap Sort
+Average 18540 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 2820 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 3620 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;5]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 69320 ns.
+
+
+Bubble Sort
+Average 212310 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 195750 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 152640 ns.
+
+
+Insertion Sort
+Average 34150 ns.
+
+
+Binary Insertion Sort
+Average 33060 ns.
+
+
+Stable Counting Sort
+Average 3680 ns.
+
+
+Radix Sort
+Average 96090 ns.
+
+
+Merge Sort
+Average 49100 ns.
+
+
+Quick Sort
+Average 22440 ns.
+
+
+Heap Sort
+Average 26330 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 10830 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 15240 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 75430 ns.
+
+
+Bubble Sort
+Average 231630 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 212470 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 170680 ns.
+
+
+Insertion Sort
+Average 39920 ns.
+
+
+Binary Insertion Sort
+Average 43030 ns.
+
+
+Stable Counting Sort
+Average 28460 ns.
+
+
+Radix Sort
+Average 96370 ns.
+
+
+Merge Sort
+Average 52060 ns.
+
+
+Quick Sort
+Average 18470 ns.
+
+
+Heap Sort
+Average 29350 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 25780 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 29000 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Almost sorted in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 64970 ns.
+
+
+Bubble Sort
+Average 118990 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 630 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 640 ns.
+
+
+Insertion Sort
+Average 1020 ns.
+
+
+Binary Insertion Sort
+Average 7870 ns.
+
+
+Stable Counting Sort
+Average 28770 ns.
+
+
+Radix Sort
+Average 97200 ns.
+
+
+Merge Sort
+Average 45090 ns.
+
+
+Quick Sort
+Average 209460 ns.
+
+
+Heap Sort
+Average 29460 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 3910 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 4730 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Reverse sorted in range [1;4100]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 65050 ns.
+
+
+Bubble Sort
+Average 119080 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 630 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 640 ns.
+
+
+Insertion Sort
+Average 990 ns.
+
+
+Binary Insertion Sort
+Average 7760 ns.
+
+
+Stable Counting Sort
+Average 28840 ns.
+
+
+Radix Sort
+Average 96190 ns.
+
+
+Merge Sort
+Average 45090 ns.
+
+
+Quick Sort
+Average 211900 ns.
+
+
+Heap Sort
+Average 27910 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 3870 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 4750 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;5]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 106260 ns.
+
+
+Bubble Sort
+Average 333800 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 313280 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 243940 ns.
+
+
+Insertion Sort
+Average 54320 ns.
+
+
+Binary Insertion Sort
+Average 48540 ns.
+
+
+Stable Counting Sort
+Average 4470 ns.
+
+
+Radix Sort
+Average 120100 ns.
+
+
+Merge Sort
+Average 66390 ns.
+
+
+Quick Sort
+Average 33610 ns.
+
+
+Heap Sort
+Average 33890 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 16200 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 18500 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Randomized in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 115330 ns.
+
+
+Bubble Sort
+Average 357580 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 344570 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 262680 ns.
+
+
+Insertion Sort
+Average 58710 ns.
+
+
+Binary Insertion Sort
+Average 60750 ns.
+
+
+Stable Counting Sort
+Average 28970 ns.
+
+
+Radix Sort
+Average 120260 ns.
+
+
+Merge Sort
+Average 65900 ns.
+
+
+Quick Sort
+Average 26620 ns.
+
+
+Heap Sort
+Average 40340 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 34600 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 37000 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Almost sorted in range [0;4000]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 100730 ns.
+
+
+Bubble Sort
+Average 185790 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 760 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 810 ns.
+
+
+Insertion Sort
+Average 1230 ns.
+
+
+Binary Insertion Sort
+Average 10130 ns.
+
+
+Stable Counting Sort
+Average 29400 ns.
+
+
+Radix Sort
+Average 120070 ns.
+
+
+Merge Sort
+Average 55900 ns.
+
+
+Quick Sort
+Average 323870 ns.
+
+
+Heap Sort
+Average 38960 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 5040 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 5890 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
+Reverse sorted in range [1;4100]
+--------------------[START TIME TEST]--------------------
+
+Selection Sort
+Average 100750 ns.
+
+
+Bubble Sort
+Average 185660 ns.
+
+
+Bubble Sort (Iverson 1)
+Average 800 ns.
+
+
+Bubble Sort (Iverson 1+2)
+Average 800 ns.
+
+
+Insertion Sort
+Average 1220 ns.
+
+
+Binary Insertion Sort
+Average 9950 ns.
+
+
+Stable Counting Sort
+Average 30410 ns.
+
+
+Radix Sort
+Average 122390 ns.
+
+
+Merge Sort
+Average 55900 ns.
+
+
+Quick Sort
+Average 329040 ns.
+
+
+Heap Sort
+Average 38120 ns.
+
+
+Shell Sort (Tsiur Sequence)
+Average 5050 ns.
+
+
+Shell Sort (Shell Sequence)
+Average 5880 ns.
+
+
+--------------------[FINISH TIME TEST]--------------------
+
