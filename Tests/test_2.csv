@@ -1,0 +1,2080 @@
+Randomized;100;[0,5];Selection Sort;18502
+Randomized;100;[0,5];Bubble Sort;52958
+Randomized;100;[0,5];Bubble Sort (Iverson 1);48733
+Randomized;100;[0,5];Bubble Sort (Iverson 1+2);38377
+Randomized;100;[0,5];Insertion Sort;9090
+Randomized;100;[0,5];Binary Insertion Sort;8921
+Randomized;100;[0,5];Stable Counting Sort;2190
+Randomized;100;[0,5];Radix Sort;48845
+Randomized;100;[0,5];Merge Sort;23429
+Randomized;100;[0,5];Quick Sort;6523
+Randomized;100;[0,5];Heap Sort;8893
+Randomized;100;[0,5];Shell Sort (Tsiur Sequence);4162
+Randomized;100;[0,5];Shell Sort (Shell Sequence);4923
+Randomized;100;[0,4000];Selection Sort;19062
+Randomized;100;[0,4000];Bubble Sort;55735
+Randomized;100;[0,4000];Bubble Sort (Iverson 1);51748
+Randomized;100;[0,4000];Bubble Sort (Iverson 1+2);40749
+Randomized;100;[0,4000];Insertion Sort;10293
+Randomized;100;[0,4000];Binary Insertion Sort;11396
+Randomized;100;[0,4000];Stable Counting Sort;26996
+Randomized;100;[0,4000];Radix Sort;48821
+Randomized;100;[0,4000];Merge Sort;23743
+Randomized;100;[0,4000];Quick Sort;6480
+Randomized;100;[0,4000];Heap Sort;9904
+Randomized;100;[0,4000];Shell Sort (Tsiur Sequence);7465
+Randomized;100;[0,4000];Shell Sort (Shell Sequence);8675
+Almost sorted;100;[0,4000];Selection Sort;17714
+Almost sorted;100;[0,4000];Bubble Sort;33822
+Almost sorted;100;[0,4000];Bubble Sort (Iverson 1);5824
+Almost sorted;100;[0,4000];Bubble Sort (Iverson 1+2);5814
+Almost sorted;100;[0,4000];Insertion Sort;2485
+Almost sorted;100;[0,4000];Binary Insertion Sort;4856
+Almost sorted;100;[0,4000];Stable Counting Sort;5323
+Almost sorted;100;[0,4000];Radix Sort;48773
+Almost sorted;100;[0,4000];Merge Sort;22397
+Almost sorted;100;[0,4000];Quick Sort;6874
+Almost sorted;100;[0,4000];Heap Sort;10004
+Almost sorted;100;[0,4000];Shell Sort (Tsiur Sequence);4219
+Almost sorted;100;[0,4000];Shell Sort (Shell Sequence);4645
+Reverse sorted;100;[1,4100];Selection Sort;16953
+Reverse sorted;100;[1,4100];Bubble Sort;30331
+Reverse sorted;100;[1,4100];Bubble Sort (Iverson 1);681
+Reverse sorted;100;[1,4100];Bubble Sort (Iverson 1+2);683
+Reverse sorted;100;[1,4100];Insertion Sort;863
+Reverse sorted;100;[1,4100];Binary Insertion Sort;3837
+Reverse sorted;100;[1,4100];Stable Counting Sort;2741
+Reverse sorted;100;[1,4100];Radix Sort;48791
+Reverse sorted;100;[1,4100];Merge Sort;22344
+Reverse sorted;100;[1,4100];Quick Sort;34773
+Reverse sorted;100;[1,4100];Heap Sort;10953
+Reverse sorted;100;[1,4100];Shell Sort (Tsiur Sequence);2032
+Reverse sorted;100;[1,4100];Shell Sort (Shell Sequence);2401
+Randomized;200;[0,5];Selection Sort;69020
+Randomized;200;[0,5];Bubble Sort;206669
+Randomized;200;[0,5];Bubble Sort (Iverson 1);189471
+Randomized;200;[0,5];Bubble Sort (Iverson 1+2);147431
+Randomized;200;[0,5];Insertion Sort;32417
+Randomized;200;[0,5];Binary Insertion Sort;30028
+Randomized;200;[0,5];Stable Counting Sort;4260
+Randomized;200;[0,5];Radix Sort;96741
+Randomized;200;[0,5];Merge Sort;48769
+Randomized;200;[0,5];Quick Sort;20582
+Randomized;200;[0,5];Heap Sort;23900
+Randomized;200;[0,5];Shell Sort (Tsiur Sequence);10409
+Randomized;200;[0,5];Shell Sort (Shell Sequence);11691
+Randomized;200;[0,4000];Selection Sort;72636
+Randomized;200;[0,4000];Bubble Sort;225391
+Randomized;200;[0,4000];Bubble Sort (Iverson 1);218873
+Randomized;200;[0,4000];Bubble Sort (Iverson 1+2);168313
+Randomized;200;[0,4000];Insertion Sort;38848
+Randomized;200;[0,4000];Binary Insertion Sort;39826
+Randomized;200;[0,4000];Stable Counting Sort;29231
+Randomized;200;[0,4000];Radix Sort;97005
+Randomized;200;[0,4000];Merge Sort;49618
+Randomized;200;[0,4000];Quick Sort;16349
+Randomized;200;[0,4000];Heap Sort;28483
+Randomized;200;[0,4000];Shell Sort (Tsiur Sequence);20929
+Randomized;200;[0,4000];Shell Sort (Shell Sequence);25763
+Almost sorted;200;[0,4000];Selection Sort;66924
+Almost sorted;200;[0,4000];Bubble Sort;127519
+Almost sorted;200;[0,4000];Bubble Sort (Iverson 1);11662
+Almost sorted;200;[0,4000];Bubble Sort (Iverson 1+2);11736
+Almost sorted;200;[0,4000];Insertion Sort;4998
+Almost sorted;200;[0,4000];Binary Insertion Sort;11320
+Almost sorted;200;[0,4000];Stable Counting Sort;7442
+Almost sorted;200;[0,4000];Radix Sort;96734
+Almost sorted;200;[0,4000];Merge Sort;45737
+Almost sorted;200;[0,4000];Quick Sort;21009
+Almost sorted;200;[0,4000];Heap Sort;27563
+Almost sorted;200;[0,4000];Shell Sort (Tsiur Sequence);9350
+Almost sorted;200;[0,4000];Shell Sort (Shell Sequence);9923
+Reverse sorted;200;[1,4100];Selection Sort;65181
+Reverse sorted;200;[1,4100];Bubble Sort;120378
+Reverse sorted;200;[1,4100];Bubble Sort (Iverson 1);1299
+Reverse sorted;200;[1,4100];Bubble Sort (Iverson 1+2);1306
+Reverse sorted;200;[1,4100];Insertion Sort;1644
+Reverse sorted;200;[1,4100];Binary Insertion Sort;9285
+Reverse sorted;200;[1,4100];Stable Counting Sort;5428
+Reverse sorted;200;[1,4100];Radix Sort;96915
+Reverse sorted;200;[1,4100];Merge Sort;45482
+Reverse sorted;200;[1,4100];Quick Sort;131297
+Reverse sorted;200;[1,4100];Heap Sort;29574
+Reverse sorted;200;[1,4100];Shell Sort (Tsiur Sequence);4574
+Reverse sorted;200;[1,4100];Shell Sort (Shell Sequence);5420
+Randomized;300;[0,5];Selection Sort;150648
+Randomized;300;[0,5];Bubble Sort;458763
+Randomized;300;[0,5];Bubble Sort (Iverson 1);420475
+Randomized;300;[0,5];Bubble Sort (Iverson 1+2);328827
+Randomized;300;[0,5];Insertion Sort;70008
+Randomized;300;[0,5];Binary Insertion Sort;63485
+Randomized;300;[0,5];Stable Counting Sort;6288
+Randomized;300;[0,5];Radix Sort;144915
+Randomized;300;[0,5];Merge Sort;76367
+Randomized;300;[0,5];Quick Sort;41195
+Randomized;300;[0,5];Heap Sort;41594
+Randomized;300;[0,5];Shell Sort (Tsiur Sequence);18344
+Randomized;300;[0,5];Shell Sort (Shell Sequence);19903
+Randomized;300;[0,4000];Selection Sort;158717
+Randomized;300;[0,4000];Bubble Sort;498548
+Randomized;300;[0,4000];Bubble Sort (Iverson 1);476467
+Randomized;300;[0,4000];Bubble Sort (Iverson 1+2);369421
+Randomized;300;[0,4000];Insertion Sort;83731
+Randomized;300;[0,4000];Binary Insertion Sort;80953
+Randomized;300;[0,4000];Stable Counting Sort;31213
+Randomized;300;[0,4000];Radix Sort;144896
+Randomized;300;[0,4000];Merge Sort;79511
+Randomized;300;[0,4000];Quick Sort;28700
+Randomized;300;[0,4000];Heap Sort;50453
+Randomized;300;[0,4000];Shell Sort (Tsiur Sequence);41436
+Randomized;300;[0,4000];Shell Sort (Shell Sequence);41251
+Almost sorted;300;[0,4000];Selection Sort;147321
+Almost sorted;300;[0,4000];Bubble Sort;279698
+Almost sorted;300;[0,4000];Bubble Sort (Iverson 1);17482
+Almost sorted;300;[0,4000];Bubble Sort (Iverson 1+2);17561
+Almost sorted;300;[0,4000];Insertion Sort;7528
+Almost sorted;300;[0,4000];Binary Insertion Sort;18592
+Almost sorted;300;[0,4000];Stable Counting Sort;9399
+Almost sorted;300;[0,4000];Radix Sort;144871
+Almost sorted;300;[0,4000];Merge Sort;71082
+Almost sorted;300;[0,4000];Quick Sort;42195
+Almost sorted;300;[0,4000];Heap Sort;48556
+Almost sorted;300;[0,4000];Shell Sort (Tsiur Sequence);14246
+Almost sorted;300;[0,4000];Shell Sort (Shell Sequence);16169
+Reverse sorted;300;[1,4100];Selection Sort;144701
+Reverse sorted;300;[1,4100];Bubble Sort;269001
+Reverse sorted;300;[1,4100];Bubble Sort (Iverson 1);1923
+Reverse sorted;300;[1,4100];Bubble Sort (Iverson 1+2);1931
+Reverse sorted;300;[1,4100];Insertion Sort;2458
+Reverse sorted;300;[1,4100];Binary Insertion Sort;15466
+Reverse sorted;300;[1,4100];Stable Counting Sort;8094
+Reverse sorted;300;[1,4100];Radix Sort;144726
+Reverse sorted;300;[1,4100];Merge Sort;69663
+Reverse sorted;300;[1,4100];Quick Sort;290129
+Reverse sorted;300;[1,4100];Heap Sort;51554
+Reverse sorted;300;[1,4100];Shell Sort (Tsiur Sequence);7198
+Reverse sorted;300;[1,4100];Shell Sort (Shell Sequence);9203
+Randomized;400;[0,5];Selection Sort;263890
+Randomized;400;[0,5];Bubble Sort;810649
+Randomized;400;[0,5];Bubble Sort (Iverson 1);751691
+Randomized;400;[0,5];Bubble Sort (Iverson 1+2);587869
+Randomized;400;[0,5];Insertion Sort;124982
+Randomized;400;[0,5];Binary Insertion Sort;109884
+Randomized;400;[0,5];Stable Counting Sort;8342
+Randomized;400;[0,5];Radix Sort;192837
+Randomized;400;[0,5];Merge Sort;102039
+Randomized;400;[0,5];Quick Sort;65920
+Randomized;400;[0,5];Heap Sort;62216
+Randomized;400;[0,5];Shell Sort (Tsiur Sequence);25847
+Randomized;400;[0,5];Shell Sort (Shell Sequence);31801
+Randomized;400;[0,4000];Selection Sort;278144
+Randomized;400;[0,4000];Bubble Sort;872977
+Randomized;400;[0,4000];Bubble Sort (Iverson 1);857036
+Randomized;400;[0,4000];Bubble Sort (Iverson 1+2);648548
+Randomized;400;[0,4000];Insertion Sort;145384
+Randomized;400;[0,4000];Binary Insertion Sort;133887
+Randomized;400;[0,4000];Stable Counting Sort;33405
+Randomized;400;[0,4000];Radix Sort;192921
+Randomized;400;[0,4000];Merge Sort;109611
+Randomized;400;[0,4000];Quick Sort;44325
+Randomized;400;[0,4000];Heap Sort;72407
+Randomized;400;[0,4000];Shell Sort (Tsiur Sequence);62053
+Randomized;400;[0,4000];Shell Sort (Shell Sequence);68707
+Almost sorted;400;[0,4000];Selection Sort;258933
+Almost sorted;400;[0,4000];Bubble Sort;491707
+Almost sorted;400;[0,4000];Bubble Sort (Iverson 1);23315
+Almost sorted;400;[0,4000];Bubble Sort (Iverson 1+2);23433
+Almost sorted;400;[0,4000];Insertion Sort;10085
+Almost sorted;400;[0,4000];Binary Insertion Sort;25966
+Almost sorted;400;[0,4000];Stable Counting Sort;11424
+Almost sorted;400;[0,4000];Radix Sort;192784
+Almost sorted;400;[0,4000];Merge Sort;93151
+Almost sorted;400;[0,4000];Quick Sort;70256
+Almost sorted;400;[0,4000];Heap Sort;69247
+Almost sorted;400;[0,4000];Shell Sort (Tsiur Sequence);19733
+Almost sorted;400;[0,4000];Shell Sort (Shell Sequence);21626
+Reverse sorted;400;[1,4100];Selection Sort;255098
+Reverse sorted;400;[1,4100];Bubble Sort;482803
+Reverse sorted;400;[1,4100];Bubble Sort (Iverson 1);2532
+Reverse sorted;400;[1,4100];Bubble Sort (Iverson 1+2);2564
+Reverse sorted;400;[1,4100];Insertion Sort;3247
+Reverse sorted;400;[1,4100];Binary Insertion Sort;21728
+Reverse sorted;400;[1,4100];Stable Counting Sort;10613
+Reverse sorted;400;[1,4100];Radix Sort;192954
+Reverse sorted;400;[1,4100];Merge Sort;92796
+Reverse sorted;400;[1,4100];Quick Sort;511198
+Reverse sorted;400;[1,4100];Heap Sort;73453
+Reverse sorted;400;[1,4100];Shell Sort (Tsiur Sequence);10224
+Reverse sorted;400;[1,4100];Shell Sort (Shell Sequence);12211
+Randomized;500;[0,5];Selection Sort;412947
+Randomized;500;[0,5];Bubble Sort;1319648
+Randomized;500;[0,5];Bubble Sort (Iverson 1);1179611
+Randomized;500;[0,5];Bubble Sort (Iverson 1+2);922731
+Randomized;500;[0,5];Insertion Sort;202670
+Randomized;500;[0,5];Binary Insertion Sort;171572
+Randomized;500;[0,5];Stable Counting Sort;10343
+Randomized;500;[0,5];Radix Sort;241175
+Randomized;500;[0,5];Merge Sort;132303
+Randomized;500;[0,5];Quick Sort;96447
+Randomized;500;[0,5];Heap Sort;81185
+Randomized;500;[0,5];Shell Sort (Tsiur Sequence);34480
+Randomized;500;[0,5];Shell Sort (Shell Sequence);37631
+Randomized;500;[0,4000];Selection Sort;428579
+Randomized;500;[0,4000];Bubble Sort;1371748
+Randomized;500;[0,4000];Bubble Sort (Iverson 1);1363720
+Randomized;500;[0,4000];Bubble Sort (Iverson 1+2);1018980
+Randomized;500;[0,4000];Insertion Sort;228589
+Randomized;500;[0,4000];Binary Insertion Sort;200857
+Randomized;500;[0,4000];Stable Counting Sort;35171
+Randomized;500;[0,4000];Radix Sort;241280
+Randomized;500;[0,4000];Merge Sort;144371
+Randomized;500;[0,4000];Quick Sort;57691
+Randomized;500;[0,4000];Heap Sort;96713
+Randomized;500;[0,4000];Shell Sort (Tsiur Sequence);81357
+Randomized;500;[0,4000];Shell Sort (Shell Sequence);89504
+Almost sorted;500;[0,4000];Selection Sort;402001
+Almost sorted;500;[0,4000];Bubble Sort;761643
+Almost sorted;500;[0,4000];Bubble Sort (Iverson 1);29119
+Almost sorted;500;[0,4000];Bubble Sort (Iverson 1+2);29272
+Almost sorted;500;[0,4000];Insertion Sort;12658
+Almost sorted;500;[0,4000];Binary Insertion Sort;33776
+Almost sorted;500;[0,4000];Stable Counting Sort;13462
+Almost sorted;500;[0,4000];Radix Sort;241013
+Almost sorted;500;[0,4000];Merge Sort;119511
+Almost sorted;500;[0,4000];Quick Sort;106872
+Almost sorted;500;[0,4000];Heap Sort;90038
+Almost sorted;500;[0,4000];Shell Sort (Tsiur Sequence);25424
+Almost sorted;500;[0,4000];Shell Sort (Shell Sequence);28397
+Reverse sorted;500;[1,4100];Selection Sort;396940
+Reverse sorted;500;[1,4100];Bubble Sort;743515
+Reverse sorted;500;[1,4100];Bubble Sort (Iverson 1);3155
+Reverse sorted;500;[1,4100];Bubble Sort (Iverson 1+2);3177
+Reverse sorted;500;[1,4100];Insertion Sort;4019
+Reverse sorted;500;[1,4100];Binary Insertion Sort;28483
+Reverse sorted;500;[1,4100];Stable Counting Sort;13315
+Reverse sorted;500;[1,4100];Radix Sort;241005
+Reverse sorted;500;[1,4100];Merge Sort;118605
+Reverse sorted;500;[1,4100];Quick Sort;789266
+Reverse sorted;500;[1,4100];Heap Sort;95055
+Reverse sorted;500;[1,4100];Shell Sort (Tsiur Sequence);13194
+Reverse sorted;500;[1,4100];Shell Sort (Shell Sequence);15201
+Randomized;600;[0,5];Selection Sort;584846
+Randomized;600;[0,5];Bubble Sort;1856811
+Randomized;600;[0,5];Bubble Sort (Iverson 1);1686694
+Randomized;600;[0,5];Bubble Sort (Iverson 1+2);1338750
+Randomized;600;[0,5];Insertion Sort;290474
+Randomized;600;[0,5];Binary Insertion Sort;241962
+Randomized;600;[0,5];Stable Counting Sort;12402
+Randomized;600;[0,5];Radix Sort;289189
+Randomized;600;[0,5];Merge Sort;159631
+Randomized;600;[0,5];Quick Sort;135832
+Randomized;600;[0,5];Heap Sort;100487
+Randomized;600;[0,5];Shell Sort (Tsiur Sequence);41671
+Randomized;600;[0,5];Shell Sort (Shell Sequence);50476
+Randomized;600;[0,4000];Selection Sort;609066
+Randomized;600;[0,4000];Bubble Sort;1977703
+Randomized;600;[0,4000];Bubble Sort (Iverson 1);1943933
+Randomized;600;[0,4000];Bubble Sort (Iverson 1+2);1476035
+Randomized;600;[0,4000];Insertion Sort;330176
+Randomized;600;[0,4000];Binary Insertion Sort;280807
+Randomized;600;[0,4000];Stable Counting Sort;37297
+Randomized;600;[0,4000];Radix Sort;289309
+Randomized;600;[0,4000];Merge Sort;176843
+Randomized;600;[0,4000];Quick Sort;71571
+Randomized;600;[0,4000];Heap Sort;120275
+Randomized;600;[0,4000];Shell Sort (Tsiur Sequence);100730
+Randomized;600;[0,4000];Shell Sort (Shell Sequence);107821
+Almost sorted;600;[0,4000];Selection Sort;576359
+Almost sorted;600;[0,4000];Bubble Sort;1101762
+Almost sorted;600;[0,4000];Bubble Sort (Iverson 1);34860
+Almost sorted;600;[0,4000];Bubble Sort (Iverson 1+2);35049
+Almost sorted;600;[0,4000];Insertion Sort;15118
+Almost sorted;600;[0,4000];Binary Insertion Sort;41988
+Almost sorted;600;[0,4000];Stable Counting Sort;18518
+Almost sorted;600;[0,4000];Radix Sort;289140
+Almost sorted;600;[0,4000];Merge Sort;144332
+Almost sorted;600;[0,4000];Quick Sort;117255
+Almost sorted;600;[0,4000];Heap Sort;113170
+Almost sorted;600;[0,4000];Shell Sort (Tsiur Sequence);30627
+Almost sorted;600;[0,4000];Shell Sort (Shell Sequence);34765
+Reverse sorted;600;[1,4100];Selection Sort;569821
+Reverse sorted;600;[1,4100];Bubble Sort;1069607
+Reverse sorted;600;[1,4100];Bubble Sort (Iverson 1);3777
+Reverse sorted;600;[1,4100];Bubble Sort (Iverson 1+2);3784
+Reverse sorted;600;[1,4100];Insertion Sort;4795
+Reverse sorted;600;[1,4100];Binary Insertion Sort;35279
+Reverse sorted;600;[1,4100];Stable Counting Sort;15830
+Reverse sorted;600;[1,4100];Radix Sort;289005
+Reverse sorted;600;[1,4100];Merge Sort;143508
+Reverse sorted;600;[1,4100];Quick Sort;1126084
+Reverse sorted;600;[1,4100];Heap Sort;118587
+Reverse sorted;600;[1,4100];Shell Sort (Tsiur Sequence);16214
+Reverse sorted;600;[1,4100];Shell Sort (Shell Sequence);20595
+Randomized;700;[0,5];Selection Sort;789588
+Randomized;700;[0,5];Bubble Sort;2513032
+Randomized;700;[0,5];Bubble Sort (Iverson 1);2282641
+Randomized;700;[0,5];Bubble Sort (Iverson 1+2);1794598
+Randomized;700;[0,5];Insertion Sort;379142
+Randomized;700;[0,5];Binary Insertion Sort;310068
+Randomized;700;[0,5];Stable Counting Sort;14440
+Randomized;700;[0,5];Radix Sort;329779
+Randomized;700;[0,5];Merge Sort;191616
+Randomized;700;[0,5];Quick Sort;176342
+Randomized;700;[0,5];Heap Sort;121378
+Randomized;700;[0,5];Shell Sort (Tsiur Sequence);51293
+Randomized;700;[0,5];Shell Sort (Shell Sequence);54548
+Randomized;700;[0,4000];Selection Sort;822365
+Randomized;700;[0,4000];Bubble Sort;2698609
+Randomized;700;[0,4000];Bubble Sort (Iverson 1);2704759
+Randomized;700;[0,4000];Bubble Sort (Iverson 1+2);2002682
+Randomized;700;[0,4000];Insertion Sort;450525
+Randomized;700;[0,4000];Binary Insertion Sort;372331
+Randomized;700;[0,4000];Stable Counting Sort;39412
+Randomized;700;[0,4000];Radix Sort;337121
+Randomized;700;[0,4000];Merge Sort;210714
+Randomized;700;[0,4000];Quick Sort;88411
+Randomized;700;[0,4000];Heap Sort;145742
+Randomized;700;[0,4000];Shell Sort (Tsiur Sequence);127789
+Randomized;700;[0,4000];Shell Sort (Shell Sequence);138289
+Almost sorted;700;[0,4000];Selection Sort;781247
+Almost sorted;700;[0,4000];Bubble Sort;1480836
+Almost sorted;700;[0,4000];Bubble Sort (Iverson 1);40672
+Almost sorted;700;[0,4000];Bubble Sort (Iverson 1+2);41005
+Almost sorted;700;[0,4000];Insertion Sort;17646
+Almost sorted;700;[0,4000];Binary Insertion Sort;49827
+Almost sorted;700;[0,4000];Stable Counting Sort;20597
+Almost sorted;700;[0,4000];Radix Sort;337021
+Almost sorted;700;[0,4000];Merge Sort;169189
+Almost sorted;700;[0,4000];Quick Sort;134567
+Almost sorted;700;[0,4000];Heap Sort;135669
+Almost sorted;700;[0,4000];Shell Sort (Tsiur Sequence);36416
+Almost sorted;700;[0,4000];Shell Sort (Shell Sequence);38463
+Reverse sorted;700;[1,4100];Selection Sort;773895
+Reverse sorted;700;[1,4100];Bubble Sort;1455487
+Reverse sorted;700;[1,4100];Bubble Sort (Iverson 1);4395
+Reverse sorted;700;[1,4100];Bubble Sort (Iverson 1+2);4411
+Reverse sorted;700;[1,4100];Insertion Sort;5629
+Reverse sorted;700;[1,4100];Binary Insertion Sort;42224
+Reverse sorted;700;[1,4100];Stable Counting Sort;18510
+Reverse sorted;700;[1,4100];Radix Sort;336954
+Reverse sorted;700;[1,4100];Merge Sort;170032
+Reverse sorted;700;[1,4100];Quick Sort;1522802
+Reverse sorted;700;[1,4100];Heap Sort;141036
+Reverse sorted;700;[1,4100];Shell Sort (Tsiur Sequence);19193
+Reverse sorted;700;[1,4100];Shell Sort (Shell Sequence);23865
+Randomized;800;[0,5];Selection Sort;1028008
+Randomized;800;[0,5];Bubble Sort;3290754
+Randomized;800;[0,5];Bubble Sort (Iverson 1);3006140
+Randomized;800;[0,5];Bubble Sort (Iverson 1+2);2355565
+Randomized;800;[0,5];Insertion Sort;498254
+Randomized;800;[0,5];Binary Insertion Sort;403085
+Randomized;800;[0,5];Stable Counting Sort;16457
+Randomized;800;[0,5];Radix Sort;385180
+Randomized;800;[0,5];Merge Sort;214315
+Randomized;800;[0,5];Quick Sort;226382
+Randomized;800;[0,5];Heap Sort;142571
+Randomized;800;[0,5];Shell Sort (Tsiur Sequence);59602
+Randomized;800;[0,5];Shell Sort (Shell Sequence);80381
+Randomized;800;[0,4000];Selection Sort;1064880
+Randomized;800;[0,4000];Bubble Sort;3530154
+Randomized;800;[0,4000];Bubble Sort (Iverson 1);3556947
+Randomized;800;[0,4000];Bubble Sort (Iverson 1+2);2626614
+Randomized;800;[0,4000];Insertion Sort;586772
+Randomized;800;[0,4000];Binary Insertion Sort;476392
+Randomized;800;[0,4000];Stable Counting Sort;41403
+Randomized;800;[0,4000];Radix Sort;384995
+Randomized;800;[0,4000];Merge Sort;240817
+Randomized;800;[0,4000];Quick Sort;105453
+Randomized;800;[0,4000];Heap Sort;170684
+Randomized;800;[0,4000];Shell Sort (Tsiur Sequence);148823
+Randomized;800;[0,4000];Shell Sort (Shell Sequence);169309
+Almost sorted;800;[0,4000];Selection Sort;1017846
+Almost sorted;800;[0,4000];Bubble Sort;1930107
+Almost sorted;800;[0,4000];Bubble Sort (Iverson 1);46487
+Almost sorted;800;[0,4000];Bubble Sort (Iverson 1+2);46746
+Almost sorted;800;[0,4000];Insertion Sort;20234
+Almost sorted;800;[0,4000];Binary Insertion Sort;58005
+Almost sorted;800;[0,4000];Stable Counting Sort;22572
+Almost sorted;800;[0,4000];Radix Sort;377151
+Almost sorted;800;[0,4000];Merge Sort;193221
+Almost sorted;800;[0,4000];Quick Sort;160259
+Almost sorted;800;[0,4000];Heap Sort;159328
+Almost sorted;800;[0,4000];Shell Sort (Tsiur Sequence);42162
+Almost sorted;800;[0,4000];Shell Sort (Shell Sequence);45759
+Reverse sorted;800;[1,4100];Selection Sort;1009572
+Reverse sorted;800;[1,4100];Bubble Sort;1900112
+Reverse sorted;800;[1,4100];Bubble Sort (Iverson 1);5001
+Reverse sorted;800;[1,4100];Bubble Sort (Iverson 1+2);5026
+Reverse sorted;800;[1,4100];Insertion Sort;6413
+Reverse sorted;800;[1,4100];Binary Insertion Sort;48961
+Reverse sorted;800;[1,4100];Stable Counting Sort;21229
+Reverse sorted;800;[1,4100];Radix Sort;385244
+Reverse sorted;800;[1,4100];Merge Sort;191477
+Reverse sorted;800;[1,4100];Quick Sort;1983215
+Reverse sorted;800;[1,4100];Heap Sort;164608
+Reverse sorted;800;[1,4100];Shell Sort (Tsiur Sequence);22601
+Reverse sorted;800;[1,4100];Shell Sort (Shell Sequence);27249
+Randomized;900;[0,5];Selection Sort;1296480
+Randomized;900;[0,5];Bubble Sort;4171319
+Randomized;900;[0,5];Bubble Sort (Iverson 1);3799314
+Randomized;900;[0,5];Bubble Sort (Iverson 1+2);2971814
+Randomized;900;[0,5];Insertion Sort;625167
+Randomized;900;[0,5];Binary Insertion Sort;503558
+Randomized;900;[0,5];Stable Counting Sort;18576
+Randomized;900;[0,5];Radix Sort;440954
+Randomized;900;[0,5];Merge Sort;251608
+Randomized;900;[0,5];Quick Sort;278057
+Randomized;900;[0,5];Heap Sort;161845
+Randomized;900;[0,5];Shell Sort (Tsiur Sequence);66783
+Randomized;900;[0,5];Shell Sort (Shell Sequence);90707
+Randomized;900;[0,4000];Selection Sort;1342230
+Randomized;900;[0,4000];Bubble Sort;4475733
+Randomized;900;[0,4000];Bubble Sort (Iverson 1);4337234
+Randomized;900;[0,4000];Bubble Sort (Iverson 1+2);3310922
+Randomized;900;[0,4000];Insertion Sort;729399
+Randomized;900;[0,4000];Binary Insertion Sort;584019
+Randomized;900;[0,4000];Stable Counting Sort;43508
+Randomized;900;[0,4000];Radix Sort;433067
+Randomized;900;[0,4000];Merge Sort;278020
+Randomized;900;[0,4000];Quick Sort;118912
+Randomized;900;[0,4000];Heap Sort;197300
+Randomized;900;[0,4000];Shell Sort (Tsiur Sequence);171450
+Randomized;900;[0,4000];Shell Sort (Shell Sequence);195483
+Almost sorted;900;[0,4000];Selection Sort;1285234
+Almost sorted;900;[0,4000];Bubble Sort;2435379
+Almost sorted;900;[0,4000];Bubble Sort (Iverson 1);52523
+Almost sorted;900;[0,4000];Bubble Sort (Iverson 1+2);52616
+Almost sorted;900;[0,4000];Insertion Sort;22569
+Almost sorted;900;[0,4000];Binary Insertion Sort;66099
+Almost sorted;900;[0,4000];Stable Counting Sort;24621
+Almost sorted;900;[0,4000];Radix Sort;423721
+Almost sorted;900;[0,4000];Merge Sort;221508
+Almost sorted;900;[0,4000];Quick Sort;191817
+Almost sorted;900;[0,4000];Heap Sort;181609
+Almost sorted;900;[0,4000];Shell Sort (Tsiur Sequence);48299
+Almost sorted;900;[0,4000];Shell Sort (Shell Sequence);52470
+Reverse sorted;900;[1,4100];Selection Sort;1275999
+Reverse sorted;900;[1,4100];Bubble Sort;2404565
+Reverse sorted;900;[1,4100];Bubble Sort (Iverson 1);5626
+Reverse sorted;900;[1,4100];Bubble Sort (Iverson 1+2);5671
+Reverse sorted;900;[1,4100];Insertion Sort;7190
+Reverse sorted;900;[1,4100];Binary Insertion Sort;55874
+Reverse sorted;900;[1,4100];Stable Counting Sort;23920
+Reverse sorted;900;[1,4100];Radix Sort;432885
+Reverse sorted;900;[1,4100];Merge Sort;219954
+Reverse sorted;900;[1,4100];Quick Sort;2507345
+Reverse sorted;900;[1,4100];Heap Sort;187629
+Reverse sorted;900;[1,4100];Shell Sort (Tsiur Sequence);25983
+Reverse sorted;900;[1,4100];Shell Sort (Shell Sequence);30638
+Randomized;1000;[0,5];Selection Sort;1596892
+Randomized;1000;[0,5];Bubble Sort;5166716
+Randomized;1000;[0,5];Bubble Sort (Iverson 1);4757515
+Randomized;1000;[0,5];Bubble Sort (Iverson 1+2);3690897
+Randomized;1000;[0,5];Insertion Sort;766821
+Randomized;1000;[0,5];Binary Insertion Sort;608931
+Randomized;1000;[0,5];Stable Counting Sort;21090
+Randomized;1000;[0,5];Radix Sort;516865
+Randomized;1000;[0,5];Merge Sort;269941
+Randomized;1000;[0,5];Quick Sort;335742
+Randomized;1000;[0,5];Heap Sort;180691
+Randomized;1000;[0,5];Shell Sort (Tsiur Sequence);74304
+Randomized;1000;[0,5];Shell Sort (Shell Sequence);91819
+Randomized;1000;[0,4000];Selection Sort;1647876
+Randomized;1000;[0,4000];Bubble Sort;5504048
+Randomized;1000;[0,4000];Bubble Sort (Iverson 1);5434262
+Randomized;1000;[0,4000];Bubble Sort (Iverson 1+2);4064026
+Randomized;1000;[0,4000];Insertion Sort;883043
+Randomized;1000;[0,4000];Binary Insertion Sort;696717
+Randomized;1000;[0,4000];Stable Counting Sort;45466
+Randomized;1000;[0,4000];Radix Sort;517037
+Randomized;1000;[0,4000];Merge Sort;304579
+Randomized;1000;[0,4000];Quick Sort;140291
+Randomized;1000;[0,4000];Heap Sort;222200
+Randomized;1000;[0,4000];Shell Sort (Tsiur Sequence);195470
+Randomized;1000;[0,4000];Shell Sort (Shell Sequence);216798
+Almost sorted;1000;[0,4000];Selection Sort;1584470
+Almost sorted;1000;[0,4000];Bubble Sort;3001501
+Almost sorted;1000;[0,4000];Bubble Sort (Iverson 1);58152
+Almost sorted;1000;[0,4000];Bubble Sort (Iverson 1+2);58524
+Almost sorted;1000;[0,4000];Insertion Sort;25276
+Almost sorted;1000;[0,4000];Binary Insertion Sort;74264
+Almost sorted;1000;[0,4000];Stable Counting Sort;26912
+Almost sorted;1000;[0,4000];Radix Sort;517059
+Almost sorted;1000;[0,4000];Merge Sort;241708
+Almost sorted;1000;[0,4000];Quick Sort;230948
+Almost sorted;1000;[0,4000];Heap Sort;203322
+Almost sorted;1000;[0,4000];Shell Sort (Tsiur Sequence);54030
+Almost sorted;1000;[0,4000];Shell Sort (Shell Sequence);61339
+Reverse sorted;1000;[1,4100];Selection Sort;1573466
+Reverse sorted;1000;[1,4100];Bubble Sort;2968394
+Reverse sorted;1000;[1,4100];Bubble Sort (Iverson 1);6245
+Reverse sorted;1000;[1,4100];Bubble Sort (Iverson 1+2);6422
+Reverse sorted;1000;[1,4100];Insertion Sort;7988
+Reverse sorted;1000;[1,4100];Binary Insertion Sort;62476
+Reverse sorted;1000;[1,4100];Stable Counting Sort;26716
+Reverse sorted;1000;[1,4100];Radix Sort;521655
+Reverse sorted;1000;[1,4100];Merge Sort;240273
+Reverse sorted;1000;[1,4100];Quick Sort;3098589
+Reverse sorted;1000;[1,4100];Heap Sort;211565
+Reverse sorted;1000;[1,4100];Shell Sort (Tsiur Sequence);29466
+Reverse sorted;1000;[1,4100];Shell Sort (Shell Sequence);34014
+Randomized;1100;[0,5];Selection Sort;1928695
+Randomized;1100;[0,5];Bubble Sort;6292948
+Randomized;1100;[0,5];Bubble Sort (Iverson 1);5762145
+Randomized;1100;[0,5];Bubble Sort (Iverson 1+2);4511460
+Randomized;1100;[0,5];Insertion Sort;915773
+Randomized;1100;[0,5];Binary Insertion Sort;730667
+Randomized;1100;[0,5];Stable Counting Sort;22571
+Randomized;1100;[0,5];Radix Sort;529244
+Randomized;1100;[0,5];Merge Sort;307104
+Randomized;1100;[0,5];Quick Sort;398895
+Randomized;1100;[0,5];Heap Sort;202712
+Randomized;1100;[0,5];Shell Sort (Tsiur Sequence);82835
+Randomized;1100;[0,5];Shell Sort (Shell Sequence);101532
+Randomized;1100;[0,4000];Selection Sort;1984397
+Randomized;1100;[0,4000];Bubble Sort;6673661
+Randomized;1100;[0,4000];Bubble Sort (Iverson 1);6567048
+Randomized;1100;[0,4000];Bubble Sort (Iverson 1+2);4912542
+Randomized;1100;[0,4000];Insertion Sort;1057474
+Randomized;1100;[0,4000];Binary Insertion Sort;824622
+Randomized;1100;[0,4000];Stable Counting Sort;47334
+Randomized;1100;[0,4000];Radix Sort;529261
+Randomized;1100;[0,4000];Merge Sort;343493
+Randomized;1100;[0,4000];Quick Sort;157726
+Randomized;1100;[0,4000];Heap Sort;249056
+Randomized;1100;[0,4000];Shell Sort (Tsiur Sequence);214504
+Randomized;1100;[0,4000];Shell Sort (Shell Sequence);222990
+Almost sorted;1100;[0,4000];Selection Sort;1914642
+Almost sorted;1100;[0,4000];Bubble Sort;3627356
+Almost sorted;1100;[0,4000];Bubble Sort (Iverson 1);64030
+Almost sorted;1100;[0,4000];Bubble Sort (Iverson 1+2);64364
+Almost sorted;1100;[0,4000];Insertion Sort;27714
+Almost sorted;1100;[0,4000];Binary Insertion Sort;83327
+Almost sorted;1100;[0,4000];Stable Counting Sort;31744
+Almost sorted;1100;[0,4000];Radix Sort;528945
+Almost sorted;1100;[0,4000];Merge Sort;269251
+Almost sorted;1100;[0,4000];Quick Sort;244604
+Almost sorted;1100;[0,4000];Heap Sort;228687
+Almost sorted;1100;[0,4000];Shell Sort (Tsiur Sequence);59919
+Almost sorted;1100;[0,4000];Shell Sort (Shell Sequence);67071
+Reverse sorted;1100;[1,4100];Selection Sort;1902792
+Reverse sorted;1100;[1,4100];Bubble Sort;3590248
+Reverse sorted;1100;[1,4100];Bubble Sort (Iverson 1);6852
+Reverse sorted;1100;[1,4100];Bubble Sort (Iverson 1+2);6912
+Reverse sorted;1100;[1,4100];Insertion Sort;8768
+Reverse sorted;1100;[1,4100];Binary Insertion Sort;70019
+Reverse sorted;1100;[1,4100];Stable Counting Sort;29187
+Reverse sorted;1100;[1,4100];Radix Sort;529063
+Reverse sorted;1100;[1,4100];Merge Sort;267602
+Reverse sorted;1100;[1,4100];Quick Sort;3749601
+Reverse sorted;1100;[1,4100];Heap Sort;235907
+Reverse sorted;1100;[1,4100];Shell Sort (Tsiur Sequence);32767
+Reverse sorted;1100;[1,4100];Shell Sort (Shell Sequence);41617
+Randomized;1200;[0,5];Selection Sort;2291343
+Randomized;1200;[0,5];Bubble Sort;7570173
+Randomized;1200;[0,5];Bubble Sort (Iverson 1);6925685
+Randomized;1200;[0,5];Bubble Sort (Iverson 1+2);5431044
+Randomized;1200;[0,5];Insertion Sort;1085646
+Randomized;1200;[0,5];Binary Insertion Sort;864825
+Randomized;1200;[0,5];Stable Counting Sort;24571
+Randomized;1200;[0,5];Radix Sort;576935
+Randomized;1200;[0,5];Merge Sort;332629
+Randomized;1200;[0,5];Quick Sort;468781
+Randomized;1200;[0,5];Heap Sort;222962
+Randomized;1200;[0,5];Shell Sort (Tsiur Sequence);92769
+Randomized;1200;[0,5];Shell Sort (Shell Sequence);118736
+Randomized;1200;[0,4000];Selection Sort;2353919
+Randomized;1200;[0,4000];Bubble Sort;8008113
+Randomized;1200;[0,4000];Bubble Sort (Iverson 1);7935955
+Randomized;1200;[0,4000];Bubble Sort (Iverson 1+2);5894510
+Randomized;1200;[0,4000];Insertion Sort;1259523
+Randomized;1200;[0,4000];Binary Insertion Sort;972446
+Randomized;1200;[0,4000];Stable Counting Sort;49355
+Randomized;1200;[0,4000];Radix Sort;577047
+Randomized;1200;[0,4000];Merge Sort;374492
+Randomized;1200;[0,4000];Quick Sort;166601
+Randomized;1200;[0,4000];Heap Sort;276445
+Randomized;1200;[0,4000];Shell Sort (Tsiur Sequence);239432
+Randomized;1200;[0,4000];Shell Sort (Shell Sequence);269466
+Almost sorted;1200;[0,4000];Selection Sort;2276418
+Almost sorted;1200;[0,4000];Bubble Sort;4312669
+Almost sorted;1200;[0,4000];Bubble Sort (Iverson 1);69766
+Almost sorted;1200;[0,4000];Bubble Sort (Iverson 1+2);70204
+Almost sorted;1200;[0,4000];Insertion Sort;30262
+Almost sorted;1200;[0,4000];Binary Insertion Sort;92376
+Almost sorted;1200;[0,4000];Stable Counting Sort;33927
+Almost sorted;1200;[0,4000];Radix Sort;583036
+Almost sorted;1200;[0,4000];Merge Sort;293412
+Almost sorted;1200;[0,4000];Quick Sort;266012
+Almost sorted;1200;[0,4000];Heap Sort;252513
+Almost sorted;1200;[0,4000];Shell Sort (Tsiur Sequence);65671
+Almost sorted;1200;[0,4000];Shell Sort (Shell Sequence);74540
+Reverse sorted;1200;[1,4100];Selection Sort;2262548
+Reverse sorted;1200;[1,4100];Bubble Sort;4270302
+Reverse sorted;1200;[1,4100];Bubble Sort (Iverson 1);7459
+Reverse sorted;1200;[1,4100];Bubble Sort (Iverson 1+2);7522
+Reverse sorted;1200;[1,4100];Insertion Sort;9538
+Reverse sorted;1200;[1,4100];Binary Insertion Sort;77469
+Reverse sorted;1200;[1,4100];Stable Counting Sort;31933
+Reverse sorted;1200;[1,4100];Radix Sort;576734
+Reverse sorted;1200;[1,4100];Merge Sort;291995
+Reverse sorted;1200;[1,4100];Quick Sort;4472826
+Reverse sorted;1200;[1,4100];Heap Sort;260808
+Reverse sorted;1200;[1,4100];Shell Sort (Tsiur Sequence);36248
+Reverse sorted;1200;[1,4100];Shell Sort (Shell Sequence);45361
+Randomized;1300;[0,5];Selection Sort;2685227
+Randomized;1300;[0,5];Bubble Sort;8910859
+Randomized;1300;[0,5];Bubble Sort (Iverson 1);8164472
+Randomized;1300;[0,5];Bubble Sort (Iverson 1+2);6433949
+Randomized;1300;[0,5];Insertion Sort;1276053
+Randomized;1300;[0,5];Binary Insertion Sort;1003281
+Randomized;1300;[0,5];Stable Counting Sort;26598
+Randomized;1300;[0,5];Radix Sort;624775
+Randomized;1300;[0,5];Merge Sort;365246
+Randomized;1300;[0,5];Quick Sort;544271
+Randomized;1300;[0,5];Heap Sort;245048
+Randomized;1300;[0,5];Shell Sort (Tsiur Sequence);101342
+Randomized;1300;[0,5];Shell Sort (Shell Sequence);125520
+Randomized;1300;[0,4000];Selection Sort;2752399
+Randomized;1300;[0,4000];Bubble Sort;9441794
+Randomized;1300;[0,4000];Bubble Sort (Iverson 1);9363975
+Randomized;1300;[0,4000];Bubble Sort (Iverson 1+2);6983368
+Randomized;1300;[0,4000];Insertion Sort;1477832
+Randomized;1300;[0,4000];Binary Insertion Sort;1129503
+Randomized;1300;[0,4000];Stable Counting Sort;51290
+Randomized;1300;[0,4000];Radix Sort;625310
+Randomized;1300;[0,4000];Merge Sort;406587
+Randomized;1300;[0,4000];Quick Sort;202173
+Randomized;1300;[0,4000];Heap Sort;303164
+Randomized;1300;[0,4000];Shell Sort (Tsiur Sequence);271131
+Randomized;1300;[0,4000];Shell Sort (Shell Sequence);313887
+Almost sorted;1300;[0,4000];Selection Sort;2668398
+Almost sorted;1300;[0,4000];Bubble Sort;5060049
+Almost sorted;1300;[0,4000];Bubble Sort (Iverson 1);75624
+Almost sorted;1300;[0,4000];Bubble Sort (Iverson 1+2);76126
+Almost sorted;1300;[0,4000];Insertion Sort;32772
+Almost sorted;1300;[0,4000];Binary Insertion Sort;101052
+Almost sorted;1300;[0,4000];Stable Counting Sort;35859
+Almost sorted;1300;[0,4000];Radix Sort;625425
+Almost sorted;1300;[0,4000];Merge Sort;318333
+Almost sorted;1300;[0,4000];Quick Sort;294701
+Almost sorted;1300;[0,4000];Heap Sort;277191
+Almost sorted;1300;[0,4000];Shell Sort (Tsiur Sequence);71982
+Almost sorted;1300;[0,4000];Shell Sort (Shell Sequence);68426
+Reverse sorted;1300;[1,4100];Selection Sort;2653696
+Reverse sorted;1300;[1,4100];Bubble Sort;5010121
+Reverse sorted;1300;[1,4100];Bubble Sort (Iverson 1);8083
+Reverse sorted;1300;[1,4100];Bubble Sort (Iverson 1+2);8146
+Reverse sorted;1300;[1,4100];Insertion Sort;10337
+Reverse sorted;1300;[1,4100];Binary Insertion Sort;85026
+Reverse sorted;1300;[1,4100];Stable Counting Sort;34546
+Reverse sorted;1300;[1,4100];Radix Sort;625144
+Reverse sorted;1300;[1,4100];Merge Sort;317855
+Reverse sorted;1300;[1,4100];Quick Sort;5245827
+Reverse sorted;1300;[1,4100];Heap Sort;285084
+Reverse sorted;1300;[1,4100];Shell Sort (Tsiur Sequence);39539
+Reverse sorted;1300;[1,4100];Shell Sort (Shell Sequence);49235
+Randomized;1400;[0,5];Selection Sort;3109685
+Randomized;1400;[0,5];Bubble Sort;10353271
+Randomized;1400;[0,5];Bubble Sort (Iverson 1);9393163
+Randomized;1400;[0,5];Bubble Sort (Iverson 1+2);7444116
+Randomized;1400;[0,5];Insertion Sort;1469617
+Randomized;1400;[0,5];Binary Insertion Sort;1152904
+Randomized;1400;[0,5];Stable Counting Sort;28620
+Randomized;1400;[0,5];Radix Sort;673186
+Randomized;1400;[0,5];Merge Sort;393303
+Randomized;1400;[0,5];Quick Sort;625370
+Randomized;1400;[0,5];Heap Sort;265935
+Randomized;1400;[0,5];Shell Sort (Tsiur Sequence);112799
+Randomized;1400;[0,5];Shell Sort (Shell Sequence);127537
+Randomized;1400;[0,4000];Selection Sort;3186197
+Randomized;1400;[0,4000];Bubble Sort;11004293
+Randomized;1400;[0,4000];Bubble Sort (Iverson 1);10900116
+Randomized;1400;[0,4000];Bubble Sort (Iverson 1+2);8166065
+Randomized;1400;[0,4000];Insertion Sort;1724130
+Randomized;1400;[0,4000];Binary Insertion Sort;1304514
+Randomized;1400;[0,4000];Stable Counting Sort;53340
+Randomized;1400;[0,4000];Radix Sort;672916
+Randomized;1400;[0,4000];Merge Sort;442708
+Randomized;1400;[0,4000];Quick Sort;203459
+Randomized;1400;[0,4000];Heap Sort;331282
+Randomized;1400;[0,4000];Shell Sort (Tsiur Sequence);293631
+Randomized;1400;[0,4000];Shell Sort (Shell Sequence);321788
+Almost sorted;1400;[0,4000];Selection Sort;3094293
+Almost sorted;1400;[0,4000];Bubble Sort;5868988
+Almost sorted;1400;[0,4000];Bubble Sort (Iverson 1);81425
+Almost sorted;1400;[0,4000];Bubble Sort (Iverson 1+2);81922
+Almost sorted;1400;[0,4000];Insertion Sort;35315
+Almost sorted;1400;[0,4000];Binary Insertion Sort;109410
+Almost sorted;1400;[0,4000];Stable Counting Sort;37790
+Almost sorted;1400;[0,4000];Radix Sort;673659
+Almost sorted;1400;[0,4000];Merge Sort;346945
+Almost sorted;1400;[0,4000];Quick Sort;329811
+Almost sorted;1400;[0,4000];Heap Sort;301533
+Almost sorted;1400;[0,4000];Shell Sort (Tsiur Sequence);77930
+Almost sorted;1400;[0,4000];Shell Sort (Shell Sequence);82658
+Reverse sorted;1400;[1,4100];Selection Sort;3077552
+Reverse sorted;1400;[1,4100];Bubble Sort;5813573
+Reverse sorted;1400;[1,4100];Bubble Sort (Iverson 1);8730
+Reverse sorted;1400;[1,4100];Bubble Sort (Iverson 1+2);8813
+Reverse sorted;1400;[1,4100];Insertion Sort;11221
+Reverse sorted;1400;[1,4100];Binary Insertion Sort;92045
+Reverse sorted;1400;[1,4100];Stable Counting Sort;37531
+Reverse sorted;1400;[1,4100];Radix Sort;672842
+Reverse sorted;1400;[1,4100];Merge Sort;345594
+Reverse sorted;1400;[1,4100];Quick Sort;6094634
+Reverse sorted;1400;[1,4100];Heap Sort;310769
+Reverse sorted;1400;[1,4100];Shell Sort (Tsiur Sequence);42907
+Reverse sorted;1400;[1,4100];Shell Sort (Shell Sequence);52871
+Randomized;1500;[0,5];Selection Sort;3566726
+Randomized;1500;[0,5];Bubble Sort;12036606
+Randomized;1500;[0,5];Bubble Sort (Iverson 1);10907818
+Randomized;1500;[0,5];Bubble Sort (Iverson 1+2);8647028
+Randomized;1500;[0,5];Insertion Sort;1698090
+Randomized;1500;[0,5];Binary Insertion Sort;1325699
+Randomized;1500;[0,5];Stable Counting Sort;30640
+Randomized;1500;[0,5];Radix Sort;721116
+Randomized;1500;[0,5];Merge Sort;421829
+Randomized;1500;[0,5];Quick Sort;705709
+Randomized;1500;[0,5];Heap Sort;287199
+Randomized;1500;[0,5];Shell Sort (Tsiur Sequence);121386
+Randomized;1500;[0,5];Shell Sort (Shell Sequence);130247
+Randomized;1500;[0,4000];Selection Sort;3649748
+Randomized;1500;[0,4000];Bubble Sort;12706766
+Randomized;1500;[0,4000];Bubble Sort (Iverson 1);12603060
+Randomized;1500;[0,4000];Bubble Sort (Iverson 1+2);9436543
+Randomized;1500;[0,4000];Insertion Sort;1990480
+Randomized;1500;[0,4000];Binary Insertion Sort;1492209
+Randomized;1500;[0,4000];Stable Counting Sort;55565
+Randomized;1500;[0,4000];Radix Sort;720783
+Randomized;1500;[0,4000];Merge Sort;479097
+Randomized;1500;[0,4000];Quick Sort;219353
+Randomized;1500;[0,4000];Heap Sort;358767
+Randomized;1500;[0,4000];Shell Sort (Tsiur Sequence);320578
+Randomized;1500;[0,4000];Shell Sort (Shell Sequence);377990
+Almost sorted;1500;[0,4000];Selection Sort;3547296
+Almost sorted;1500;[0,4000];Bubble Sort;6727370
+Almost sorted;1500;[0,4000];Bubble Sort (Iverson 1);87318
+Almost sorted;1500;[0,4000];Bubble Sort (Iverson 1+2);87854
+Almost sorted;1500;[0,4000];Insertion Sort;37874
+Almost sorted;1500;[0,4000];Binary Insertion Sort;117197
+Almost sorted;1500;[0,4000];Stable Counting Sort;40007
+Almost sorted;1500;[0,4000];Radix Sort;720751
+Almost sorted;1500;[0,4000];Merge Sort;371530
+Almost sorted;1500;[0,4000];Quick Sort;374169
+Almost sorted;1500;[0,4000];Heap Sort;325726
+Almost sorted;1500;[0,4000];Shell Sort (Tsiur Sequence);84255
+Almost sorted;1500;[0,4000];Shell Sort (Shell Sequence);90613
+Reverse sorted;1500;[1,4100];Selection Sort;3530455
+Reverse sorted;1500;[1,4100];Bubble Sort;6668813
+Reverse sorted;1500;[1,4100];Bubble Sort (Iverson 1);9329
+Reverse sorted;1500;[1,4100];Bubble Sort (Iverson 1+2);9377
+Reverse sorted;1500;[1,4100];Insertion Sort;11935
+Reverse sorted;1500;[1,4100];Binary Insertion Sort;99375
+Reverse sorted;1500;[1,4100];Stable Counting Sort;40155
+Reverse sorted;1500;[1,4100];Radix Sort;720766
+Reverse sorted;1500;[1,4100];Merge Sort;369460
+Reverse sorted;1500;[1,4100];Quick Sort;7014745
+Reverse sorted;1500;[1,4100];Heap Sort;334201
+Reverse sorted;1500;[1,4100];Shell Sort (Tsiur Sequence);46297
+Reverse sorted;1500;[1,4100];Shell Sort (Shell Sequence);56657
+Randomized;1600;[0,5];Selection Sort;4052855
+Randomized;1600;[0,5];Bubble Sort;13686379
+Randomized;1600;[0,5];Bubble Sort (Iverson 1);12504952
+Randomized;1600;[0,5];Bubble Sort (Iverson 1+2);9900372
+Randomized;1600;[0,5];Insertion Sort;1909483
+Randomized;1600;[0,5];Binary Insertion Sort;1486849
+Randomized;1600;[0,5];Stable Counting Sort;32677
+Randomized;1600;[0,5];Radix Sort;769398
+Randomized;1600;[0,5];Merge Sort;447189
+Randomized;1600;[0,5];Quick Sort;804888
+Randomized;1600;[0,5];Heap Sort;309806
+Randomized;1600;[0,5];Shell Sort (Tsiur Sequence);130382
+Randomized;1600;[0,5];Shell Sort (Shell Sequence);190925
+Randomized;1600;[0,4000];Selection Sort;4145516
+Randomized;1600;[0,4000];Bubble Sort;14494233
+Randomized;1600;[0,4000];Bubble Sort (Iverson 1);14577530
+Randomized;1600;[0,4000];Bubble Sort (Iverson 1+2);10753204
+Randomized;1600;[0,4000];Insertion Sort;2252866
+Randomized;1600;[0,4000];Binary Insertion Sort;1677225
+Randomized;1600;[0,4000];Stable Counting Sort;57574
+Randomized;1600;[0,4000];Radix Sort;769659
+Randomized;1600;[0,4000];Merge Sort;507790
+Randomized;1600;[0,4000];Quick Sort;235016
+Randomized;1600;[0,4000];Heap Sort;385749
+Randomized;1600;[0,4000];Shell Sort (Tsiur Sequence);346070
+Randomized;1600;[0,4000];Shell Sort (Shell Sequence);424024
+Almost sorted;1600;[0,4000];Selection Sort;4033336
+Almost sorted;1600;[0,4000];Bubble Sort;7643480
+Almost sorted;1600;[0,4000];Bubble Sort (Iverson 1);92883
+Almost sorted;1600;[0,4000];Bubble Sort (Iverson 1+2);93484
+Almost sorted;1600;[0,4000];Insertion Sort;40296
+Almost sorted;1600;[0,4000];Binary Insertion Sort;126483
+Almost sorted;1600;[0,4000];Stable Counting Sort;44727
+Almost sorted;1600;[0,4000];Radix Sort;768941
+Almost sorted;1600;[0,4000];Merge Sort;395525
+Almost sorted;1600;[0,4000];Quick Sort;391496
+Almost sorted;1600;[0,4000];Heap Sort;352322
+Almost sorted;1600;[0,4000];Shell Sort (Tsiur Sequence);90173
+Almost sorted;1600;[0,4000];Shell Sort (Shell Sequence);97489
+Reverse sorted;1600;[1,4100];Selection Sort;4016033
+Reverse sorted;1600;[1,4100];Bubble Sort;7600193
+Reverse sorted;1600;[1,4100];Bubble Sort (Iverson 1);9951
+Reverse sorted;1600;[1,4100];Bubble Sort (Iverson 1+2);9976
+Reverse sorted;1600;[1,4100];Insertion Sort;12732
+Reverse sorted;1600;[1,4100];Binary Insertion Sort;107372
+Reverse sorted;1600;[1,4100];Stable Counting Sort;42724
+Reverse sorted;1600;[1,4100];Radix Sort;769465
+Reverse sorted;1600;[1,4100];Merge Sort;392200
+Reverse sorted;1600;[1,4100];Quick Sort;7989085
+Reverse sorted;1600;[1,4100];Heap Sort;360838
+Reverse sorted;1600;[1,4100];Shell Sort (Tsiur Sequence);49684
+Reverse sorted;1600;[1,4100];Shell Sort (Shell Sequence);60402
+Randomized;1700;[0,5];Selection Sort;4573137
+Randomized;1700;[0,5];Bubble Sort;15537757
+Randomized;1700;[0,5];Bubble Sort (Iverson 1);14208720
+Randomized;1700;[0,5];Bubble Sort (Iverson 1+2);11297984
+Randomized;1700;[0,5];Insertion Sort;2176413
+Randomized;1700;[0,5];Binary Insertion Sort;1690709
+Randomized;1700;[0,5];Stable Counting Sort;34689
+Randomized;1700;[0,5];Radix Sort;816905
+Randomized;1700;[0,5];Merge Sort;480776
+Randomized;1700;[0,5];Quick Sort;894632
+Randomized;1700;[0,5];Heap Sort;331399
+Randomized;1700;[0,5];Shell Sort (Tsiur Sequence);138606
+Randomized;1700;[0,5];Shell Sort (Shell Sequence);161357
+Randomized;1700;[0,4000];Selection Sort;4666789
+Randomized;1700;[0,4000];Bubble Sort;16459795
+Randomized;1700;[0,4000];Bubble Sort (Iverson 1);16301985
+Randomized;1700;[0,4000];Bubble Sort (Iverson 1+2);12256855
+Randomized;1700;[0,4000];Insertion Sort;2566424
+Randomized;1700;[0,4000];Binary Insertion Sort;1890859
+Randomized;1700;[0,4000];Stable Counting Sort;59568
+Randomized;1700;[0,4000];Radix Sort;817455
+Randomized;1700;[0,4000];Merge Sort;546882
+Randomized;1700;[0,4000];Quick Sort;251430
+Randomized;1700;[0,4000];Heap Sort;413027
+Randomized;1700;[0,4000];Shell Sort (Tsiur Sequence);374484
+Randomized;1700;[0,4000];Shell Sort (Shell Sequence);412703
+Almost sorted;1700;[0,4000];Selection Sort;4551123
+Almost sorted;1700;[0,4000];Bubble Sort;8626095
+Almost sorted;1700;[0,4000];Bubble Sort (Iverson 1);98890
+Almost sorted;1700;[0,4000];Bubble Sort (Iverson 1+2);99410
+Almost sorted;1700;[0,4000];Insertion Sort;42880
+Almost sorted;1700;[0,4000];Binary Insertion Sort;135185
+Almost sorted;1700;[0,4000];Stable Counting Sort;46804
+Almost sorted;1700;[0,4000];Radix Sort;817096
+Almost sorted;1700;[0,4000];Merge Sort;422474
+Almost sorted;1700;[0,4000];Quick Sort;416707
+Almost sorted;1700;[0,4000];Heap Sort;376582
+Almost sorted;1700;[0,4000];Shell Sort (Tsiur Sequence);95879
+Almost sorted;1700;[0,4000];Shell Sort (Shell Sequence);104984
+Reverse sorted;1700;[1,4100];Selection Sort;4530851
+Reverse sorted;1700;[1,4100];Bubble Sort;8566037
+Reverse sorted;1700;[1,4100];Bubble Sort (Iverson 1);10553
+Reverse sorted;1700;[1,4100];Bubble Sort (Iverson 1+2);10622
+Reverse sorted;1700;[1,4100];Insertion Sort;13512
+Reverse sorted;1700;[1,4100];Binary Insertion Sort;114370
+Reverse sorted;1700;[1,4100];Stable Counting Sort;45535
+Reverse sorted;1700;[1,4100];Radix Sort;816911
+Reverse sorted;1700;[1,4100];Merge Sort;419646
+Reverse sorted;1700;[1,4100];Quick Sort;9048866
+Reverse sorted;1700;[1,4100];Heap Sort;385500
+Reverse sorted;1700;[1,4100];Shell Sort (Tsiur Sequence);53166
+Reverse sorted;1700;[1,4100];Shell Sort (Shell Sequence);64191
+Randomized;1800;[0,5];Selection Sort;5121372
+Randomized;1800;[0,5];Bubble Sort;17442983
+Randomized;1800;[0,5];Bubble Sort (Iverson 1);15994055
+Randomized;1800;[0,5];Bubble Sort (Iverson 1+2);12876208
+Randomized;1800;[0,5];Insertion Sort;2408243
+Randomized;1800;[0,5];Binary Insertion Sort;1868047
+Randomized;1800;[0,5];Stable Counting Sort;36772
+Randomized;1800;[0,5];Radix Sort;865547
+Randomized;1800;[0,5];Merge Sort;504848
+Randomized;1800;[0,5];Quick Sort;1002649
+Randomized;1800;[0,5];Heap Sort;349714
+Randomized;1800;[0,5];Shell Sort (Tsiur Sequence);145490
+Randomized;1800;[0,5];Shell Sort (Shell Sequence);191130
+Randomized;1800;[0,4000];Selection Sort;5224852
+Randomized;1800;[0,4000];Bubble Sort;18574610
+Randomized;1800;[0,4000];Bubble Sort (Iverson 1);18505995
+Randomized;1800;[0,4000];Bubble Sort (Iverson 1+2);13872864
+Randomized;1800;[0,4000];Insertion Sort;2882451
+Randomized;1800;[0,4000];Binary Insertion Sort;2119257
+Randomized;1800;[0,4000];Stable Counting Sort;61458
+Randomized;1800;[0,4000];Radix Sort;864911
+Randomized;1800;[0,4000];Merge Sort;573056
+Randomized;1800;[0,4000];Quick Sort;272011
+Randomized;1800;[0,4000];Heap Sort;443568
+Randomized;1800;[0,4000];Shell Sort (Tsiur Sequence);397577
+Randomized;1800;[0,4000];Shell Sort (Shell Sequence);482505
+Almost sorted;1800;[0,4000];Selection Sort;5098765
+Almost sorted;1800;[0,4000];Bubble Sort;9669578
+Almost sorted;1800;[0,4000];Bubble Sort (Iverson 1);104572
+Almost sorted;1800;[0,4000];Bubble Sort (Iverson 1+2);105274
+Almost sorted;1800;[0,4000];Insertion Sort;45517
+Almost sorted;1800;[0,4000];Binary Insertion Sort;143594
+Almost sorted;1800;[0,4000];Stable Counting Sort;48843
+Almost sorted;1800;[0,4000];Radix Sort;865027
+Almost sorted;1800;[0,4000];Merge Sort;445829
+Almost sorted;1800;[0,4000];Quick Sort;448198
+Almost sorted;1800;[0,4000];Heap Sort;399781
+Almost sorted;1800;[0,4000];Shell Sort (Tsiur Sequence);102319
+Almost sorted;1800;[0,4000];Shell Sort (Shell Sequence);111836
+Reverse sorted;1800;[1,4100];Selection Sort;5079387
+Reverse sorted;1800;[1,4100];Bubble Sort;9603823
+Reverse sorted;1800;[1,4100];Bubble Sort (Iverson 1);11193
+Reverse sorted;1800;[1,4100];Bubble Sort (Iverson 1+2);11243
+Reverse sorted;1800;[1,4100];Insertion Sort;14325
+Reverse sorted;1800;[1,4100];Binary Insertion Sort;121779
+Reverse sorted;1800;[1,4100];Stable Counting Sort;48375
+Reverse sorted;1800;[1,4100];Radix Sort;864684
+Reverse sorted;1800;[1,4100];Merge Sort;444128
+Reverse sorted;1800;[1,4100];Quick Sort;10141407
+Reverse sorted;1800;[1,4100];Heap Sort;410172
+Reverse sorted;1800;[1,4100];Shell Sort (Tsiur Sequence);56762
+Reverse sorted;1800;[1,4100];Shell Sort (Shell Sequence);68216
+Randomized;1900;[0,5];Selection Sort;5703840
+Randomized;1900;[0,5];Bubble Sort;19551889
+Randomized;1900;[0,5];Bubble Sort (Iverson 1);17945371
+Randomized;1900;[0,5];Bubble Sort (Iverson 1+2);14219555
+Randomized;1900;[0,5];Insertion Sort;2642426
+Randomized;1900;[0,5];Binary Insertion Sort;2071530
+Randomized;1900;[0,5];Stable Counting Sort;38796
+Randomized;1900;[0,5];Radix Sort;913174
+Randomized;1900;[0,5];Merge Sort;543318
+Randomized;1900;[0,5];Quick Sort;1099269
+Randomized;1900;[0,5];Heap Sort;371814
+Randomized;1900;[0,5];Shell Sort (Tsiur Sequence);152997
+Randomized;1900;[0,5];Shell Sort (Shell Sequence);179424
+Randomized;1900;[0,4000];Selection Sort;5811957
+Randomized;1900;[0,4000];Bubble Sort;20824304
+Randomized;1900;[0,4000];Bubble Sort (Iverson 1);20407958
+Randomized;1900;[0,4000];Bubble Sort (Iverson 1+2);15528114
+Randomized;1900;[0,4000];Insertion Sort;3190671
+Randomized;1900;[0,4000];Binary Insertion Sort;2332096
+Randomized;1900;[0,4000];Stable Counting Sort;63770
+Randomized;1900;[0,4000];Radix Sort;920410
+Randomized;1900;[0,4000];Merge Sort;617268
+Randomized;1900;[0,4000];Quick Sort;290659
+Randomized;1900;[0,4000];Heap Sort;470512
+Randomized;1900;[0,4000];Shell Sort (Tsiur Sequence);422202
+Randomized;1900;[0,4000];Shell Sort (Shell Sequence);457909
+Almost sorted;1900;[0,4000];Selection Sort;5690814
+Almost sorted;1900;[0,4000];Bubble Sort;10777066
+Almost sorted;1900;[0,4000];Bubble Sort (Iverson 1);110490
+Almost sorted;1900;[0,4000];Bubble Sort (Iverson 1+2);111107
+Almost sorted;1900;[0,4000];Insertion Sort;48006
+Almost sorted;1900;[0,4000];Binary Insertion Sort;152156
+Almost sorted;1900;[0,4000];Stable Counting Sort;50851
+Almost sorted;1900;[0,4000];Radix Sort;912700
+Almost sorted;1900;[0,4000];Merge Sort;474778
+Almost sorted;1900;[0,4000];Quick Sort;487039
+Almost sorted;1900;[0,4000];Heap Sort;423872
+Almost sorted;1900;[0,4000];Shell Sort (Tsiur Sequence);108713
+Almost sorted;1900;[0,4000];Shell Sort (Shell Sequence);125074
+Reverse sorted;1900;[1,4100];Selection Sort;5657245
+Reverse sorted;1900;[1,4100];Bubble Sort;10697466
+Reverse sorted;1900;[1,4100];Bubble Sort (Iverson 1);11811
+Reverse sorted;1900;[1,4100];Bubble Sort (Iverson 1+2);11870
+Reverse sorted;1900;[1,4100];Insertion Sort;15089
+Reverse sorted;1900;[1,4100];Binary Insertion Sort;129360
+Reverse sorted;1900;[1,4100];Stable Counting Sort;50845
+Reverse sorted;1900;[1,4100];Radix Sort;912810
+Reverse sorted;1900;[1,4100];Merge Sort;472388
+Reverse sorted;1900;[1,4100];Quick Sort;11320329
+Reverse sorted;1900;[1,4100];Heap Sort;435167
+Reverse sorted;1900;[1,4100];Shell Sort (Tsiur Sequence);60582
+Reverse sorted;1900;[1,4100];Shell Sort (Shell Sequence);71819
+Randomized;2000;[0,5];Selection Sort;6327501
+Randomized;2000;[0,5];Bubble Sort;21770446
+Randomized;2000;[0,5];Bubble Sort (Iverson 1);19934133
+Randomized;2000;[0,5];Bubble Sort (Iverson 1+2);15837477
+Randomized;2000;[0,5];Insertion Sort;2937544
+Randomized;2000;[0,5];Binary Insertion Sort;2303264
+Randomized;2000;[0,5];Stable Counting Sort;41939
+Randomized;2000;[0,5];Radix Sort;961231
+Randomized;2000;[0,5];Merge Sort;562318
+Randomized;2000;[0,5];Quick Sort;1215331
+Randomized;2000;[0,5];Heap Sort;390767
+Randomized;2000;[0,5];Shell Sort (Tsiur Sequence);163278
+Randomized;2000;[0,5];Shell Sort (Shell Sequence);203604
+Randomized;2000;[0,4000];Selection Sort;6440142
+Randomized;2000;[0,4000];Bubble Sort;23135443
+Randomized;2000;[0,4000];Bubble Sort (Iverson 1);23179203
+Randomized;2000;[0,4000];Bubble Sort (Iverson 1+2);17348535
+Randomized;2000;[0,4000];Insertion Sort;3539863
+Randomized;2000;[0,4000];Binary Insertion Sort;2571331
+Randomized;2000;[0,4000];Stable Counting Sort;65768
+Randomized;2000;[0,4000];Radix Sort;961122
+Randomized;2000;[0,4000];Merge Sort;640403
+Randomized;2000;[0,4000];Quick Sort;317511
+Randomized;2000;[0,4000];Heap Sort;499041
+Randomized;2000;[0,4000];Shell Sort (Tsiur Sequence);449999
+Randomized;2000;[0,4000];Shell Sort (Shell Sequence);508153
+Almost sorted;2000;[0,4000];Selection Sort;6291491
+Almost sorted;2000;[0,4000];Bubble Sort;11921044
+Almost sorted;2000;[0,4000];Bubble Sort (Iverson 1);116231
+Almost sorted;2000;[0,4000];Bubble Sort (Iverson 1+2);116973
+Almost sorted;2000;[0,4000];Insertion Sort;50487
+Almost sorted;2000;[0,4000];Binary Insertion Sort;160530
+Almost sorted;2000;[0,4000];Stable Counting Sort;53017
+Almost sorted;2000;[0,4000];Radix Sort;961071
+Almost sorted;2000;[0,4000];Merge Sort;494904
+Almost sorted;2000;[0,4000];Quick Sort;531439
+Almost sorted;2000;[0,4000];Heap Sort;447266
+Almost sorted;2000;[0,4000];Shell Sort (Tsiur Sequence);115283
+Almost sorted;2000;[0,4000];Shell Sort (Shell Sequence);130926
+Reverse sorted;2000;[1,4100];Selection Sort;6267144
+Reverse sorted;2000;[1,4100];Bubble Sort;11893229
+Reverse sorted;2000;[1,4100];Bubble Sort (Iverson 1);12414
+Reverse sorted;2000;[1,4100];Bubble Sort (Iverson 1+2);12499
+Reverse sorted;2000;[1,4100];Insertion Sort;15876
+Reverse sorted;2000;[1,4100];Binary Insertion Sort;136839
+Reverse sorted;2000;[1,4100];Stable Counting Sort;53746
+Reverse sorted;2000;[1,4100];Radix Sort;960549
+Reverse sorted;2000;[1,4100];Merge Sort;491787
+Reverse sorted;2000;[1,4100];Quick Sort;12539703
+Reverse sorted;2000;[1,4100];Heap Sort;458163
+Reverse sorted;2000;[1,4100];Shell Sort (Tsiur Sequence);64191
+Reverse sorted;2000;[1,4100];Shell Sort (Shell Sequence);75535
+Randomized;2100;[0,5];Selection Sort;6957946
+Randomized;2100;[0,5];Bubble Sort;24054884
+Randomized;2100;[0,5];Bubble Sort (Iverson 1);21881353
+Randomized;2100;[0,5];Bubble Sort (Iverson 1+2);17548180
+Randomized;2100;[0,5];Insertion Sort;3246290
+Randomized;2100;[0,5];Binary Insertion Sort;2558086
+Randomized;2100;[0,5];Stable Counting Sort;42841
+Randomized;2100;[0,5];Radix Sort;1008944
+Randomized;2100;[0,5];Merge Sort;598451
+Randomized;2100;[0,5];Quick Sort;1327793
+Randomized;2100;[0,5];Heap Sort;414915
+Randomized;2100;[0,5];Shell Sort (Tsiur Sequence);172938
+Randomized;2100;[0,5];Shell Sort (Shell Sequence);207763
+Randomized;2100;[0,4000];Selection Sort;7081268
+Randomized;2100;[0,4000];Bubble Sort;25589656
+Randomized;2100;[0,4000];Bubble Sort (Iverson 1);25482365
+Randomized;2100;[0,4000];Bubble Sort (Iverson 1+2);19231758
+Randomized;2100;[0,4000];Insertion Sort;3888782
+Randomized;2100;[0,4000];Binary Insertion Sort;2820416
+Randomized;2100;[0,4000];Stable Counting Sort;68541
+Randomized;2100;[0,4000];Radix Sort;1009026
+Randomized;2100;[0,4000];Merge Sort;679539
+Randomized;2100;[0,4000];Quick Sort;326789
+Randomized;2100;[0,4000];Heap Sort;527907
+Randomized;2100;[0,4000];Shell Sort (Tsiur Sequence);476322
+Randomized;2100;[0,4000];Shell Sort (Shell Sequence);546769
+Almost sorted;2100;[0,4000];Selection Sort;6931186
+Almost sorted;2100;[0,4000];Bubble Sort;13141463
+Almost sorted;2100;[0,4000];Bubble Sort (Iverson 1);122081
+Almost sorted;2100;[0,4000];Bubble Sort (Iverson 1+2);122862
+Almost sorted;2100;[0,4000];Insertion Sort;52930
+Almost sorted;2100;[0,4000];Binary Insertion Sort;170703
+Almost sorted;2100;[0,4000];Stable Counting Sort;59308
+Almost sorted;2100;[0,4000];Radix Sort;1009188
+Almost sorted;2100;[0,4000];Merge Sort;522285
+Almost sorted;2100;[0,4000];Quick Sort;550053
+Almost sorted;2100;[0,4000];Heap Sort;473204
+Almost sorted;2100;[0,4000];Shell Sort (Tsiur Sequence);121725
+Almost sorted;2100;[0,4000];Shell Sort (Shell Sequence);140084
+Reverse sorted;2100;[1,4100];Selection Sort;6907709
+Reverse sorted;2100;[1,4100];Bubble Sort;13065357
+Reverse sorted;2100;[1,4100];Bubble Sort (Iverson 1);13027
+Reverse sorted;2100;[1,4100];Bubble Sort (Iverson 1+2);13126
+Reverse sorted;2100;[1,4100];Insertion Sort;16662
+Reverse sorted;2100;[1,4100];Binary Insertion Sort;144842
+Reverse sorted;2100;[1,4100];Stable Counting Sort;57517
+Reverse sorted;2100;[1,4100];Radix Sort;1009187
+Reverse sorted;2100;[1,4100];Merge Sort;519922
+Reverse sorted;2100;[1,4100];Quick Sort;13832680
+Reverse sorted;2100;[1,4100];Heap Sort;483961
+Reverse sorted;2100;[1,4100];Shell Sort (Tsiur Sequence);67960
+Reverse sorted;2100;[1,4100];Shell Sort (Shell Sequence);87332
+Randomized;2200;[0,5];Selection Sort;7631740
+Randomized;2200;[0,5];Bubble Sort;26575790
+Randomized;2200;[0,5];Bubble Sort (Iverson 1);24351084
+Randomized;2200;[0,5];Bubble Sort (Iverson 1+2);19412372
+Randomized;2200;[0,5];Insertion Sort;3581158
+Randomized;2200;[0,5];Binary Insertion Sort;2814057
+Randomized;2200;[0,5];Stable Counting Sort;44868
+Randomized;2200;[0,5];Radix Sort;1056964
+Randomized;2200;[0,5];Merge Sort;628598
+Randomized;2200;[0,5];Quick Sort;1451436
+Randomized;2200;[0,5];Heap Sort;438818
+Randomized;2200;[0,5];Shell Sort (Tsiur Sequence);179700
+Randomized;2200;[0,5];Shell Sort (Shell Sequence);221457
+Randomized;2200;[0,4000];Selection Sort;7767343
+Randomized;2200;[0,4000];Bubble Sort;28274443
+Randomized;2200;[0,4000];Bubble Sort (Iverson 1);28165174
+Randomized;2200;[0,4000];Bubble Sort (Iverson 1+2);21192133
+Randomized;2200;[0,4000];Insertion Sort;4285596
+Randomized;2200;[0,4000];Binary Insertion Sort;3095193
+Randomized;2200;[0,4000];Stable Counting Sort;70284
+Randomized;2200;[0,4000];Radix Sort;1057108
+Randomized;2200;[0,4000];Merge Sort;715110
+Randomized;2200;[0,4000];Quick Sort;342892
+Randomized;2200;[0,4000];Heap Sort;555947
+Randomized;2200;[0,4000];Shell Sort (Tsiur Sequence);504039
+Randomized;2200;[0,4000];Shell Sort (Shell Sequence);554509
+Almost sorted;2200;[0,4000];Selection Sort;7604178
+Almost sorted;2200;[0,4000];Bubble Sort;14413471
+Almost sorted;2200;[0,4000];Bubble Sort (Iverson 1);127828
+Almost sorted;2200;[0,4000];Bubble Sort (Iverson 1+2);128732
+Almost sorted;2200;[0,4000];Insertion Sort;55445
+Almost sorted;2200;[0,4000];Binary Insertion Sort;179448
+Almost sorted;2200;[0,4000];Stable Counting Sort;61088
+Almost sorted;2200;[0,4000];Radix Sort;1056862
+Almost sorted;2200;[0,4000];Merge Sort;549867
+Almost sorted;2200;[0,4000];Quick Sort;576864
+Almost sorted;2200;[0,4000];Heap Sort;499349
+Almost sorted;2200;[0,4000];Shell Sort (Tsiur Sequence);127981
+Almost sorted;2200;[0,4000];Shell Sort (Shell Sequence);143085
+Reverse sorted;2200;[1,4100];Selection Sort;7586419
+Reverse sorted;2200;[1,4100];Bubble Sort;14343085
+Reverse sorted;2200;[1,4100];Bubble Sort (Iverson 1);13639
+Reverse sorted;2200;[1,4100];Bubble Sort (Iverson 1+2);13753
+Reverse sorted;2200;[1,4100];Insertion Sort;17464
+Reverse sorted;2200;[1,4100];Binary Insertion Sort;152167
+Reverse sorted;2200;[1,4100];Stable Counting Sort;59985
+Reverse sorted;2200;[1,4100];Radix Sort;1034081
+Reverse sorted;2200;[1,4100];Merge Sort;547847
+Reverse sorted;2200;[1,4100];Quick Sort;15201597
+Reverse sorted;2200;[1,4100];Heap Sort;510968
+Reverse sorted;2200;[1,4100];Shell Sort (Tsiur Sequence);71725
+Reverse sorted;2200;[1,4100];Shell Sort (Shell Sequence);91537
+Randomized;2300;[0,5];Selection Sort;8337679
+Randomized;2300;[0,5];Bubble Sort;29136242
+Randomized;2300;[0,5];Bubble Sort (Iverson 1);26816629
+Randomized;2300;[0,5];Bubble Sort (Iverson 1+2);21297023
+Randomized;2300;[0,5];Insertion Sort;3915132
+Randomized;2300;[0,5];Binary Insertion Sort;3084491
+Randomized;2300;[0,5];Stable Counting Sort;46869
+Randomized;2300;[0,5];Radix Sort;1099720
+Randomized;2300;[0,5];Merge Sort;659511
+Randomized;2300;[0,5];Quick Sort;1579735
+Randomized;2300;[0,5];Heap Sort;461173
+Randomized;2300;[0,5];Shell Sort (Tsiur Sequence);190632
+Randomized;2300;[0,5];Shell Sort (Shell Sequence);220586
+Randomized;2300;[0,4000];Selection Sort;8534750
+Randomized;2300;[0,4000];Bubble Sort;31054222
+Randomized;2300;[0,4000];Bubble Sort (Iverson 1);30804002
+Randomized;2300;[0,4000];Bubble Sort (Iverson 1+2);23378304
+Randomized;2300;[0,4000];Insertion Sort;4719673
+Randomized;2300;[0,4000];Binary Insertion Sort;3390206
+Randomized;2300;[0,4000];Stable Counting Sort;72076
+Randomized;2300;[0,4000];Radix Sort;1105056
+Randomized;2300;[0,4000];Merge Sort;748571
+Randomized;2300;[0,4000];Quick Sort;376875
+Randomized;2300;[0,4000];Heap Sort;585694
+Randomized;2300;[0,4000];Shell Sort (Tsiur Sequence);531409
+Randomized;2300;[0,4000];Shell Sort (Shell Sequence);590696
+Almost sorted;2300;[0,4000];Selection Sort;8308620
+Almost sorted;2300;[0,4000];Bubble Sort;15755605
+Almost sorted;2300;[0,4000];Bubble Sort (Iverson 1);133514
+Almost sorted;2300;[0,4000];Bubble Sort (Iverson 1+2);134597
+Almost sorted;2300;[0,4000];Insertion Sort;58030
+Almost sorted;2300;[0,4000];Binary Insertion Sort;188258
+Almost sorted;2300;[0,4000];Stable Counting Sort;62845
+Almost sorted;2300;[0,4000];Radix Sort;1105153
+Almost sorted;2300;[0,4000];Merge Sort;575445
+Almost sorted;2300;[0,4000];Quick Sort;611002
+Almost sorted;2300;[0,4000];Heap Sort;524974
+Almost sorted;2300;[0,4000];Shell Sort (Tsiur Sequence);133991
+Almost sorted;2300;[0,4000];Shell Sort (Shell Sequence);159327
+Reverse sorted;2300;[1,4100];Selection Sort;8283366
+Reverse sorted;2300;[1,4100];Bubble Sort;15676330
+Reverse sorted;2300;[1,4100];Bubble Sort (Iverson 1);14256
+Reverse sorted;2300;[1,4100];Bubble Sort (Iverson 1+2);14346
+Reverse sorted;2300;[1,4100];Insertion Sort;18247
+Reverse sorted;2300;[1,4100];Binary Insertion Sort;160691
+Reverse sorted;2300;[1,4100];Stable Counting Sort;63113
+Reverse sorted;2300;[1,4100];Radix Sort;1104576
+Reverse sorted;2300;[1,4100];Merge Sort;573844
+Reverse sorted;2300;[1,4100];Quick Sort;16629557
+Reverse sorted;2300;[1,4100];Heap Sort;536999
+Reverse sorted;2300;[1,4100];Shell Sort (Tsiur Sequence);75619
+Reverse sorted;2300;[1,4100];Shell Sort (Shell Sequence);95741
+Randomized;2400;[0,5];Selection Sort;9073940
+Randomized;2400;[0,5];Bubble Sort;31835092
+Randomized;2400;[0,5];Bubble Sort (Iverson 1);29321527
+Randomized;2400;[0,5];Bubble Sort (Iverson 1+2);23368490
+Randomized;2400;[0,5];Insertion Sort;4241731
+Randomized;2400;[0,5];Binary Insertion Sort;3359457
+Randomized;2400;[0,5];Stable Counting Sort;49020
+Randomized;2400;[0,5];Radix Sort;1152684
+Randomized;2400;[0,5];Merge Sort;685037
+Randomized;2400;[0,5];Quick Sort;1710048
+Randomized;2400;[0,5];Heap Sort;484612
+Randomized;2400;[0,5];Shell Sort (Tsiur Sequence);199584
+Randomized;2400;[0,5];Shell Sort (Shell Sequence);277375
+Randomized;2400;[0,4000];Selection Sort;9219437
+Randomized;2400;[0,4000];Bubble Sort;34078674
+Randomized;2400;[0,4000];Bubble Sort (Iverson 1);33865965
+Randomized;2400;[0,4000];Bubble Sort (Iverson 1+2);25671748
+Randomized;2400;[0,4000];Insertion Sort;5175286
+Randomized;2400;[0,4000];Binary Insertion Sort;3702412
+Randomized;2400;[0,4000];Stable Counting Sort;74315
+Randomized;2400;[0,4000];Radix Sort;1153378
+Randomized;2400;[0,4000];Merge Sort;783268
+Randomized;2400;[0,4000];Quick Sort;388118
+Randomized;2400;[0,4000];Heap Sort;614328
+Randomized;2400;[0,4000];Shell Sort (Tsiur Sequence);557272
+Randomized;2400;[0,4000];Shell Sort (Shell Sequence);624603
+Almost sorted;2400;[0,4000];Selection Sort;9045813
+Almost sorted;2400;[0,4000];Bubble Sort;17152916
+Almost sorted;2400;[0,4000];Bubble Sort (Iverson 1);139623
+Almost sorted;2400;[0,4000];Bubble Sort (Iverson 1+2);140378
+Almost sorted;2400;[0,4000];Insertion Sort;60654
+Almost sorted;2400;[0,4000];Binary Insertion Sort;198559
+Almost sorted;2400;[0,4000];Stable Counting Sort;65129
+Almost sorted;2400;[0,4000];Radix Sort;1154215
+Almost sorted;2400;[0,4000];Merge Sort;602476
+Almost sorted;2400;[0,4000];Quick Sort;653498
+Almost sorted;2400;[0,4000];Heap Sort;551734
+Almost sorted;2400;[0,4000];Shell Sort (Tsiur Sequence);140278
+Almost sorted;2400;[0,4000];Shell Sort (Shell Sequence);157396
+Reverse sorted;2400;[1,4100];Selection Sort;9020053
+Reverse sorted;2400;[1,4100];Bubble Sort;17060756
+Reverse sorted;2400;[1,4100];Bubble Sort (Iverson 1);14899
+Reverse sorted;2400;[1,4100];Bubble Sort (Iverson 1+2);15064
+Reverse sorted;2400;[1,4100];Insertion Sort;19052
+Reverse sorted;2400;[1,4100];Binary Insertion Sort;168591
+Reverse sorted;2400;[1,4100];Stable Counting Sort;65993
+Reverse sorted;2400;[1,4100];Radix Sort;1153263
+Reverse sorted;2400;[1,4100];Merge Sort;599518
+Reverse sorted;2400;[1,4100];Quick Sort;18125659
+Reverse sorted;2400;[1,4100];Heap Sort;563234
+Reverse sorted;2400;[1,4100];Shell Sort (Tsiur Sequence);79277
+Reverse sorted;2400;[1,4100];Shell Sort (Shell Sequence);99655
+Randomized;2500;[0,5];Selection Sort;9849295
+Randomized;2500;[0,5];Bubble Sort;34640719
+Randomized;2500;[0,5];Bubble Sort (Iverson 1);31904583
+Randomized;2500;[0,5];Bubble Sort (Iverson 1+2);25503706
+Randomized;2500;[0,5];Insertion Sort;4622517
+Randomized;2500;[0,5];Binary Insertion Sort;3667091
+Randomized;2500;[0,5];Stable Counting Sort;50989
+Randomized;2500;[0,5];Radix Sort;1201370
+Randomized;2500;[0,5];Merge Sort;715164
+Randomized;2500;[0,5];Quick Sort;1846694
+Randomized;2500;[0,5];Heap Sort;505312
+Randomized;2500;[0,5];Shell Sort (Tsiur Sequence);207395
+Randomized;2500;[0,5];Shell Sort (Shell Sequence);260958
+Randomized;2500;[0,4000];Selection Sort;9998947
+Randomized;2500;[0,4000];Bubble Sort;37110304
+Randomized;2500;[0,4000];Bubble Sort (Iverson 1);36212442
+Randomized;2500;[0,4000];Bubble Sort (Iverson 1+2);27949334
+Randomized;2500;[0,4000];Insertion Sort;5613954
+Randomized;2500;[0,4000];Binary Insertion Sort;4002323
+Randomized;2500;[0,4000];Stable Counting Sort;76835
+Randomized;2500;[0,4000];Radix Sort;1200993
+Randomized;2500;[0,4000];Merge Sort;818108
+Randomized;2500;[0,4000];Quick Sort;407976
+Randomized;2500;[0,4000];Heap Sort;643486
+Randomized;2500;[0,4000];Shell Sort (Tsiur Sequence);590126
+Randomized;2500;[0,4000];Shell Sort (Shell Sequence);677544
+Almost sorted;2500;[0,4000];Selection Sort;9815677
+Almost sorted;2500;[0,4000];Bubble Sort;18608148
+Almost sorted;2500;[0,4000];Bubble Sort (Iverson 1);145302
+Almost sorted;2500;[0,4000];Bubble Sort (Iverson 1+2);146351
+Almost sorted;2500;[0,4000];Insertion Sort;63122
+Almost sorted;2500;[0,4000];Binary Insertion Sort;207894
+Almost sorted;2500;[0,4000];Stable Counting Sort;67333
+Almost sorted;2500;[0,4000];Radix Sort;1200591
+Almost sorted;2500;[0,4000];Merge Sort;624688
+Almost sorted;2500;[0,4000];Quick Sort;700683
+Almost sorted;2500;[0,4000];Heap Sort;577430
+Almost sorted;2500;[0,4000];Shell Sort (Tsiur Sequence);147212
+Almost sorted;2500;[0,4000];Shell Sort (Shell Sequence);167858
+Reverse sorted;2500;[1,4100];Selection Sort;9783882
+Reverse sorted;2500;[1,4100];Bubble Sort;18514401
+Reverse sorted;2500;[1,4100];Bubble Sort (Iverson 1);15520
+Reverse sorted;2500;[1,4100];Bubble Sort (Iverson 1+2);15580
+Reverse sorted;2500;[1,4100];Insertion Sort;19841
+Reverse sorted;2500;[1,4100];Binary Insertion Sort;176636
+Reverse sorted;2500;[1,4100];Stable Counting Sort;68840
+Reverse sorted;2500;[1,4100];Radix Sort;1200843
+Reverse sorted;2500;[1,4100];Merge Sort;621557
+Reverse sorted;2500;[1,4100];Quick Sort;19690323
+Reverse sorted;2500;[1,4100];Heap Sort;589478
+Reverse sorted;2500;[1,4100];Shell Sort (Tsiur Sequence);83039
+Reverse sorted;2500;[1,4100];Shell Sort (Shell Sequence);103924
+Randomized;2600;[0,5];Selection Sort;10642013
+Randomized;2600;[0,5];Bubble Sort;37678258
+Randomized;2600;[0,5];Bubble Sort (Iverson 1);34679852
+Randomized;2600;[0,5];Bubble Sort (Iverson 1+2);27730135
+Randomized;2600;[0,5];Insertion Sort;4982005
+Randomized;2600;[0,5];Binary Insertion Sort;3964548
+Randomized;2600;[0,5];Stable Counting Sort;52984
+Randomized;2600;[0,5];Radix Sort;1249157
+Randomized;2600;[0,5];Merge Sort;747407
+Randomized;2600;[0,5];Quick Sort;2000491
+Randomized;2600;[0,5];Heap Sort;525320
+Randomized;2600;[0,5];Shell Sort (Tsiur Sequence);220419
+Randomized;2600;[0,5];Shell Sort (Shell Sequence);275336
+Randomized;2600;[0,4000];Selection Sort;10808813
+Randomized;2600;[0,4000];Bubble Sort;40194139
+Randomized;2600;[0,4000];Bubble Sort (Iverson 1);39611107
+Randomized;2600;[0,4000];Bubble Sort (Iverson 1+2);30415339
+Randomized;2600;[0,4000];Insertion Sort;6043013
+Randomized;2600;[0,4000];Binary Insertion Sort;4288555
+Randomized;2600;[0,4000];Stable Counting Sort;78404
+Randomized;2600;[0,4000];Radix Sort;1249510
+Randomized;2600;[0,4000];Merge Sort;852780
+Randomized;2600;[0,4000];Quick Sort;445770
+Randomized;2600;[0,4000];Heap Sort;674676
+Randomized;2600;[0,4000];Shell Sort (Tsiur Sequence);616556
+Randomized;2600;[0,4000];Shell Sort (Shell Sequence);730047
+Almost sorted;2600;[0,4000];Selection Sort;10611869
+Almost sorted;2600;[0,4000];Bubble Sort;20117168
+Almost sorted;2600;[0,4000];Bubble Sort (Iverson 1);151047
+Almost sorted;2600;[0,4000];Bubble Sort (Iverson 1+2);152025
+Almost sorted;2600;[0,4000];Insertion Sort;65630
+Almost sorted;2600;[0,4000];Binary Insertion Sort;217610
+Almost sorted;2600;[0,4000];Stable Counting Sort;71959
+Almost sorted;2600;[0,4000];Radix Sort;1249090
+Almost sorted;2600;[0,4000];Merge Sort;653038
+Almost sorted;2600;[0,4000];Quick Sort;722133
+Almost sorted;2600;[0,4000];Heap Sort;603915
+Almost sorted;2600;[0,4000];Shell Sort (Tsiur Sequence);152610
+Almost sorted;2600;[0,4000];Shell Sort (Shell Sequence);146932
+Reverse sorted;2600;[1,4100];Selection Sort;10580304
+Reverse sorted;2600;[1,4100];Bubble Sort;20025420
+Reverse sorted;2600;[1,4100];Bubble Sort (Iverson 1);16093
+Reverse sorted;2600;[1,4100];Bubble Sort (Iverson 1+2);16215
+Reverse sorted;2600;[1,4100];Insertion Sort;20615
+Reverse sorted;2600;[1,4100];Binary Insertion Sort;184582
+Reverse sorted;2600;[1,4100];Stable Counting Sort;71370
+Reverse sorted;2600;[1,4100];Radix Sort;1249215
+Reverse sorted;2600;[1,4100];Merge Sort;649717
+Reverse sorted;2600;[1,4100];Quick Sort;21323567
+Reverse sorted;2600;[1,4100];Heap Sort;615693
+Reverse sorted;2600;[1,4100];Shell Sort (Tsiur Sequence);86849
+Reverse sorted;2600;[1,4100];Shell Sort (Shell Sequence);108073
+Randomized;2700;[0,5];Selection Sort;11509766
+Randomized;2700;[0,5];Bubble Sort;40881529
+Randomized;2700;[0,5];Bubble Sort (Iverson 1);37624728
+Randomized;2700;[0,5];Bubble Sort (Iverson 1+2);30020575
+Randomized;2700;[0,5];Insertion Sort;5414526
+Randomized;2700;[0,5];Binary Insertion Sort;4302376
+Randomized;2700;[0,5];Stable Counting Sort;54986
+Randomized;2700;[0,5];Radix Sort;1296829
+Randomized;2700;[0,5];Merge Sort;782561
+Randomized;2700;[0,5];Quick Sort;2149833
+Randomized;2700;[0,5];Heap Sort;550221
+Randomized;2700;[0,5];Shell Sort (Tsiur Sequence);226380
+Randomized;2700;[0,5];Shell Sort (Shell Sequence);275414
+Randomized;2700;[0,4000];Selection Sort;11646889
+Randomized;2700;[0,4000];Bubble Sort;43492129
+Randomized;2700;[0,4000];Bubble Sort (Iverson 1);42924621
+Randomized;2700;[0,4000];Bubble Sort (Iverson 1+2);32928641
+Randomized;2700;[0,4000];Insertion Sort;6500791
+Randomized;2700;[0,4000];Binary Insertion Sort;4618337
+Randomized;2700;[0,4000];Stable Counting Sort;81027
+Randomized;2700;[0,4000];Radix Sort;1297292
+Randomized;2700;[0,4000];Merge Sort;891834
+Randomized;2700;[0,4000];Quick Sort;437149
+Randomized;2700;[0,4000];Heap Sort;700649
+Randomized;2700;[0,4000];Shell Sort (Tsiur Sequence);647631
+Randomized;2700;[0,4000];Shell Sort (Shell Sequence);712139
+Almost sorted;2700;[0,4000];Selection Sort;11493171
+Almost sorted;2700;[0,4000];Bubble Sort;21692858
+Almost sorted;2700;[0,4000];Bubble Sort (Iverson 1);157045
+Almost sorted;2700;[0,4000];Bubble Sort (Iverson 1+2);157882
+Almost sorted;2700;[0,4000];Insertion Sort;68048
+Almost sorted;2700;[0,4000];Binary Insertion Sort;225604
+Almost sorted;2700;[0,4000];Stable Counting Sort;74304
+Almost sorted;2700;[0,4000];Radix Sort;1297022
+Almost sorted;2700;[0,4000];Merge Sort;678511
+Almost sorted;2700;[0,4000];Quick Sort;751957
+Almost sorted;2700;[0,4000];Heap Sort;630974
+Almost sorted;2700;[0,4000];Shell Sort (Tsiur Sequence);158953
+Almost sorted;2700;[0,4000];Shell Sort (Shell Sequence);159585
+Reverse sorted;2700;[1,4100];Selection Sort;11407311
+Reverse sorted;2700;[1,4100];Bubble Sort;21594858
+Reverse sorted;2700;[1,4100];Bubble Sort (Iverson 1);16729
+Reverse sorted;2700;[1,4100];Bubble Sort (Iverson 1+2);16833
+Reverse sorted;2700;[1,4100];Insertion Sort;21395
+Reverse sorted;2700;[1,4100];Binary Insertion Sort;192218
+Reverse sorted;2700;[1,4100];Stable Counting Sort;75123
+Reverse sorted;2700;[1,4100];Radix Sort;1298200
+Reverse sorted;2700;[1,4100];Merge Sort;675564
+Reverse sorted;2700;[1,4100];Quick Sort;23017183
+Reverse sorted;2700;[1,4100];Heap Sort;641637
+Reverse sorted;2700;[1,4100];Shell Sort (Tsiur Sequence);90683
+Reverse sorted;2700;[1,4100];Shell Sort (Shell Sequence);112214
+Randomized;2800;[0,5];Selection Sort;12339109
+Randomized;2800;[0,5];Bubble Sort;44083387
+Randomized;2800;[0,5];Bubble Sort (Iverson 1);40550447
+Randomized;2800;[0,5];Bubble Sort (Iverson 1+2);32331063
+Randomized;2800;[0,5];Insertion Sort;5769085
+Randomized;2800;[0,5];Binary Insertion Sort;4619129
+Randomized;2800;[0,5];Stable Counting Sort;57083
+Randomized;2800;[0,5];Radix Sort;1344864
+Randomized;2800;[0,5];Merge Sort;807117
+Randomized;2800;[0,5];Quick Sort;2298804
+Randomized;2800;[0,5];Heap Sort;571567
+Randomized;2800;[0,5];Shell Sort (Tsiur Sequence);237516
+Randomized;2800;[0,5];Shell Sort (Shell Sequence);289192
+Randomized;2800;[0,4000];Selection Sort;12531009
+Randomized;2800;[0,4000];Bubble Sort;46847263
+Randomized;2800;[0,4000];Bubble Sort (Iverson 1);46833110
+Randomized;2800;[0,4000];Bubble Sort (Iverson 1+2);35514803
+Randomized;2800;[0,4000];Insertion Sort;6984943
+Randomized;2800;[0,4000];Binary Insertion Sort;4943284
+Randomized;2800;[0,4000];Stable Counting Sort;82557
+Randomized;2800;[0,4000];Radix Sort;1345808
+Randomized;2800;[0,4000];Merge Sort;922847
+Randomized;2800;[0,4000];Quick Sort;485762
+Randomized;2800;[0,4000];Heap Sort;730987
+Randomized;2800;[0,4000];Shell Sort (Tsiur Sequence);668932
+Randomized;2800;[0,4000];Shell Sort (Shell Sequence);748462
+Almost sorted;2800;[0,4000];Selection Sort;12304527
+Almost sorted;2800;[0,4000];Bubble Sort;23323286
+Almost sorted;2800;[0,4000];Bubble Sort (Iverson 1);162751
+Almost sorted;2800;[0,4000];Bubble Sort (Iverson 1+2);163873
+Almost sorted;2800;[0,4000];Insertion Sort;70615
+Almost sorted;2800;[0,4000];Binary Insertion Sort;234392
+Almost sorted;2800;[0,4000];Stable Counting Sort;76246
+Almost sorted;2800;[0,4000];Radix Sort;1345251
+Almost sorted;2800;[0,4000];Merge Sort;710953
+Almost sorted;2800;[0,4000];Quick Sort;787741
+Almost sorted;2800;[0,4000];Heap Sort;656967
+Almost sorted;2800;[0,4000];Shell Sort (Tsiur Sequence);166134
+Almost sorted;2800;[0,4000];Shell Sort (Shell Sequence);175073
+Reverse sorted;2800;[1,4100];Selection Sort;12268869
+Reverse sorted;2800;[1,4100];Bubble Sort;23225120
+Reverse sorted;2800;[1,4100];Bubble Sort (Iverson 1);17447
+Reverse sorted;2800;[1,4100];Bubble Sort (Iverson 1+2);17468
+Reverse sorted;2800;[1,4100];Insertion Sort;22209
+Reverse sorted;2800;[1,4100];Binary Insertion Sort;200385
+Reverse sorted;2800;[1,4100];Stable Counting Sort;78343
+Reverse sorted;2800;[1,4100];Radix Sort;1344891
+Reverse sorted;2800;[1,4100];Merge Sort;707417
+Reverse sorted;2800;[1,4100];Quick Sort;24825682
+Reverse sorted;2800;[1,4100];Heap Sort;667847
+Reverse sorted;2800;[1,4100];Shell Sort (Tsiur Sequence);94339
+Reverse sorted;2800;[1,4100];Shell Sort (Shell Sequence);116244
+Randomized;2900;[0,5];Selection Sort;13227621
+Randomized;2900;[0,5];Bubble Sort;47532510
+Randomized;2900;[0,5];Bubble Sort (Iverson 1);43751049
+Randomized;2900;[0,5];Bubble Sort (Iverson 1+2);35014268
+Randomized;2900;[0,5];Insertion Sort;6200202
+Randomized;2900;[0,5];Binary Insertion Sort;4950951
+Randomized;2900;[0,5];Stable Counting Sort;59044
+Randomized;2900;[0,5];Radix Sort;1393316
+Randomized;2900;[0,5];Merge Sort;830934
+Randomized;2900;[0,5];Quick Sort;2453772
+Randomized;2900;[0,5];Heap Sort;594152
+Randomized;2900;[0,5];Shell Sort (Tsiur Sequence);244424
+Randomized;2900;[0,5];Shell Sort (Shell Sequence);293621
+Randomized;2900;[0,4000];Selection Sort;13426524
+Randomized;2900;[0,4000];Bubble Sort;50425006
+Randomized;2900;[0,4000];Bubble Sort (Iverson 1);49727216
+Randomized;2900;[0,4000];Bubble Sort (Iverson 1+2);38184780
+Randomized;2900;[0,4000];Insertion Sort;7450912
+Randomized;2900;[0,4000];Binary Insertion Sort;5267486
+Randomized;2900;[0,4000];Stable Counting Sort;84964
+Randomized;2900;[0,4000];Radix Sort;1393244
+Randomized;2900;[0,4000];Merge Sort;952777
+Randomized;2900;[0,4000];Quick Sort;475431
+Randomized;2900;[0,4000];Heap Sort;763540
+Randomized;2900;[0,4000];Shell Sort (Tsiur Sequence);695786
+Randomized;2900;[0,4000];Shell Sort (Shell Sequence);781801
+Almost sorted;2900;[0,4000];Selection Sort;13190448
+Almost sorted;2900;[0,4000];Bubble Sort;25009567
+Almost sorted;2900;[0,4000];Bubble Sort (Iverson 1);168506
+Almost sorted;2900;[0,4000];Bubble Sort (Iverson 1+2);169617
+Almost sorted;2900;[0,4000];Insertion Sort;73149
+Almost sorted;2900;[0,4000];Binary Insertion Sort;243316
+Almost sorted;2900;[0,4000];Stable Counting Sort;78742
+Almost sorted;2900;[0,4000];Radix Sort;1392878
+Almost sorted;2900;[0,4000];Merge Sort;732065
+Almost sorted;2900;[0,4000];Quick Sort;829748
+Almost sorted;2900;[0,4000];Heap Sort;683029
+Almost sorted;2900;[0,4000];Shell Sort (Tsiur Sequence);172524
+Almost sorted;2900;[0,4000];Shell Sort (Shell Sequence);184246
+Reverse sorted;2900;[1,4100];Selection Sort;13156980
+Reverse sorted;2900;[1,4100];Bubble Sort;24905787
+Reverse sorted;2900;[1,4100];Bubble Sort (Iverson 1);18080
+Reverse sorted;2900;[1,4100];Bubble Sort (Iverson 1+2);18079
+Reverse sorted;2900;[1,4100];Insertion Sort;22990
+Reverse sorted;2900;[1,4100];Binary Insertion Sort;208350
+Reverse sorted;2900;[1,4100];Stable Counting Sort;81652
+Reverse sorted;2900;[1,4100];Radix Sort;1398089
+Reverse sorted;2900;[1,4100];Merge Sort;727354
+Reverse sorted;2900;[1,4100];Quick Sort;26583050
+Reverse sorted;2900;[1,4100];Heap Sort;693778
+Reverse sorted;2900;[1,4100];Shell Sort (Tsiur Sequence);98110
+Reverse sorted;2900;[1,4100];Shell Sort (Shell Sequence);120471
+Randomized;3000;[0,5];Selection Sort;14153027
+Randomized;3000;[0,5];Bubble Sort;51024114
+Randomized;3000;[0,5];Bubble Sort (Iverson 1);46778180
+Randomized;3000;[0,5];Bubble Sort (Iverson 1+2);37666525
+Randomized;3000;[0,5];Insertion Sort;6629655
+Randomized;3000;[0,5];Binary Insertion Sort;5305816
+Randomized;3000;[0,5];Stable Counting Sort;61176
+Randomized;3000;[0,5];Radix Sort;1442633
+Randomized;3000;[0,5];Merge Sort;865041
+Randomized;3000;[0,5];Quick Sort;2628207
+Randomized;3000;[0,5];Heap Sort;617056
+Randomized;3000;[0,5];Shell Sort (Tsiur Sequence);253872
+Randomized;3000;[0,5];Shell Sort (Shell Sequence);301976
+Randomized;3000;[0,4000];Selection Sort;14381875
+Randomized;3000;[0,4000];Bubble Sort;54272147
+Randomized;3000;[0,4000];Bubble Sort (Iverson 1);54337817
+Randomized;3000;[0,4000];Bubble Sort (Iverson 1+2);41072841
+Randomized;3000;[0,4000];Insertion Sort;8009267
+Randomized;3000;[0,4000];Binary Insertion Sort;5651374
+Randomized;3000;[0,4000];Stable Counting Sort;86656
+Randomized;3000;[0,4000];Radix Sort;1449049
+Randomized;3000;[0,4000];Merge Sort;985846
+Randomized;3000;[0,4000];Quick Sort;500799
+Randomized;3000;[0,4000];Heap Sort;791379
+Randomized;3000;[0,4000];Shell Sort (Tsiur Sequence);725701
+Randomized;3000;[0,4000];Shell Sort (Shell Sequence);840919
+Almost sorted;3000;[0,4000];Selection Sort;14148273
+Almost sorted;3000;[0,4000];Bubble Sort;26825079
+Almost sorted;3000;[0,4000];Bubble Sort (Iverson 1);174818
+Almost sorted;3000;[0,4000];Bubble Sort (Iverson 1+2);175809
+Almost sorted;3000;[0,4000];Insertion Sort;75869
+Almost sorted;3000;[0,4000];Binary Insertion Sort;252531
+Almost sorted;3000;[0,4000];Stable Counting Sort;80111
+Almost sorted;3000;[0,4000];Radix Sort;1440976
+Almost sorted;3000;[0,4000];Merge Sort;756204
+Almost sorted;3000;[0,4000];Quick Sort;888511
+Almost sorted;3000;[0,4000];Heap Sort;709972
+Almost sorted;3000;[0,4000];Shell Sort (Tsiur Sequence);178522
+Almost sorted;3000;[0,4000];Shell Sort (Shell Sequence);190879
+Reverse sorted;3000;[1,4100];Selection Sort;14105183
+Reverse sorted;3000;[1,4100];Bubble Sort;26706263
+Reverse sorted;3000;[1,4100];Bubble Sort (Iverson 1);18834
+Reverse sorted;3000;[1,4100];Bubble Sort (Iverson 1+2);18710
+Reverse sorted;3000;[1,4100];Insertion Sort;23800
+Reverse sorted;3000;[1,4100];Binary Insertion Sort;223520
+Reverse sorted;3000;[1,4100];Stable Counting Sort;84311
+Reverse sorted;3000;[1,4100];Radix Sort;1433151
+Reverse sorted;3000;[1,4100];Merge Sort;752039
+Reverse sorted;3000;[1,4100];Quick Sort;28496702
+Reverse sorted;3000;[1,4100];Heap Sort;720179
+Reverse sorted;3000;[1,4100];Shell Sort (Tsiur Sequence);101864
+Reverse sorted;3000;[1,4100];Shell Sort (Shell Sequence);124682
+Randomized;3100;[0,5];Selection Sort;15105969
+Randomized;3100;[0,5];Bubble Sort;54647417
+Randomized;3100;[0,5];Bubble Sort (Iverson 1);50439463
+Randomized;3100;[0,5];Bubble Sort (Iverson 1+2);40403865
+Randomized;3100;[0,5];Insertion Sort;7061118
+Randomized;3100;[0,5];Binary Insertion Sort;5667056
+Randomized;3100;[0,5];Stable Counting Sort;63277
+Randomized;3100;[0,5];Radix Sort;1488379
+Randomized;3100;[0,5];Merge Sort;892059
+Randomized;3100;[0,5];Quick Sort;2796654
+Randomized;3100;[0,5];Heap Sort;640773
+Randomized;3100;[0,5];Shell Sort (Tsiur Sequence);262425
+Randomized;3100;[0,5];Shell Sort (Shell Sequence);318663
+Randomized;3100;[0,4000];Selection Sort;15313046
+Randomized;3100;[0,4000];Bubble Sort;58010182
+Randomized;3100;[0,4000];Bubble Sort (Iverson 1);57474416
+Randomized;3100;[0,4000];Bubble Sort (Iverson 1+2);43976229
+Randomized;3100;[0,4000];Insertion Sort;8538535
+Randomized;3100;[0,4000];Binary Insertion Sort;6002229
+Randomized;3100;[0,4000];Stable Counting Sort;88226
+Randomized;3100;[0,4000];Radix Sort;1488575
+Randomized;3100;[0,4000];Merge Sort;1013459
+Randomized;3100;[0,4000];Quick Sort;517920
+Randomized;3100;[0,4000];Heap Sort;820486
+Randomized;3100;[0,4000];Shell Sort (Tsiur Sequence);749896
+Randomized;3100;[0,4000];Shell Sort (Shell Sequence);963195
+Almost sorted;3100;[0,4000];Selection Sort;15067943
+Almost sorted;3100;[0,4000];Bubble Sort;28627075
+Almost sorted;3100;[0,4000];Bubble Sort (Iverson 1);180689
+Almost sorted;3100;[0,4000];Bubble Sort (Iverson 1+2);181679
+Almost sorted;3100;[0,4000];Insertion Sort;84987
+Almost sorted;3100;[0,4000];Binary Insertion Sort;261187
+Almost sorted;3100;[0,4000];Stable Counting Sort;84831
+Almost sorted;3100;[0,4000];Radix Sort;1490409
+Almost sorted;3100;[0,4000];Merge Sort;775086
+Almost sorted;3100;[0,4000];Quick Sort;906673
+Almost sorted;3100;[0,4000];Heap Sort;736286
+Almost sorted;3100;[0,4000];Shell Sort (Tsiur Sequence);184603
+Almost sorted;3100;[0,4000];Shell Sort (Shell Sequence);194983
+Reverse sorted;3100;[1,4100];Selection Sort;15062903
+Reverse sorted;3100;[1,4100];Bubble Sort;28514446
+Reverse sorted;3100;[1,4100];Bubble Sort (Iverson 1);19213
+Reverse sorted;3100;[1,4100];Bubble Sort (Iverson 1+2);19356
+Reverse sorted;3100;[1,4100];Insertion Sort;24581
+Reverse sorted;3100;[1,4100];Binary Insertion Sort;224563
+Reverse sorted;3100;[1,4100];Stable Counting Sort;86560
+Reverse sorted;3100;[1,4100];Radix Sort;1490899
+Reverse sorted;3100;[1,4100];Merge Sort;771578
+Reverse sorted;3100;[1,4100];Quick Sort;30471972
+Reverse sorted;3100;[1,4100];Heap Sort;748405
+Reverse sorted;3100;[1,4100];Shell Sort (Tsiur Sequence);106214
+Reverse sorted;3100;[1,4100];Shell Sort (Shell Sequence);129050
+Randomized;3200;[0,5];Selection Sort;16125331
+Randomized;3200;[0,5];Bubble Sort;58392849
+Randomized;3200;[0,5];Bubble Sort (Iverson 1);53916772
+Randomized;3200;[0,5];Bubble Sort (Iverson 1+2);43207794
+Randomized;3200;[0,5];Insertion Sort;7557436
+Randomized;3200;[0,5];Binary Insertion Sort;6071119
+Randomized;3200;[0,5];Stable Counting Sort;65364
+Randomized;3200;[0,5];Radix Sort;1546904
+Randomized;3200;[0,5];Merge Sort;921933
+Randomized;3200;[0,5];Quick Sort;2970473
+Randomized;3200;[0,5];Heap Sort;665892
+Randomized;3200;[0,5];Shell Sort (Tsiur Sequence);278515
+Randomized;3200;[0,5];Shell Sort (Shell Sequence);397370
+Randomized;3200;[0,4000];Selection Sort;16343297
+Randomized;3200;[0,4000];Bubble Sort;62170775
+Randomized;3200;[0,4000];Bubble Sort (Iverson 1);62212623
+Randomized;3200;[0,4000];Bubble Sort (Iverson 1+2);47599209
+Randomized;3200;[0,4000];Insertion Sort;9122669
+Randomized;3200;[0,4000];Binary Insertion Sort;6395316
+Randomized;3200;[0,4000];Stable Counting Sort;90288
+Randomized;3200;[0,4000];Radix Sort;1536986
+Randomized;3200;[0,4000];Merge Sort;1055571
+Randomized;3200;[0,4000];Quick Sort;553086
+Randomized;3200;[0,4000];Heap Sort;849983
+Randomized;3200;[0,4000];Shell Sort (Tsiur Sequence);779556
+Randomized;3200;[0,4000];Shell Sort (Shell Sequence);983582
+Almost sorted;3200;[0,4000];Selection Sort;16052152
+Almost sorted;3200;[0,4000];Bubble Sort;30449778
+Almost sorted;3200;[0,4000];Bubble Sort (Iverson 1);186549
+Almost sorted;3200;[0,4000];Bubble Sort (Iverson 1+2);187613
+Almost sorted;3200;[0,4000];Insertion Sort;80744
+Almost sorted;3200;[0,4000];Binary Insertion Sort;270506
+Almost sorted;3200;[0,4000];Stable Counting Sort;87113
+Almost sorted;3200;[0,4000];Radix Sort;1539817
+Almost sorted;3200;[0,4000];Merge Sort;808494
+Almost sorted;3200;[0,4000];Quick Sort;940328
+Almost sorted;3200;[0,4000];Heap Sort;771822
+Almost sorted;3200;[0,4000];Shell Sort (Tsiur Sequence);193598
+Almost sorted;3200;[0,4000];Shell Sort (Shell Sequence);208473
+Reverse sorted;3200;[1,4100];Selection Sort;16042502
+Reverse sorted;3200;[1,4100];Bubble Sort;30368452
+Reverse sorted;3200;[1,4100];Bubble Sort (Iverson 1);19916
+Reverse sorted;3200;[1,4100];Bubble Sort (Iverson 1+2);19928
+Reverse sorted;3200;[1,4100];Insertion Sort;25351
+Reverse sorted;3200;[1,4100];Binary Insertion Sort;232342
+Reverse sorted;3200;[1,4100];Stable Counting Sort;89315
+Reverse sorted;3200;[1,4100];Radix Sort;1536954
+Reverse sorted;3200;[1,4100];Merge Sort;802035
+Reverse sorted;3200;[1,4100];Quick Sort;32433539
+Reverse sorted;3200;[1,4100];Heap Sort;775247
+Reverse sorted;3200;[1,4100];Shell Sort (Tsiur Sequence);109650
+Reverse sorted;3200;[1,4100];Shell Sort (Shell Sequence);132903
+Randomized;3300;[0,5];Selection Sort;17144068
+Randomized;3300;[0,5];Bubble Sort;62272443
+Randomized;3300;[0,5];Bubble Sort (Iverson 1);57630657
+Randomized;3300;[0,5];Bubble Sort (Iverson 1+2);46180670
+Randomized;3300;[0,5];Insertion Sort;8039202
+Randomized;3300;[0,5];Binary Insertion Sort;6467647
+Randomized;3300;[0,5];Stable Counting Sort;67497
+Randomized;3300;[0,5];Radix Sort;1588154
+Randomized;3300;[0,5];Merge Sort;954716
+Randomized;3300;[0,5];Quick Sort;3167632
+Randomized;3300;[0,5];Heap Sort;683593
+Randomized;3300;[0,5];Shell Sort (Tsiur Sequence);283531
+Randomized;3300;[0,5];Shell Sort (Shell Sequence);335940
+Randomized;3300;[0,4000];Selection Sort;17370141
+Randomized;3300;[0,4000];Bubble Sort;66235299
+Randomized;3300;[0,4000];Bubble Sort (Iverson 1);65910423
+Randomized;3300;[0,4000];Bubble Sort (Iverson 1+2);50546229
+Randomized;3300;[0,4000];Insertion Sort;9726272
+Randomized;3300;[0,4000];Binary Insertion Sort;6824022
+Randomized;3300;[0,4000];Stable Counting Sort;92488
+Randomized;3300;[0,4000];Radix Sort;1595436
+Randomized;3300;[0,4000];Merge Sort;1096079
+Randomized;3300;[0,4000];Quick Sort;574855
+Randomized;3300;[0,4000];Heap Sort;879239
+Randomized;3300;[0,4000];Shell Sort (Tsiur Sequence);812304
+Randomized;3300;[0,4000];Shell Sort (Shell Sequence);934184
+Almost sorted;3300;[0,4000];Selection Sort;17157543
+Almost sorted;3300;[0,4000];Bubble Sort;32443137
+Almost sorted;3300;[0,4000];Bubble Sort (Iverson 1);198967
+Almost sorted;3300;[0,4000];Bubble Sort (Iverson 1+2);193459
+Almost sorted;3300;[0,4000];Insertion Sort;83400
+Almost sorted;3300;[0,4000];Binary Insertion Sort;279911
+Almost sorted;3300;[0,4000];Stable Counting Sort;89073
+Almost sorted;3300;[0,4000];Radix Sort;1588437
+Almost sorted;3300;[0,4000];Merge Sort;834776
+Almost sorted;3300;[0,4000];Quick Sort;979725
+Almost sorted;3300;[0,4000];Heap Sort;790294
+Almost sorted;3300;[0,4000];Shell Sort (Tsiur Sequence);197664
+Almost sorted;3300;[0,4000];Shell Sort (Shell Sequence);223309
+Reverse sorted;3300;[1,4100];Selection Sort;17065824
+Reverse sorted;3300;[1,4100];Bubble Sort;32341206
+Reverse sorted;3300;[1,4100];Bubble Sort (Iverson 1);20461
+Reverse sorted;3300;[1,4100];Bubble Sort (Iverson 1+2);20593
+Reverse sorted;3300;[1,4100];Insertion Sort;26305
+Reverse sorted;3300;[1,4100];Binary Insertion Sort;240472
+Reverse sorted;3300;[1,4100];Stable Counting Sort;92877
+Reverse sorted;3300;[1,4100];Radix Sort;1588105
+Reverse sorted;3300;[1,4100];Merge Sort;830314
+Reverse sorted;3300;[1,4100];Quick Sort;34540937
+Reverse sorted;3300;[1,4100];Heap Sort;800718
+Reverse sorted;3300;[1,4100];Shell Sort (Tsiur Sequence);113169
+Reverse sorted;3300;[1,4100];Shell Sort (Shell Sequence);137050
+Randomized;3400;[0,5];Selection Sort;18167741
+Randomized;3400;[0,5];Bubble Sort;66375150
+Randomized;3400;[0,5];Bubble Sort (Iverson 1);61163956
+Randomized;3400;[0,5];Bubble Sort (Iverson 1+2);49159624
+Randomized;3400;[0,5];Insertion Sort;8530025
+Randomized;3400;[0,5];Binary Insertion Sort;6849860
+Randomized;3400;[0,5];Stable Counting Sort;69336
+Randomized;3400;[0,5];Radix Sort;1632615
+Randomized;3400;[0,5];Merge Sort;981250
+Randomized;3400;[0,5];Quick Sort;3345077
+Randomized;3400;[0,5];Heap Sort;708499
+Randomized;3400;[0,5];Shell Sort (Tsiur Sequence);291154
+Randomized;3400;[0,5];Shell Sort (Shell Sequence);361349
+Randomized;3400;[0,4000];Selection Sort;18426839
+Randomized;3400;[0,4000];Bubble Sort;70548099
+Randomized;3400;[0,4000];Bubble Sort (Iverson 1);70435948
+Randomized;3400;[0,4000];Bubble Sort (Iverson 1+2);53854264
+Randomized;3400;[0,4000];Insertion Sort;10346942
+Randomized;3400;[0,4000];Binary Insertion Sort;7221749
+Randomized;3400;[0,4000];Stable Counting Sort;94368
+Randomized;3400;[0,4000];Radix Sort;1633702
+Randomized;3400;[0,4000];Merge Sort;1127211
+Randomized;3400;[0,4000];Quick Sort;567443
+Randomized;3400;[0,4000];Heap Sort;908565
+Randomized;3400;[0,4000];Shell Sort (Tsiur Sequence);839360
+Randomized;3400;[0,4000];Shell Sort (Shell Sequence);940527
+Almost sorted;3400;[0,4000];Selection Sort;18172695
+Almost sorted;3400;[0,4000];Bubble Sort;34432773
+Almost sorted;3400;[0,4000];Bubble Sort (Iverson 1);197970
+Almost sorted;3400;[0,4000];Bubble Sort (Iverson 1+2);199390
+Almost sorted;3400;[0,4000];Insertion Sort;85994
+Almost sorted;3400;[0,4000];Binary Insertion Sort;289690
+Almost sorted;3400;[0,4000];Stable Counting Sort;90941
+Almost sorted;3400;[0,4000];Radix Sort;1633219
+Almost sorted;3400;[0,4000];Merge Sort;859363
+Almost sorted;3400;[0,4000];Quick Sort;1026865
+Almost sorted;3400;[0,4000];Heap Sort;816064
+Almost sorted;3400;[0,4000];Shell Sort (Tsiur Sequence);203025
+Almost sorted;3400;[0,4000];Shell Sort (Shell Sequence);223658
+Reverse sorted;3400;[1,4100];Selection Sort;18081359
+Reverse sorted;3400;[1,4100];Bubble Sort;34235840
+Reverse sorted;3400;[1,4100];Bubble Sort (Iverson 1);21152
+Reverse sorted;3400;[1,4100];Bubble Sort (Iverson 1+2);21197
+Reverse sorted;3400;[1,4100];Insertion Sort;26953
+Reverse sorted;3400;[1,4100];Binary Insertion Sort;248903
+Reverse sorted;3400;[1,4100];Stable Counting Sort;96065
+Reverse sorted;3400;[1,4100];Radix Sort;1632586
+Reverse sorted;3400;[1,4100];Merge Sort;857368
+Reverse sorted;3400;[1,4100];Quick Sort;36705059
+Reverse sorted;3400;[1,4100];Heap Sort;827971
+Reverse sorted;3400;[1,4100];Shell Sort (Tsiur Sequence);117347
+Reverse sorted;3400;[1,4100];Shell Sort (Shell Sequence);141335
+Randomized;3500;[0,5];Selection Sort;19277681
+Randomized;3500;[0,5];Bubble Sort;70596008
+Randomized;3500;[0,5];Bubble Sort (Iverson 1);65230321
+Randomized;3500;[0,5];Bubble Sort (Iverson 1+2);52429386
+Randomized;3500;[0,5];Insertion Sort;9048848
+Randomized;3500;[0,5];Binary Insertion Sort;7273708
+Randomized;3500;[0,5];Stable Counting Sort;71367
+Randomized;3500;[0,5];Radix Sort;1681883
+Randomized;3500;[0,5];Merge Sort;1019882
+Randomized;3500;[0,5];Quick Sort;3524317
+Randomized;3500;[0,5];Heap Sort;725361
+Randomized;3500;[0,5];Shell Sort (Tsiur Sequence);302947
+Randomized;3500;[0,5];Shell Sort (Shell Sequence);351494
+Randomized;3500;[0,4000];Selection Sort;19476412
+Randomized;3500;[0,4000];Bubble Sort;74847149
+Randomized;3500;[0,4000];Bubble Sort (Iverson 1);74180132
+Randomized;3500;[0,4000];Bubble Sort (Iverson 1+2);57101861
+Randomized;3500;[0,4000];Insertion Sort;10939485
+Randomized;3500;[0,4000];Binary Insertion Sort;7605959
+Randomized;3500;[0,4000];Stable Counting Sort;96428
+Randomized;3500;[0,4000];Radix Sort;1644664
+Randomized;3500;[0,4000];Merge Sort;1168340
+Randomized;3500;[0,4000];Quick Sort;591676
+Randomized;3500;[0,4000];Heap Sort;939345
+Randomized;3500;[0,4000];Shell Sort (Tsiur Sequence);859227
+Randomized;3500;[0,4000];Shell Sort (Shell Sequence);970649
+Almost sorted;3500;[0,4000];Selection Sort;19192524
+Almost sorted;3500;[0,4000];Bubble Sort;36399194
+Almost sorted;3500;[0,4000];Bubble Sort (Iverson 1);203357
+Almost sorted;3500;[0,4000];Bubble Sort (Iverson 1+2);204745
+Almost sorted;3500;[0,4000];Insertion Sort;88289
+Almost sorted;3500;[0,4000];Binary Insertion Sort;298386
+Almost sorted;3500;[0,4000];Stable Counting Sort;93033
+Almost sorted;3500;[0,4000];Radix Sort;1681060
+Almost sorted;3500;[0,4000];Merge Sort;887699
+Almost sorted;3500;[0,4000];Quick Sort;1079704
+Almost sorted;3500;[0,4000];Heap Sort;840504
+Almost sorted;3500;[0,4000];Shell Sort (Tsiur Sequence);209924
+Almost sorted;3500;[0,4000];Shell Sort (Shell Sequence);235876
+Reverse sorted;3500;[1,4100];Selection Sort;19154081
+Reverse sorted;3500;[1,4100];Bubble Sort;36272149
+Reverse sorted;3500;[1,4100];Bubble Sort (Iverson 1);21793
+Reverse sorted;3500;[1,4100];Bubble Sort (Iverson 1+2);21806
+Reverse sorted;3500;[1,4100];Insertion Sort;27749
+Reverse sorted;3500;[1,4100];Binary Insertion Sort;256293
+Reverse sorted;3500;[1,4100];Stable Counting Sort;99543
+Reverse sorted;3500;[1,4100];Radix Sort;1680860
+Reverse sorted;3500;[1,4100];Merge Sort;882853
+Reverse sorted;3500;[1,4100];Quick Sort;38822633
+Reverse sorted;3500;[1,4100];Heap Sort;851685
+Reverse sorted;3500;[1,4100];Shell Sort (Tsiur Sequence);120717
+Reverse sorted;3500;[1,4100];Shell Sort (Shell Sequence);145278
+Randomized;3600;[0,5];Selection Sort;20349945
+Randomized;3600;[0,5];Bubble Sort;75010656
+Randomized;3600;[0,5];Bubble Sort (Iverson 1);69239336
+Randomized;3600;[0,5];Bubble Sort (Iverson 1+2);55683945
+Randomized;3600;[0,5];Insertion Sort;9652057
+Randomized;3600;[0,5];Binary Insertion Sort;7715833
+Randomized;3600;[0,5];Stable Counting Sort;73447
+Randomized;3600;[0,5];Radix Sort;1730861
+Randomized;3600;[0,5];Merge Sort;1051169
+Randomized;3600;[0,5];Quick Sort;3724501
+Randomized;3600;[0,5];Heap Sort;749035
+Randomized;3600;[0,5];Shell Sort (Tsiur Sequence);311546
+Randomized;3600;[0,5];Shell Sort (Shell Sequence);407314
+Randomized;3600;[0,4000];Selection Sort;20645098
+Randomized;3600;[0,4000];Bubble Sort;79565207
+Randomized;3600;[0,4000];Bubble Sort (Iverson 1);78848078
+Randomized;3600;[0,4000];Bubble Sort (Iverson 1+2);60791839
+Randomized;3600;[0,4000];Insertion Sort;11580868
+Randomized;3600;[0,4000];Binary Insertion Sort;8069490
+Randomized;3600;[0,4000];Stable Counting Sort;98525
+Randomized;3600;[0,4000];Radix Sort;1730922
+Randomized;3600;[0,4000];Merge Sort;1201029
+Randomized;3600;[0,4000];Quick Sort;608157
+Randomized;3600;[0,4000];Heap Sort;972539
+Randomized;3600;[0,4000];Shell Sort (Tsiur Sequence);894729
+Randomized;3600;[0,4000];Shell Sort (Shell Sequence);1103637
+Almost sorted;3600;[0,4000];Selection Sort;20299551
+Almost sorted;3600;[0,4000];Bubble Sort;38607457
+Almost sorted;3600;[0,4000];Bubble Sort (Iverson 1);37560416
+Almost sorted;3600;[0,4000];Bubble Sort (Iverson 1+2);19699514
+Almost sorted;3600;[0,4000];Insertion Sort;150531
+Almost sorted;3600;[0,4000];Binary Insertion Sort;346417
+Almost sorted;3600;[0,4000];Stable Counting Sort;95719
+Almost sorted;3600;[0,4000];Radix Sort;1729474
+Almost sorted;3600;[0,4000];Merge Sort;917794
+Almost sorted;3600;[0,4000];Quick Sort;1838728
+Almost sorted;3600;[0,4000];Heap Sort;883556
+Almost sorted;3600;[0,4000];Shell Sort (Tsiur Sequence);262819
+Almost sorted;3600;[0,4000];Shell Sort (Shell Sequence);288805
+Reverse sorted;3600;[1,4100];Selection Sort;20266669
+Reverse sorted;3600;[1,4100];Bubble Sort;38403490
+Reverse sorted;3600;[1,4100];Bubble Sort (Iverson 1);22313
+Reverse sorted;3600;[1,4100];Bubble Sort (Iverson 1+2);22451
+Reverse sorted;3600;[1,4100];Insertion Sort;28534
+Reverse sorted;3600;[1,4100];Binary Insertion Sort;264887
+Reverse sorted;3600;[1,4100];Stable Counting Sort;102443
+Reverse sorted;3600;[1,4100];Radix Sort;1731166
+Reverse sorted;3600;[1,4100];Merge Sort;914684
+Reverse sorted;3600;[1,4100];Quick Sort;41189389
+Reverse sorted;3600;[1,4100];Heap Sort;879452
+Reverse sorted;3600;[1,4100];Shell Sort (Tsiur Sequence);124741
+Reverse sorted;3600;[1,4100];Shell Sort (Shell Sequence);149506
+Randomized;3700;[0,5];Selection Sort;21536422
+Randomized;3700;[0,5];Bubble Sort;79591119
+Randomized;3700;[0,5];Bubble Sort (Iverson 1);73499590
+Randomized;3700;[0,5];Bubble Sort (Iverson 1+2);59145892
+Randomized;3700;[0,5];Insertion Sort;10164292
+Randomized;3700;[0,5];Binary Insertion Sort;8173683
+Randomized;3700;[0,5];Stable Counting Sort;75542
+Randomized;3700;[0,5];Radix Sort;1775765
+Randomized;3700;[0,5];Merge Sort;1082998
+Randomized;3700;[0,5];Quick Sort;3928777
+Randomized;3700;[0,5];Heap Sort;773436
+Randomized;3700;[0,5];Shell Sort (Tsiur Sequence);322662
+Randomized;3700;[0,5];Shell Sort (Shell Sequence);369069
+Randomized;3700;[0,4000];Selection Sort;21789363
+Randomized;3700;[0,4000];Bubble Sort;84074381
+Randomized;3700;[0,4000];Bubble Sort (Iverson 1);84076937
+Randomized;3700;[0,4000];Bubble Sort (Iverson 1+2);64341553
+Randomized;3700;[0,4000];Insertion Sort;12222487
+Randomized;3700;[0,4000];Binary Insertion Sort;8489402
+Randomized;3700;[0,4000];Stable Counting Sort;100591
+Randomized;3700;[0,4000];Radix Sort;1777516
+Randomized;3700;[0,4000];Merge Sort;1239889
+Randomized;3700;[0,4000];Quick Sort;626756
+Randomized;3700;[0,4000];Heap Sort;999770
+Randomized;3700;[0,4000];Shell Sort (Tsiur Sequence);912734
+Randomized;3700;[0,4000];Shell Sort (Shell Sequence);1038989
+Almost sorted;3700;[0,4000];Selection Sort;21406656
+Almost sorted;3700;[0,4000];Bubble Sort;40759256
+Almost sorted;3700;[0,4000];Bubble Sort (Iverson 1);38602920
+Almost sorted;3700;[0,4000];Bubble Sort (Iverson 1+2);20688594
+Almost sorted;3700;[0,4000];Insertion Sort;151446
+Almost sorted;3700;[0,4000];Binary Insertion Sort;354314
+Almost sorted;3700;[0,4000];Stable Counting Sort;98202
+Almost sorted;3700;[0,4000];Radix Sort;1777591
+Almost sorted;3700;[0,4000];Merge Sort;943534
+Almost sorted;3700;[0,4000];Quick Sort;1950236
+Almost sorted;3700;[0,4000];Heap Sort;907537
+Almost sorted;3700;[0,4000];Shell Sort (Tsiur Sequence);265940
+Almost sorted;3700;[0,4000];Shell Sort (Shell Sequence);317062
+Reverse sorted;3700;[1,4100];Selection Sort;21405397
+Reverse sorted;3700;[1,4100];Bubble Sort;40537784
+Reverse sorted;3700;[1,4100];Bubble Sort (Iverson 1);23117
+Reverse sorted;3700;[1,4100];Bubble Sort (Iverson 1+2);23060
+Reverse sorted;3700;[1,4100];Insertion Sort;29315
+Reverse sorted;3700;[1,4100];Binary Insertion Sort;272605
+Reverse sorted;3700;[1,4100];Stable Counting Sort;105619
+Reverse sorted;3700;[1,4100];Radix Sort;1777693
+Reverse sorted;3700;[1,4100];Merge Sort;939498
+Reverse sorted;3700;[1,4100];Quick Sort;43432643
+Reverse sorted;3700;[1,4100];Heap Sort;905523
+Reverse sorted;3700;[1,4100];Shell Sort (Tsiur Sequence);128352
+Reverse sorted;3700;[1,4100];Shell Sort (Shell Sequence);153541
+Randomized;3800;[0,5];Selection Sort;22667014
+Randomized;3800;[0,5];Bubble Sort;83991606
+Randomized;3800;[0,5];Bubble Sort (Iverson 1);77579102
+Randomized;3800;[0,5];Bubble Sort (Iverson 1+2);62482049
+Randomized;3800;[0,5];Insertion Sort;10636241
+Randomized;3800;[0,5];Binary Insertion Sort;8566455
+Randomized;3800;[0,5];Stable Counting Sort;77397
+Randomized;3800;[0,5];Radix Sort;1825108
+Randomized;3800;[0,5];Merge Sort;1103203
+Randomized;3800;[0,5];Quick Sort;4132839
+Randomized;3800;[0,5];Heap Sort;793081
+Randomized;3800;[0,5];Shell Sort (Tsiur Sequence);331507
+Randomized;3800;[0,5];Shell Sort (Shell Sequence);384029
+Randomized;3800;[0,4000];Selection Sort;22940426
+Randomized;3800;[0,4000];Bubble Sort;88978476
+Randomized;3800;[0,4000];Bubble Sort (Iverson 1);88438090
+Randomized;3800;[0,4000];Bubble Sort (Iverson 1+2);68077907
+Randomized;3800;[0,4000];Insertion Sort;12891144
+Randomized;3800;[0,4000];Binary Insertion Sort;8943747
+Randomized;3800;[0,4000];Stable Counting Sort;102826
+Randomized;3800;[0,4000];Radix Sort;1825284
+Randomized;3800;[0,4000];Merge Sort;1269596
+Randomized;3800;[0,4000];Quick Sort;665257
+Randomized;3800;[0,4000];Heap Sort;1028667
+Randomized;3800;[0,4000];Shell Sort (Tsiur Sequence);945535
+Randomized;3800;[0,4000];Shell Sort (Shell Sequence);1063092
+Almost sorted;3800;[0,4000];Selection Sort;22577678
+Almost sorted;3800;[0,4000];Bubble Sort;42972135
+Almost sorted;3800;[0,4000];Bubble Sort (Iverson 1);39625424
+Almost sorted;3800;[0,4000];Bubble Sort (Iverson 1+2);21738791
+Almost sorted;3800;[0,4000];Insertion Sort;152277
+Almost sorted;3800;[0,4000];Binary Insertion Sort;362305
+Almost sorted;3800;[0,4000];Stable Counting Sort;101200
+Almost sorted;3800;[0,4000];Radix Sort;1837862
+Almost sorted;3800;[0,4000];Merge Sort;964168
+Almost sorted;3800;[0,4000];Quick Sort;2129436
+Almost sorted;3800;[0,4000];Heap Sort;934705
+Almost sorted;3800;[0,4000];Shell Sort (Tsiur Sequence);269813
+Almost sorted;3800;[0,4000];Shell Sort (Shell Sequence);324652
+Reverse sorted;3800;[1,4100];Selection Sort;22576885
+Reverse sorted;3800;[1,4100];Bubble Sort;42758195
+Reverse sorted;3800;[1,4100];Bubble Sort (Iverson 1);23566
+Reverse sorted;3800;[1,4100];Bubble Sort (Iverson 1+2);23684
+Reverse sorted;3800;[1,4100];Insertion Sort;30099
+Reverse sorted;3800;[1,4100];Binary Insertion Sort;280569
+Reverse sorted;3800;[1,4100];Stable Counting Sort;108663
+Reverse sorted;3800;[1,4100];Radix Sort;1825408
+Reverse sorted;3800;[1,4100];Merge Sort;961312
+Reverse sorted;3800;[1,4100];Quick Sort;45867484
+Reverse sorted;3800;[1,4100];Heap Sort;931269
+Reverse sorted;3800;[1,4100];Shell Sort (Tsiur Sequence);132000
+Reverse sorted;3800;[1,4100];Shell Sort (Shell Sequence);157799
+Randomized;3900;[0,5];Selection Sort;23871698
+Randomized;3900;[0,5];Bubble Sort;88822949
+Randomized;3900;[0,5];Bubble Sort (Iverson 1);82126718
+Randomized;3900;[0,5];Bubble Sort (Iverson 1+2);66156010
+Randomized;3900;[0,5];Insertion Sort;11190480
+Randomized;3900;[0,5];Binary Insertion Sort;9018170
+Randomized;3900;[0,5];Stable Counting Sort;79462
+Randomized;3900;[0,5];Radix Sort;1873048
+Randomized;3900;[0,5];Merge Sort;1136939
+Randomized;3900;[0,5];Quick Sort;4352246
+Randomized;3900;[0,5];Heap Sort;814283
+Randomized;3900;[0,5];Shell Sort (Tsiur Sequence);339668
+Randomized;3900;[0,5];Shell Sort (Shell Sequence);393318
+Randomized;3900;[0,4000];Selection Sort;24143218
+Randomized;3900;[0,4000];Bubble Sort;93891115
+Randomized;3900;[0,4000];Bubble Sort (Iverson 1);93205826
+Randomized;3900;[0,4000];Bubble Sort (Iverson 1+2);72150606
+Randomized;3900;[0,4000];Insertion Sort;13558810
+Randomized;3900;[0,4000];Binary Insertion Sort;9413292
+Randomized;3900;[0,4000];Stable Counting Sort;104943
+Randomized;3900;[0,4000];Radix Sort;1875512
+Randomized;3900;[0,4000];Merge Sort;1314064
+Randomized;3900;[0,4000];Quick Sort;665856
+Randomized;3900;[0,4000];Heap Sort;1063813
+Randomized;3900;[0,4000];Shell Sort (Tsiur Sequence);983459
+Randomized;3900;[0,4000];Shell Sort (Shell Sequence);1093522
+Almost sorted;3900;[0,4000];Selection Sort;23823889
+Almost sorted;3900;[0,4000];Bubble Sort;45318073
+Almost sorted;3900;[0,4000];Bubble Sort (Iverson 1);40655958
+Almost sorted;3900;[0,4000];Bubble Sort (Iverson 1+2);22787805
+Almost sorted;3900;[0,4000];Insertion Sort;153005
+Almost sorted;3900;[0,4000];Binary Insertion Sort;370442
+Almost sorted;3900;[0,4000];Stable Counting Sort;103905
+Almost sorted;3900;[0,4000];Radix Sort;1872826
+Almost sorted;3900;[0,4000];Merge Sort;993653
+Almost sorted;3900;[0,4000];Quick Sort;2375431
+Almost sorted;3900;[0,4000];Heap Sort;960395
+Almost sorted;3900;[0,4000];Shell Sort (Tsiur Sequence);273359
+Almost sorted;3900;[0,4000];Shell Sort (Shell Sequence);315261
+Reverse sorted;3900;[1,4100];Selection Sort;23777046
+Reverse sorted;3900;[1,4100];Bubble Sort;45032748
+Reverse sorted;3900;[1,4100];Bubble Sort (Iverson 1);24149
+Reverse sorted;3900;[1,4100];Bubble Sort (Iverson 1+2);24313
+Reverse sorted;3900;[1,4100];Insertion Sort;30889
+Reverse sorted;3900;[1,4100];Binary Insertion Sort;288481
+Reverse sorted;3900;[1,4100];Stable Counting Sort;112134
+Reverse sorted;3900;[1,4100];Radix Sort;1873877
+Reverse sorted;3900;[1,4100];Merge Sort;989294
+Reverse sorted;3900;[1,4100];Quick Sort;48250868
+Reverse sorted;3900;[1,4100];Heap Sort;958305
+Reverse sorted;3900;[1,4100];Shell Sort (Tsiur Sequence);136471
+Reverse sorted;3900;[1,4100];Shell Sort (Shell Sequence);161893
+Randomized;4000;[0,5];Selection Sort;25105814
+Randomized;4000;[0,5];Bubble Sort;93933518
+Randomized;4000;[0,5];Bubble Sort (Iverson 1);86708838
+Randomized;4000;[0,5];Bubble Sort (Iverson 1+2);69967554
+Randomized;4000;[0,5];Insertion Sort;11745532
+Randomized;4000;[0,5];Binary Insertion Sort;9471900
+Randomized;4000;[0,5];Stable Counting Sort;81510
+Randomized;4000;[0,5];Radix Sort;1921606
+Randomized;4000;[0,5];Merge Sort;1156189
+Randomized;4000;[0,5];Quick Sort;4565196
+Randomized;4000;[0,5];Heap Sort;836704
+Randomized;4000;[0,5];Shell Sort (Tsiur Sequence);352072
+Randomized;4000;[0,5];Shell Sort (Shell Sequence);460062
+Randomized;4000;[0,4000];Selection Sort;25387907
+Randomized;4000;[0,4000];Bubble Sort;99060958
+Randomized;4000;[0,4000];Bubble Sort (Iverson 1);98727184
+Randomized;4000;[0,4000];Bubble Sort (Iverson 1+2);76168724
+Randomized;4000;[0,4000];Insertion Sort;14246519
+Randomized;4000;[0,4000];Binary Insertion Sort;9844067
+Randomized;4000;[0,4000];Stable Counting Sort;107192
+Randomized;4000;[0,4000];Radix Sort;1930226
+Randomized;4000;[0,4000];Merge Sort;1338643
+Randomized;4000;[0,4000];Quick Sort;697330
+Randomized;4000;[0,4000];Heap Sort;1089013
+Randomized;4000;[0,4000];Shell Sort (Tsiur Sequence);1002778
+Randomized;4000;[0,4000];Shell Sort (Shell Sequence);1182170
+Almost sorted;4000;[0,4000];Selection Sort;25059560
+Almost sorted;4000;[0,4000];Bubble Sort;47739932
+Almost sorted;4000;[0,4000];Bubble Sort (Iverson 1);41789788
+Almost sorted;4000;[0,4000];Bubble Sort (Iverson 1+2);23902638
+Almost sorted;4000;[0,4000];Insertion Sort;154053
+Almost sorted;4000;[0,4000];Binary Insertion Sort;386093
+Almost sorted;4000;[0,4000];Stable Counting Sort;106650
+Almost sorted;4000;[0,4000];Radix Sort;1925822
+Almost sorted;4000;[0,4000];Merge Sort;1014312
+Almost sorted;4000;[0,4000];Quick Sort;2677042
+Almost sorted;4000;[0,4000];Heap Sort;986754
+Almost sorted;4000;[0,4000];Shell Sort (Tsiur Sequence);277444
+Almost sorted;4000;[0,4000];Shell Sort (Shell Sequence);167161
+Reverse sorted;4000;[1,4100];Selection Sort;25012128
+Reverse sorted;4000;[1,4100];Bubble Sort;47378900
+Reverse sorted;4000;[1,4100];Bubble Sort (Iverson 1);24754
+Reverse sorted;4000;[1,4100];Bubble Sort (Iverson 1+2);24911
+Reverse sorted;4000;[1,4100];Insertion Sort;31678
+Reverse sorted;4000;[1,4100];Binary Insertion Sort;296386
+Reverse sorted;4000;[1,4100];Stable Counting Sort;115077
+Reverse sorted;4000;[1,4100];Radix Sort;1900706
+Reverse sorted;4000;[1,4100];Merge Sort;1009938
+Reverse sorted;4000;[1,4100];Quick Sort;50835233
+Reverse sorted;4000;[1,4100];Heap Sort;991577
+Reverse sorted;4000;[1,4100];Shell Sort (Tsiur Sequence);139881
+Reverse sorted;4000;[1,4100];Shell Sort (Shell Sequence);166081
