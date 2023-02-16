@@ -5,6 +5,6 @@
 void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *output);
 
 /// Замер времени работы всех сортировок заголовка \b sorting_algorithms.h .
-void launchTimeChecker(const int initial_array[], int n, std::ofstream *output);
+void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, const std::string &info);
 
 #endif //SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_TEST_H_
