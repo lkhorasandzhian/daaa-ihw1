@@ -1,31 +1,39 @@
 #include <iostream>
 #include <fstream>
-#include <chrono>
 #include "test.h"
 #include "array_generator.h"
 
 void startProcess() {
-    //auto start_process =  std::chrono::steady_clock::now();
     std::ofstream output;
     int *initial_arrays[4];
 
+    output.open("../../../test_correctness.txt");
     for (int i = 0; i < 4; ++i) {
         switch (i) {
             case 0:
                 initial_arrays[i] = generateRandomizedArray(4100, 0, 5);
+                launchCorrectnessChecker(initial_arrays[i], 4100, &output, "Randomized 5");
+                launchArrayViewer(initial_arrays[i], 4100, &output, "Randomized 5");
                 break;
             case 1:
                 initial_arrays[i] = generateRandomizedArray(4100, 0, 4000);
+                launchCorrectnessChecker(initial_arrays[i], 4100, &output, "Randomized 4000");
+                launchArrayViewer(initial_arrays[i], 4100, &output, "Randomized 4000");
                 break;
             case 2:
                 initial_arrays[i] = generateAlmostSortedArray(4100, 1, 4100);
+                launchCorrectnessChecker(initial_arrays[i], 4100, &output, "Almost sorted");
+                launchArrayViewer(initial_arrays[i], 4100, &output, "Almost sorted");
                 break;
             case 3:
                 initial_arrays[i] = generateReverseSortedArray(4100, 1, 4100);
+                launchCorrectnessChecker(initial_arrays[i], 4100, &output, "Reverse sorted");
+                launchArrayViewer(initial_arrays[i], 4100, &output, "Reverse sorted");
                 break;
             default:break;
         }
     }
+    output.close();
 
     for (int i = 1; i <= 2; ++i) {
         int size, finish, step;
@@ -58,9 +66,4 @@ void startProcess() {
     for (int* &initial_array : initial_arrays) {
         delete[] initial_array;
     }
-
-    //auto finish_process =  std::chrono::steady_clock::now();
-
-    //std::cout << '\a' << "Work time: ";
-    //std::cout << std::to_string(std::chrono::duration_cast<std::chrono::minutes>(finish_process - start_process).count()) + " min.\n";
 }

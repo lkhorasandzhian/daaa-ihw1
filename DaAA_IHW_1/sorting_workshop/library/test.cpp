@@ -18,7 +18,7 @@ void copyElements(const int a[], int b[], int n) {
     }
 }
 
-void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *output) {
+void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *output, const std::string &info) {
     const int count_of_tests = 13;
     const std::string tests[count_of_tests] { "Selection Sort",
                                               "Bubble Sort",
@@ -37,205 +37,166 @@ void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *o
     int successful_tests = 0, failed_tests = 0;
     int current_test = 0;
 
-    *output << "--------------------[START CORRECTNESS TEST]--------------------\n\n";
+    *output << "--------------------[START " + info + " TEST]--------------------\n\n";
 
     int array[n];
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     selectionSort(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     bubbleSort(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     bubbleSortIversonFirst(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     bubbleSortIversonFirstAndSecond(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     insertionSort(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     binaryInsertionSort(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     stableCountingSort(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     radixSort10(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     mergeSort(array, 0, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     quickSort(array, 0, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     heapSort(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     shellSortTsiurSequence(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
 
-    *output << tests[current_test++] << "\n";
+    *output << tests[current_test++] << ": ";
     copyElements(initial_array, array, n);
     shellSortShellSequence(array, n);
-    for (int i : array) {
-        *output << i << " ";
-    }
     if (checkCorrectness(array, n)) {
         ++successful_tests;
-        *output << "-SUCCESS-\n";
+        *output << "SUCCESS\n";
     } else {
         ++failed_tests;
-        *output << "-FAIL-\n";
+        *output << "FAIL\n";
     }
 
-    *output << "--------------------[FINISH CORRECTNESS TEST]--------------------\n";
+    *output << "\n--------------------[FINISH " + info + " TEST]--------------------\n";
     *output << "SUCCESSFUL TESTS: " << successful_tests << "/" << count_of_tests << "\n";
     *output << "FAILED TESTS: " << failed_tests << "/" << count_of_tests << "\n\n";
 }
@@ -456,4 +417,24 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
+}
+
+void launchArrayViewer(const int initial_array[], int n, std::ofstream *output, const std::string &info) {
+    int array[n];
+
+    copyElements(initial_array, array, n);
+
+    *output << info << " before:\n";
+    for (int i = 0; i < n; ++i) {
+        *output << array[i] << " ";
+    }
+    *output << "\n\n";
+
+    bubbleSort(array, n);
+
+    *output << info << " after:\n";
+    for (int i = 0; i < n; ++i) {
+        *output << array[i] << " ";
+    }
+    *output << "\n\n";
 }
