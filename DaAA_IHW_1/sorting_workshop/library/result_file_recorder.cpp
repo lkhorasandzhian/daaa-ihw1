@@ -5,7 +5,7 @@
 #include "array_generator.h"
 
 void startProcess() {
-    auto start_process =  std::chrono::steady_clock::now();
+    //auto start_process =  std::chrono::steady_clock::now();
     std::ofstream output;
     int *initial_arrays[4];
 
@@ -18,7 +18,7 @@ void startProcess() {
                 initial_arrays[i] = generateRandomizedArray(4100, 0, 4000);
                 break;
             case 2:
-                initial_arrays[i] = generateAlmostSortedArray(4100, 0, 4100);
+                initial_arrays[i] = generateAlmostSortedArray(4100, 1, 4100);
                 break;
             case 3:
                 initial_arrays[i] = generateReverseSortedArray(4100, 1, 4100);
@@ -39,18 +39,18 @@ void startProcess() {
             step = 100;
         }
         output.open("../../../test_" + std::to_string(i) + ".csv");
-        for (; size < finish; size += step) {
+        for (; size <= finish; size += step) {
             // Randomized in range [0,5].
-            launchTimeChecker(initial_arrays[0], size, &output, "Randomized;" + std::to_string(size) + ";[0,5];");
+            launchTimeChecker(initial_arrays[0], size, &output, "Randomized 5;" + std::to_string(size) + ";");
 
             // Randomized in range [0,4000].
-            launchTimeChecker(initial_arrays[1], size, &output, "Randomized;" + std::to_string(size) + ";[0,4000];");
+            launchTimeChecker(initial_arrays[1], size, &output, "Randomized 4000;" + std::to_string(size) + ";");
 
-            // Almost sorted in range [0,4000].
-            launchTimeChecker(initial_arrays[2], size, &output, "Almost sorted;" + std::to_string(size) + ";[0,4000];");
+            // Almost sorted in range [1,4100].
+            launchTimeChecker(initial_arrays[2], size, &output, "Almost sorted;" + std::to_string(size) + ";");
 
             // Reverse sorted in range [1,4100].
-            launchTimeChecker(initial_arrays[3], size, &output, "Reverse sorted;" + std::to_string(size) + ";[1,4100];");
+            launchTimeChecker(initial_arrays[3], size, &output, "Reverse sorted;" + std::to_string(size) + ";");
         }
         output.close();
     }
@@ -59,8 +59,8 @@ void startProcess() {
         delete[] initial_array;
     }
 
-    auto finish_process =  std::chrono::steady_clock::now();
+    //auto finish_process =  std::chrono::steady_clock::now();
 
-    std::cout << '\a' << "Work time: ";
-    std::cout << std::to_string(std::chrono::duration_cast<std::chrono::minutes>(finish_process - start_process).count()) + " min.\n";
+    //std::cout << '\a' << "Work time: ";
+    //std::cout << std::to_string(std::chrono::duration_cast<std::chrono::minutes>(finish_process - start_process).count()) + " min.\n";
 }

@@ -243,23 +243,21 @@ void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *o
 void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, const std::string &info) {
     const int count_of_repeats = 100;
     const int count_of_tests = 13;
-    const std::string tests[count_of_tests] { "Selection Sort",
-                                              "Bubble Sort",
-                                              "Bubble Sort (Iverson 1)",
-                                              "Bubble Sort (Iverson 1+2)",
-                                              "Insertion Sort",
-                                              "Binary Insertion Sort",
-                                              "Stable Counting Sort",
-                                              "Radix Sort",
-                                              "Merge Sort",
-                                              "Quick Sort",
-                                              "Heap Sort",
-                                              "Shell Sort (Tsiur Sequence)",
-                                              "Shell Sort (Shell Sequence)"
+    const std::string tests[count_of_tests] { "Selection",
+                                              "Bubble",
+                                              "Bubble 1",
+                                              "Bubble 1+2",
+                                              "Insertion",
+                                              "Bin. Insertion",
+                                              "S. Counting",
+                                              "Radix",
+                                              "Merge",
+                                              "Quick",
+                                              "Heap",
+                                              "Shell-Tsiur",
+                                              "Shell"
     };
     int current_test = 0;
-
-    //*output << "--------------------[START TIME TEST]--------------------\n\n";
 
     long long nanoseconds;
 
@@ -458,6 +456,4 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
-
-    //*output << "--------------------[FINISH TIME TEST]--------------------\n\n";
 }

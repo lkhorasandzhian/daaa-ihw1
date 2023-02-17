@@ -25,3 +25,11 @@
 701	1141	6982672841634691	sorting_workshop.exe	2059e915915cc1b0
 3	1480	6982679448937015	CMakeFiles/sorting_workshop.dir/library/test.cpp.obj	61114cff28b52945
 1480	2051	6982679454638967	sorting_workshop.exe	2059e915915cc1b0
+4	2163	6983288060327455	CMakeFiles/sorting_workshop.dir/library/result_file_recorder.cpp.obj	7f66b3b6eb567ccb
+14	2166	6983288060357113	CMakeFiles/sorting_workshop.dir/library/test.cpp.obj	61114cff28b52945
+2166	3098	6983288069690851	sorting_workshop.exe	2059e915915cc1b0
+4	675	6983290519180711	CMakeFiles/sorting_workshop.dir/library/result_file_recorder.cpp.obj	7f66b3b6eb567ccb
+675	980	6983290522228984	sorting_workshop.exe	2059e915915cc1b0
+3	538	6983326822058840	CMakeFiles/sorting_workshop.dir/library/sorting_algorithms.cpp.obj	ea6bcd7219af48c8
+12	907	6983326825745417	CMakeFiles/sorting_workshop.dir/library/array_generator.cpp.obj	842e87f81f68ebaf
+907	1103	6983326827693980	sorting_workshop.exe	2059e915915cc1b0

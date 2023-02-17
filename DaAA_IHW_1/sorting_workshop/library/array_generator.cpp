@@ -3,7 +3,7 @@
 
 int *generateRandomizedArray(int size, int lower_bound, int upper_bound) {
     std::random_device rd;
-    std::default_random_engine eng(rd());
+    std::mt19937 eng(rd());
     std::uniform_int_distribution<int> dist(lower_bound, upper_bound);
 
     int *array = new int[size];

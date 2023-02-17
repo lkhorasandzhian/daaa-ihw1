@@ -335,7 +335,7 @@ void heapSort(int arr[], int n) {
 }
 
 void shellSortTsiurSequence(int arr[], int n) {
-    int tsiur_array[9] {1, 4, 10, 23, 57, 132, 301, 701, 1750 };
+    int tsiur_array[9] { 1, 4, 10, 23, 57, 132, 301, 701, 1750 };
     int step, i, j, k;
 
     for (k = 8; k >= 0; --k) {
