@@ -1,2132 +1,2132 @@
-Randomized 5;100;Selection;31109
-Randomized 5;100;Bubble;93398
-Randomized 5;100;Bubble 1;81397
-Randomized 5;100;Bubble 1+2;60337
-Randomized 5;100;Insertion;25211
-Randomized 5;100;Bin. Insertion;24580
-Randomized 5;100;S. Counting;3720
+Randomized 5;100;Selection;31140
+Randomized 5;100;Bubble;91580
+Randomized 5;100;Bubble 1;81673
+Randomized 5;100;Bubble 1+2;58699
+Randomized 5;100;Insertion;22181
+Randomized 5;100;Bin. Insertion;21539
+Randomized 5;100;S. Counting;3722
 Randomized 5;100;Radix;89513
-Randomized 5;100;Merge;16355
-Randomized 5;100;Quick;8736
-Randomized 5;100;Heap;15154
-Randomized 5;100;Shell-Tsiur;7780
-Randomized 5;100;Shell;9264
-Randomized 4000;100;Selection;31375
-Randomized 4000;100;Bubble;92366
-Randomized 4000;100;Bubble 1;84987
-Randomized 4000;100;Bubble 1+2;60018
-Randomized 4000;100;Insertion;23491
-Randomized 4000;100;Bin. Insertion;22663
-Randomized 4000;100;S. Counting;59042
+Randomized 5;100;Merge;16343
+Randomized 5;100;Quick;7915
+Randomized 5;100;Heap;15126
+Randomized 5;100;Shell-Tsiur;7783
+Randomized 5;100;Shell;8602
+Randomized 4000;100;Selection;31368
+Randomized 4000;100;Bubble;94520
+Randomized 4000;100;Bubble 1;90696
+Randomized 4000;100;Bubble 1+2;62941
+Randomized 4000;100;Insertion;27081
+Randomized 4000;100;Bin. Insertion;25156
+Randomized 4000;100;S. Counting;58922
 Randomized 4000;100;Radix;89513
-Randomized 4000;100;Merge;16369
-Randomized 4000;100;Quick;6564
-Randomized 4000;100;Heap;17195
-Randomized 4000;100;Shell-Tsiur;10139
-Randomized 4000;100;Shell;12714
-Almost sorted;100;Selection;31243
-Almost sorted;100;Bubble;81956
-Almost sorted;100;Bubble 1;8123
-Almost sorted;100;Bubble 1+2;8588
-Almost sorted;100;Insertion;6141
-Almost sorted;100;Bin. Insertion;9898
-Almost sorted;100;S. Counting;10190
+Randomized 4000;100;Merge;16397
+Randomized 4000;100;Quick;6646
+Randomized 4000;100;Heap;17379
+Randomized 4000;100;Shell-Tsiur;9769
+Randomized 4000;100;Shell;12350
+Almost sorted;100;Selection;32568
+Almost sorted;100;Bubble;107954
+Almost sorted;100;Bubble 1;112761
+Almost sorted;100;Bubble 1+2;79002
+Almost sorted;100;Insertion;49471
+Almost sorted;100;Bin. Insertion;40709
+Almost sorted;100;S. Counting;61032
 Almost sorted;100;Radix;89513
-Almost sorted;100;Merge;16155
-Almost sorted;100;Quick;8290
-Almost sorted;100;Heap;16850
-Almost sorted;100;Shell-Tsiur;7721
-Almost sorted;100;Shell;8826
-Reverse sorted;100;Selection;32364
-Reverse sorted;100;Bubble;108512
-Reverse sorted;100;Bubble 1;114211
-Reverse sorted;100;Bubble 1+2;79661
-Reverse sorted;100;Insertion;50401
-Reverse sorted;100;Bin. Insertion;41589
-Reverse sorted;100;S. Counting;5066
+Almost sorted;100;Merge;15987
+Almost sorted;100;Quick;34220
+Almost sorted;100;Heap;15556
+Almost sorted;100;Shell-Tsiur;8030
+Almost sorted;100;Shell;10458
+Reverse sorted;100;Selection;32422
+Reverse sorted;100;Bubble;108506
+Reverse sorted;100;Bubble 1;114204
+Reverse sorted;100;Bubble 1+2;79654
+Reverse sorted;100;Insertion;50391
+Reverse sorted;100;Bin. Insertion;41555
+Reverse sorted;100;S. Counting;5030
 Reverse sorted;100;Radix;89513
-Reverse sorted;100;Merge;15973
-Reverse sorted;100;Quick;36508
-Reverse sorted;100;Heap;15404
-Reverse sorted;100;Shell-Tsiur;8177
+Reverse sorted;100;Merge;15965
+Reverse sorted;100;Quick;37471
+Reverse sorted;100;Heap;15423
+Reverse sorted;100;Shell-Tsiur;8099
 Reverse sorted;100;Shell;9529
-Randomized 5;200;Selection;122251
-Randomized 5;200;Bubble;372572
-Randomized 5;200;Bubble 1;336860
-Randomized 5;200;Bubble 1+2;240245
-Randomized 5;200;Insertion;93401
-Randomized 5;200;Bin. Insertion;81626
-Randomized 5;200;S. Counting;7320
+Randomized 5;200;Selection;122358
+Randomized 5;200;Bubble;370130
+Randomized 5;200;Bubble 1;329214
+Randomized 5;200;Bubble 1+2;236562
+Randomized 5;200;Insertion;89331
+Randomized 5;200;Bin. Insertion;81483
+Randomized 5;200;S. Counting;7322
 Randomized 5;200;Radix;177713
-Randomized 5;200;Merge;36448
-Randomized 5;200;Quick;24990
-Randomized 5;200;Heap;34981
-Randomized 5;200;Shell-Tsiur;17306
-Randomized 5;200;Shell;21495
-Randomized 4000;200;Selection;122918
-Randomized 4000;200;Bubble;378836
-Randomized 4000;200;Bubble 1;382544
-Randomized 4000;200;Bubble 1+2;251309
-Randomized 4000;200;Insertion;103841
-Randomized 4000;200;Bin. Insertion;87080
-Randomized 4000;200;S. Counting;62642
+Randomized 5;200;Merge;36450
+Randomized 5;200;Quick;25421
+Randomized 5;200;Heap;34622
+Randomized 5;200;Shell-Tsiur;17571
+Randomized 5;200;Shell;21440
+Randomized 4000;200;Selection;122948
+Randomized 4000;200;Bubble;382496
+Randomized 4000;200;Bubble 1;366027
+Randomized 4000;200;Bubble 1+2;254188
+Randomized 4000;200;Insertion;109941
+Randomized 4000;200;Bin. Insertion;91440
+Randomized 4000;200;S. Counting;62522
 Randomized 4000;200;Radix;177713
-Randomized 4000;200;Merge;36500
-Randomized 4000;200;Quick;16040
-Randomized 4000;200;Heap;39422
-Randomized 4000;200;Shell-Tsiur;24568
-Randomized 4000;200;Shell;27812
-Almost sorted;200;Selection;122523
-Almost sorted;200;Bubble;324056
-Almost sorted;200;Bubble 1;16423
-Almost sorted;200;Bubble 1+2;17488
-Almost sorted;200;Insertion;12541
-Almost sorted;200;Bin. Insertion;21667
-Almost sorted;200;S. Counting;13790
+Randomized 4000;200;Merge;36548
+Randomized 4000;200;Quick;16019
+Randomized 4000;200;Heap;39256
+Randomized 4000;200;Shell-Tsiur;25051
+Randomized 4000;200;Shell;29237
+Almost sorted;200;Selection;127686
+Almost sorted;200;Bubble;435788
+Almost sorted;200;Bubble 1;453785
+Almost sorted;200;Bubble 1+2;317858
+Almost sorted;200;Insertion;198761
+Almost sorted;200;Bin. Insertion;153420
+Almost sorted;200;S. Counting;64632
 Almost sorted;200;Radix;177713
-Almost sorted;200;Merge;35916
-Almost sorted;200;Quick;28137
-Almost sorted;200;Heap;39379
-Almost sorted;200;Shell-Tsiur;17856
-Almost sorted;200;Shell;20463
-Reverse sorted;200;Selection;128293
-Reverse sorted;200;Bubble;437054
-Reverse sorted;200;Bubble 1;458460
-Reverse sorted;200;Bubble 1+2;319360
-Reverse sorted;200;Insertion;200871
-Reverse sorted;200;Bin. Insertion;155385
-Reverse sorted;200;S. Counting;10296
+Almost sorted;200;Merge;35536
+Almost sorted;200;Quick;130180
+Almost sorted;200;Heap;35843
+Almost sorted;200;Shell-Tsiur;19189
+Almost sorted;200;Shell;24645
+Reverse sorted;200;Selection;128575
+Reverse sorted;200;Bubble;437018
+Reverse sorted;200;Bubble 1;458418
+Reverse sorted;200;Bubble 1+2;319318
+Reverse sorted;200;Insertion;200811
+Reverse sorted;200;Bin. Insertion;155319
+Reverse sorted;200;S. Counting;10382
 Reverse sorted;200;Radix;177713
-Reverse sorted;200;Merge;35502
-Reverse sorted;200;Quick;140315
-Reverse sorted;200;Heap;35292
-Reverse sorted;200;Shell-Tsiur;18913
-Reverse sorted;200;Shell;23084
-Randomized 5;300;Selection;273427
-Randomized 5;300;Bubble;839142
-Randomized 5;300;Bubble 1;761088
-Randomized 5;300;Bubble 1+2;540111
-Randomized 5;300;Insertion;207251
-Randomized 5;300;Bin. Insertion;176433
-Randomized 5;300;S. Counting;10920
+Reverse sorted;200;Merge;35518
+Reverse sorted;200;Quick;133638
+Reverse sorted;200;Heap;35469
+Reverse sorted;200;Shell-Tsiur;18796
+Reverse sorted;200;Shell;22967
+Randomized 5;300;Selection;273525
+Randomized 5;300;Bubble;831300
+Randomized 5;300;Bubble 1;732747
+Randomized 5;300;Bubble 1+2;527622
+Randomized 5;300;Insertion;194181
+Randomized 5;300;Bin. Insertion;175523
+Randomized 5;300;S. Counting;10922
 Randomized 5;300;Radix;265913
-Randomized 5;300;Merge;57898
-Randomized 5;300;Quick;50178
-Randomized 5;300;Heap;55764
-Randomized 5;300;Shell-Tsiur;28936
-Randomized 5;300;Shell;35310
-Randomized 4000;300;Selection;274531
-Randomized 4000;300;Bubble;852888
-Randomized 4000;300;Bubble 1;832302
-Randomized 4000;300;Bubble 1+2;562542
-Randomized 4000;300;Insertion;230161
-Randomized 4000;300;Bin. Insertion;184424
-Randomized 4000;300;S. Counting;66242
+Randomized 5;300;Merge;57956
+Randomized 5;300;Quick;48371
+Randomized 5;300;Heap;56505
+Randomized 5;300;Shell-Tsiur;29021
+Randomized 5;300;Shell;35563
+Randomized 4000;300;Selection;274490
+Randomized 4000;300;Bubble;853038
+Randomized 4000;300;Bubble 1;851669
+Randomized 4000;300;Bubble 1+2;563825
+Randomized 4000;300;Insertion;230411
+Randomized 4000;300;Bin. Insertion;184627
+Randomized 4000;300;S. Counting;66376
 Randomized 4000;300;Radix;265913
-Randomized 4000;300;Merge;58056
-Randomized 4000;300;Quick;24677
-Randomized 4000;300;Heap;63542
-Randomized 4000;300;Shell-Tsiur;40126
-Randomized 4000;300;Shell;47046
-Almost sorted;300;Selection;273803
-Almost sorted;300;Bubble;726156
-Almost sorted;300;Bubble 1;24723
-Almost sorted;300;Bubble 1+2;26388
-Almost sorted;300;Insertion;18941
-Almost sorted;300;Bin. Insertion;34472
-Almost sorted;300;S. Counting;17390
+Randomized 4000;300;Merge;58094
+Randomized 4000;300;Quick;25423
+Randomized 4000;300;Heap;63011
+Randomized 4000;300;Shell-Tsiur;40764
+Randomized 4000;300;Shell;47452
+Almost sorted;300;Selection;285886
+Almost sorted;300;Bubble;983682
+Almost sorted;300;Bubble 1;1025678
+Almost sorted;300;Bubble 1+2;716801
+Almost sorted;300;Insertion;448151
+Almost sorted;300;Bin. Insertion;337057
+Almost sorted;300;S. Counting;68232
 Almost sorted;300;Radix;265913
-Almost sorted;300;Merge;57012
-Almost sorted;300;Quick;59717
-Almost sorted;300;Heap;64136
-Almost sorted;300;Shell-Tsiur;28505
-Almost sorted;300;Shell;34462
-Reverse sorted;300;Selection;287284
-Reverse sorted;300;Bubble;985524
-Reverse sorted;300;Bubble 1;1030226
-Reverse sorted;300;Bubble 1+2;718967
-Reverse sorted;300;Insertion;451221
-Reverse sorted;300;Bin. Insertion;339859
-Reverse sorted;300;S. Counting;15364
+Almost sorted;300;Merge;56404
+Almost sorted;300;Quick;294828
+Almost sorted;300;Heap;57804
+Almost sorted;300;Shell-Tsiur;30339
+Almost sorted;300;Shell;40838
+Reverse sorted;300;Selection;287300
+Reverse sorted;300;Bubble;985488
+Reverse sorted;300;Bubble 1;1030184
+Reverse sorted;300;Bubble 1+2;718925
+Reverse sorted;300;Insertion;451161
+Reverse sorted;300;Bin. Insertion;339843
+Reverse sorted;300;S. Counting;15444
 Reverse sorted;300;Radix;265913
-Reverse sorted;300;Merge;56354
-Reverse sorted;300;Quick;302819
-Reverse sorted;300;Heap;57969
-Reverse sorted;300;Shell-Tsiur;30156
-Reverse sorted;300;Shell;40062
-Randomized 5;400;Selection;484569
-Randomized 5;400;Bubble;1490186
-Randomized 5;400;Bubble 1;1317880
-Randomized 5;400;Bubble 1+2;950981
-Randomized 5;400;Insertion;361891
-Randomized 5;400;Bin. Insertion;304945
-Randomized 5;400;S. Counting;14520
+Reverse sorted;300;Merge;56384
+Reverse sorted;300;Quick;288240
+Reverse sorted;300;Heap;57795
+Reverse sorted;300;Shell-Tsiur;30247
+Reverse sorted;300;Shell;40075
+Randomized 5;400;Selection;484679
+Randomized 5;400;Bubble;1476998
+Randomized 5;400;Bubble 1;1308892
+Randomized 5;400;Bubble 1+2;936772
+Randomized 5;400;Insertion;339911
+Randomized 5;400;Bin. Insertion;305527
+Randomized 5;400;S. Counting;14522
 Randomized 5;400;Radix;354113
-Randomized 5;400;Merge;80405
-Randomized 5;400;Quick;88403
-Randomized 5;400;Heap;76387
-Randomized 5;400;Shell-Tsiur;39656
-Randomized 5;400;Shell;49709
-Randomized 4000;400;Selection;486159
-Randomized 4000;400;Bubble;1516484
-Randomized 4000;400;Bubble 1;1473322
-Randomized 4000;400;Bubble 1+2;998120
-Randomized 4000;400;Insertion;405721
-Randomized 4000;400;Bin. Insertion;316769
-Randomized 4000;400;S. Counting;69914
+Randomized 5;400;Merge;80499
+Randomized 5;400;Quick;81574
+Randomized 5;400;Heap;77655
+Randomized 5;400;Shell-Tsiur;40238
+Randomized 5;400;Shell;49219
+Randomized 4000;400;Selection;486145
+Randomized 4000;400;Bubble;1521704
+Randomized 4000;400;Bubble 1;1492208
+Randomized 4000;400;Bubble 1+2;1005124
+Randomized 4000;400;Insertion;414421
+Randomized 4000;400;Bin. Insertion;322904
+Randomized 4000;400;S. Counting;70330
 Randomized 4000;400;Radix;354113
-Randomized 4000;400;Merge;80655
-Randomized 4000;400;Quick;35924
-Randomized 4000;400;Heap;89145
-Randomized 4000;400;Shell-Tsiur;59457
-Randomized 4000;400;Shell;69905
-Almost sorted;400;Selection;485083
-Almost sorted;400;Bubble;1288256
-Almost sorted;400;Bubble 1;33023
-Almost sorted;400;Bubble 1+2;35288
-Almost sorted;400;Insertion;25341
-Almost sorted;400;Bin. Insertion;47201
-Almost sorted;400;S. Counting;20990
+Randomized 4000;400;Merge;80725
+Randomized 4000;400;Quick;35536
+Randomized 4000;400;Heap;89009
+Randomized 4000;400;Shell-Tsiur;59061
+Randomized 4000;400;Shell;72549
+Almost sorted;400;Selection;507116
+Almost sorted;400;Bubble;1751522
+Almost sorted;400;Bubble 1;1830707
+Almost sorted;400;Bubble 1+2;1275698
+Almost sorted;400;Insertion;797451
+Almost sorted;400;Bin. Insertion;591169
+Almost sorted;400;S. Counting;71832
 Almost sorted;400;Radix;354113
-Almost sorted;400;Merge;79129
-Almost sorted;400;Quick;101147
-Almost sorted;400;Heap;90836
-Almost sorted;400;Shell-Tsiur;40318
-Almost sorted;400;Shell;46858
-Reverse sorted;400;Selection;509293
-Reverse sorted;400;Bubble;1754030
-Reverse sorted;400;Bubble 1;1836832
-Reverse sorted;400;Bubble 1+2;1278632
-Reverse sorted;400;Insertion;801631
-Reverse sorted;400;Bin. Insertion;595049
-Reverse sorted;400;S. Counting;20500
+Almost sorted;400;Merge;78333
+Almost sorted;400;Quick;507975
+Almost sorted;400;Heap;81322
+Almost sorted;400;Shell-Tsiur;43500
+Almost sorted;400;Shell;57314
+Reverse sorted;400;Selection;508755
+Reverse sorted;400;Bubble;1753988
+Reverse sorted;400;Bubble 1;1836783
+Reverse sorted;400;Bubble 1+2;1278583
+Reverse sorted;400;Insertion;801561
+Reverse sorted;400;Bin. Insertion;594963
+Reverse sorted;400;S. Counting;20648
 Reverse sorted;400;Radix;354113
 Reverse sorted;400;Merge;78275
-Reverse sorted;400;Quick;525030
-Reverse sorted;400;Heap;81409
-Reverse sorted;400;Shell-Tsiur;42841
-Reverse sorted;400;Shell;54211
-Randomized 5;500;Selection;755725
-Randomized 5;500;Bubble;2324252
-Randomized 5;500;Bubble 1;2023131
-Randomized 5;500;Bubble 1+2;1473526
-Randomized 5;500;Insertion;554901
-Randomized 5;500;Bin. Insertion;469313
-Randomized 5;500;S. Counting;18120
+Reverse sorted;400;Quick;536703
+Reverse sorted;400;Heap;81394
+Reverse sorted;400;Shell-Tsiur;42971
+Reverse sorted;400;Shell;54185
+Randomized 5;500;Selection;755813
+Randomized 5;500;Bubble;2305424
+Randomized 5;500;Bubble 1;2009163
+Randomized 5;500;Bubble 1+2;1453169
+Randomized 5;500;Insertion;523521
+Randomized 5;500;Bin. Insertion;467617
+Randomized 5;500;S. Counting;18122
 Randomized 5;500;Radix;442313
-Randomized 5;500;Merge;103058
-Randomized 5;500;Quick;125431
-Randomized 5;500;Heap;98497
-Randomized 5;500;Shell-Tsiur;51159
-Randomized 5;500;Shell;61628
-Randomized 4000;500;Selection;757960
-Randomized 4000;500;Bubble;2380814
-Randomized 4000;500;Bubble 1;2261077
-Randomized 4000;500;Bubble 1+2;1566175
-Randomized 4000;500;Insertion;649171
-Randomized 4000;500;Bin. Insertion;497041
-Randomized 4000;500;S. Counting;73514
+Randomized 5;500;Merge;103072
+Randomized 5;500;Quick;121658
+Randomized 5;500;Heap;100238
+Randomized 5;500;Shell-Tsiur;51525
+Randomized 5;500;Shell;59194
+Randomized 4000;500;Selection;757953
+Randomized 4000;500;Bubble;2356742
+Randomized 4000;500;Bubble 1;2268984
+Randomized 4000;500;Bubble 1+2;1541565
+Randomized 4000;500;Insertion;609051
+Randomized 4000;500;Bin. Insertion;468888
+Randomized 4000;500;S. Counting;74072
 Randomized 4000;500;Radix;442313
-Randomized 4000;500;Merge;103414
-Randomized 4000;500;Quick;43894
-Randomized 4000;500;Heap;114926
-Randomized 4000;500;Shell-Tsiur;76531
-Randomized 4000;500;Shell;86237
-Almost sorted;500;Selection;756363
-Almost sorted;500;Bubble;2010356
-Almost sorted;500;Bubble 1;41323
-Almost sorted;500;Bubble 1+2;44188
-Almost sorted;500;Insertion;31741
-Almost sorted;500;Bin. Insertion;60840
-Almost sorted;500;S. Counting;24590
+Randomized 4000;500;Merge;103454
+Randomized 4000;500;Quick;44328
+Randomized 4000;500;Heap;114904
+Randomized 4000;500;Shell-Tsiur;76367
+Randomized 4000;500;Shell;85256
+Almost sorted;500;Selection;790133
+Almost sorted;500;Bubble;2716148
+Almost sorted;500;Bubble 1;2484342
+Almost sorted;500;Bubble 1+2;1931547
+Almost sorted;500;Insertion;1208061
+Almost sorted;500;Bin. Insertion;888193
+Almost sorted;500;S. Counting;75432
 Almost sorted;500;Radix;442313
-Almost sorted;500;Merge;101184
-Almost sorted;500;Quick;149576
-Almost sorted;500;Heap;117039
-Almost sorted;500;Shell-Tsiur;52432
-Almost sorted;500;Shell;59378
-Reverse sorted;500;Selection;794170
-Reverse sorted;500;Bubble;2742566
-Reverse sorted;500;Bubble 1;2871074
-Reverse sorted;500;Bubble 1+2;1998324
-Reverse sorted;500;Insertion;1252091
-Reverse sorted;500;Bin. Insertion;920287
-Reverse sorted;500;S. Counting;25600
+Almost sorted;500;Merge;100454
+Almost sorted;500;Quick;549463
+Almost sorted;500;Heap;105621
+Almost sorted;500;Shell-Tsiur;56325
+Almost sorted;500;Shell;68913
+Reverse sorted;500;Selection;793676
+Reverse sorted;500;Bubble;2742494
+Reverse sorted;500;Bubble 1;2862992
+Reverse sorted;500;Bubble 1+2;1998215
+Reverse sorted;500;Insertion;1251971
+Reverse sorted;500;Bin. Insertion;920169
+Reverse sorted;500;S. Counting;26078
 Reverse sorted;500;Radix;442313
-Reverse sorted;500;Merge;100358
-Reverse sorted;500;Quick;826862
-Reverse sorted;500;Heap;105633
-Reverse sorted;500;Shell-Tsiur;58096
-Reverse sorted;500;Shell;71093
-Randomized 5;600;Selection;1086853
-Randomized 5;600;Bubble;3339702
-Randomized 5;600;Bubble 1;2951714
-Randomized 5;600;Bubble 1+2;2121155
-Randomized 5;600;Insertion;783551
-Randomized 5;600;Bin. Insertion;659872
-Randomized 5;600;S. Counting;21720
+Reverse sorted;500;Merge;100344
+Reverse sorted;500;Quick;828307
+Reverse sorted;500;Heap;105574
+Reverse sorted;500;Shell-Tsiur;58182
+Reverse sorted;500;Shell;70989
+Randomized 5;600;Selection;1086992
+Randomized 5;600;Bubble;3327486
+Randomized 5;600;Bubble 1;2889472
+Randomized 5;600;Bubble 1+2;2097598
+Randomized 5;600;Insertion;763191
+Randomized 5;600;Bin. Insertion;675865
+Randomized 5;600;S. Counting;21722
 Randomized 5;600;Radix;530513
-Randomized 5;600;Merge;127213
-Randomized 5;600;Quick;176983
-Randomized 5;600;Heap;122974
-Randomized 5;600;Shell-Tsiur;63464
-Randomized 5;600;Shell;80629
-Randomized 4000;600;Selection;1089805
-Randomized 4000;600;Bubble;3435432
-Randomized 4000;600;Bubble 1;3360937
-Randomized 4000;600;Bubble 1+2;2270443
-Randomized 4000;600;Insertion;943101
-Randomized 4000;600;Bin. Insertion;712667
-Randomized 4000;600;S. Counting;77114
+Randomized 5;600;Merge;127291
+Randomized 5;600;Quick;175228
+Randomized 5;600;Heap;124196
+Randomized 5;600;Shell-Tsiur;62784
+Randomized 5;600;Shell;80505
+Randomized 4000;600;Selection;1089492
+Randomized 4000;600;Bubble;3402816
+Randomized 4000;600;Bubble 1;3370875
+Randomized 4000;600;Bubble 1+2;2235216
+Randomized 4000;600;Insertion;888741
+Randomized 4000;600;Bin. Insertion;674769
+Randomized 4000;600;S. Counting;77672
 Randomized 4000;600;Radix;530513
-Randomized 4000;600;Merge;127643
-Randomized 4000;600;Quick;56406
-Randomized 4000;600;Heap;142013
-Randomized 4000;600;Shell-Tsiur;97827
-Randomized 4000;600;Shell;113890
-Almost sorted;600;Selection;1087609
-Almost sorted;600;Bubble;2892306
-Almost sorted;600;Bubble 1;49448
-Almost sorted;600;Bubble 1+2;52913
-Almost sorted;600;Insertion;37891
-Almost sorted;600;Bin. Insertion;74579
-Almost sorted;600;S. Counting;34902
+Randomized 4000;600;Merge;127699
+Randomized 4000;600;Quick;63214
+Randomized 4000;600;Heap;141475
+Randomized 4000;600;Shell-Tsiur;97135
+Randomized 4000;600;Shell;118113
+Almost sorted;600;Selection;1132739
+Almost sorted;600;Bubble;3841248
+Almost sorted;600;Bubble 1;3100142
+Almost sorted;600;Bubble 1+2;2588447
+Almost sorted;600;Insertion;1619461
+Almost sorted;600;Bin. Insertion;1185621
+Almost sorted;600;S. Counting;79032
 Almost sorted;600;Radix;530513
-Almost sorted;600;Merge;124995
-Almost sorted;600;Quick;162695
-Almost sorted;600;Heap;146510
-Almost sorted;600;Shell-Tsiur;64351
-Almost sorted;600;Shell;77674
-Reverse sorted;600;Selection;1142056
-Reverse sorted;600;Bubble;3950976
-Reverse sorted;600;Bubble 1;4130370
-Reverse sorted;600;Bubble 1+2;2877861
-Reverse sorted;600;Insertion;1802341
-Reverse sorted;600;Bin. Insertion;1316286
-Reverse sorted;600;S. Counting;30644
+Almost sorted;600;Merge;123875
+Almost sorted;600;Quick;561052
+Almost sorted;600;Heap;130097
+Almost sorted;600;Shell-Tsiur;71572
+Almost sorted;600;Shell;90987
+Reverse sorted;600;Selection;1142358
+Reverse sorted;600;Bubble;3951036
+Reverse sorted;600;Bubble 1;4135239
+Reverse sorted;600;Bubble 1+2;2877939
+Reverse sorted;600;Insertion;1802441
+Reverse sorted;600;Bin. Insertion;1316307
+Reverse sorted;600;S. Counting;31494
 Reverse sorted;600;Radix;530513
-Reverse sorted;600;Merge;123653
-Reverse sorted;600;Quick;1159498
-Reverse sorted;600;Heap;130606
-Reverse sorted;600;Shell-Tsiur;71318
-Reverse sorted;600;Shell;92258
-Randomized 5;700;Selection;1478025
-Randomized 5;700;Bubble;4550534
-Randomized 5;700;Bubble 1;3967994
-Randomized 5;700;Bubble 1+2;2880794
-Randomized 5;700;Insertion;1071171
-Randomized 5;700;Bin. Insertion;902471
-Randomized 5;700;S. Counting;25320
+Reverse sorted;600;Merge;123683
+Reverse sorted;600;Quick;1216837
+Reverse sorted;600;Heap;130338
+Reverse sorted;600;Shell-Tsiur;71510
+Reverse sorted;600;Shell;92341
+Randomized 5;700;Selection;1478225
+Randomized 5;700;Bubble;4548110
+Randomized 5;700;Bubble 1;3976364
+Randomized 5;700;Bubble 1+2;2880187
+Randomized 5;700;Insertion;1067131
+Randomized 5;700;Bin. Insertion;924207
+Randomized 5;700;S. Counting;25322
 Randomized 5;700;Radix;618713
-Randomized 5;700;Merge;151631
-Randomized 5;700;Quick;234827
-Randomized 5;700;Heap;146080
-Randomized 5;700;Shell-Tsiur;75712
-Randomized 5;700;Shell;93614
-Randomized 4000;700;Selection;1481229
-Randomized 4000;700;Bubble;4685276
-Randomized 4000;700;Bubble 1;4668296
-Randomized 4000;700;Bubble 1+2;3104244
-Randomized 4000;700;Insertion;1295741
-Randomized 4000;700;Bin. Insertion;969674
-Randomized 4000;700;S. Counting;80744
+Randomized 5;700;Merge;151775
+Randomized 5;700;Quick;230668
+Randomized 5;700;Heap;145961
+Randomized 5;700;Shell-Tsiur;74804
+Randomized 5;700;Shell;93640
+Randomized 4000;700;Selection;1481246
+Randomized 4000;700;Bubble;4629980
+Randomized 4000;700;Bubble 1;4626180
+Randomized 4000;700;Bubble 1+2;3040646
+Randomized 4000;700;Insertion;1203581
+Randomized 4000;700;Bin. Insertion;905332
+Randomized 4000;700;S. Counting;81272
 Randomized 4000;700;Radix;618713
-Randomized 4000;700;Merge;152179
-Randomized 4000;700;Quick;67820
-Randomized 4000;700;Heap;169092
-Randomized 4000;700;Shell-Tsiur;115546
-Randomized 4000;700;Shell;136838
-Almost sorted;700;Selection;1478889
-Almost sorted;700;Bubble;3934406
-Almost sorted;700;Bubble 1;57748
-Almost sorted;700;Bubble 1+2;61813
-Almost sorted;700;Insertion;44291
-Almost sorted;700;Bin. Insertion;88286
-Almost sorted;700;S. Counting;38502
+Randomized 4000;700;Merge;152251
+Randomized 4000;700;Quick;72987
+Randomized 4000;700;Heap;169210
+Randomized 4000;700;Shell-Tsiur;117973
+Randomized 4000;700;Shell;135034
+Almost sorted;700;Selection;1535446
+Almost sorted;700;Bubble;5126348
+Almost sorted;700;Bubble 1;3715942
+Almost sorted;700;Bubble 1+2;3245347
+Almost sorted;700;Insertion;2030861
+Almost sorted;700;Bin. Insertion;1483714
+Almost sorted;700;S. Counting;82632
 Almost sorted;700;Radix;618713
-Almost sorted;700;Merge;148977
-Almost sorted;700;Quick;186679
-Almost sorted;700;Heap;175539
-Almost sorted;700;Shell-Tsiur;76452
-Almost sorted;700;Shell;88642
-Reverse sorted;700;Selection;1552973
-Reverse sorted;700;Bubble;5379470
-Reverse sorted;700;Bubble 1;5629362
-Reverse sorted;700;Bubble 1+2;3917512
-Reverse sorted;700;Insertion;2452731
-Reverse sorted;700;Bin. Insertion;1782490
-Reverse sorted;700;S. Counting;35814
+Almost sorted;700;Merge;147869
+Almost sorted;700;Quick;657377
+Almost sorted;700;Heap;155374
+Almost sorted;700;Shell-Tsiur;83232
+Almost sorted;700;Shell;106015
+Reverse sorted;700;Selection;1554589
+Reverse sorted;700;Bubble;5379584
+Reverse sorted;700;Bubble 1;5629495
+Reverse sorted;700;Bubble 1+2;3917645
+Reverse sorted;700;Insertion;2452921
+Reverse sorted;700;Bin. Insertion;1782591
+Reverse sorted;700;S. Counting;36590
 Reverse sorted;700;Radix;618713
-Reverse sorted;700;Merge;147407
-Reverse sorted;700;Quick;1597222
-Reverse sorted;700;Heap;156898
-Reverse sorted;700;Shell-Tsiur;84739
-Reverse sorted;700;Shell;110440
-Randomized 5;800;Selection;1929199
-Randomized 5;800;Bubble;5952218
-Randomized 5;800;Bubble 1;5253850
-Randomized 5;800;Bubble 1+2;3783248
-Randomized 5;800;Insertion;1410211
-Randomized 5;800;Bin. Insertion;1189462
-Randomized 5;800;S. Counting;28920
+Reverse sorted;700;Merge;147389
+Reverse sorted;700;Quick;1681901
+Reverse sorted;700;Heap;156713
+Reverse sorted;700;Shell-Tsiur;84955
+Reverse sorted;700;Shell;110479
+Randomized 5;800;Selection;1929320
+Randomized 5;800;Bubble;5937806
+Randomized 5;800;Bubble 1;5109056
+Randomized 5;800;Bubble 1+2;3740804
+Randomized 5;800;Insertion;1386191
+Randomized 5;800;Bin. Insertion;1190820
+Randomized 5;800;S. Counting;28922
 Randomized 5;800;Radix;706913
-Randomized 5;800;Merge;176150
-Randomized 5;800;Quick;302263
-Randomized 5;800;Heap;169483
-Randomized 5;800;Shell-Tsiur;89274
-Randomized 5;800;Shell;114796
-Randomized 4000;800;Selection;1933143
-Randomized 4000;800;Bubble;6120620
-Randomized 4000;800;Bubble 1;6000633
-Randomized 4000;800;Bubble 1+2;4048904
-Randomized 4000;800;Insertion;1690881
-Randomized 4000;800;Bin. Insertion;1256831
-Randomized 4000;800;S. Counting;84444
+Randomized 5;800;Merge;176192
+Randomized 5;800;Quick;299196
+Randomized 5;800;Heap;169183
+Randomized 5;800;Shell-Tsiur;87332
+Randomized 5;800;Shell;113097
+Randomized 4000;800;Selection;1933038
+Randomized 4000;800;Bubble;6072890
+Randomized 4000;800;Bubble 1;6111322
+Randomized 4000;800;Bubble 1+2;4001032
+Randomized 4000;800;Insertion;1611331
+Randomized 4000;800;Bin. Insertion;1201171
+Randomized 4000;800;S. Counting;84872
 Randomized 4000;800;Radix;706913
-Randomized 4000;800;Merge;176738
-Randomized 4000;800;Quick;80080
-Randomized 4000;800;Heap;197916
-Randomized 4000;800;Shell-Tsiur;136341
-Randomized 4000;800;Shell;171107
-Almost sorted;800;Selection;1930169
-Almost sorted;800;Bubble;5136506
-Almost sorted;800;Bubble 1;66048
-Almost sorted;800;Bubble 1+2;70713
-Almost sorted;800;Insertion;50691
-Almost sorted;800;Bin. Insertion;101931
-Almost sorted;800;S. Counting;42102
+Randomized 4000;800;Merge;176868
+Randomized 4000;800;Quick;74945
+Randomized 4000;800;Heap;198651
+Randomized 4000;800;Shell-Tsiur;138274
+Randomized 4000;800;Shell;173839
+Almost sorted;800;Selection;1998463
+Almost sorted;800;Bubble;6571448
+Almost sorted;800;Bubble 1;4331742
+Almost sorted;800;Bubble 1+2;3902247
+Almost sorted;800;Insertion;2442261
+Almost sorted;800;Bin. Insertion;1781679
+Almost sorted;800;S. Counting;86232
 Almost sorted;800;Radix;706913
-Almost sorted;800;Merge;173088
-Almost sorted;800;Quick;223108
-Almost sorted;800;Heap;205283
-Almost sorted;800;Shell-Tsiur;89874
-Almost sorted;800;Shell;105348
-Reverse sorted;800;Selection;2026752
-Reverse sorted;800;Bubble;7027952
-Reverse sorted;800;Bubble 1;7347142
-Reverse sorted;800;Bubble 1+2;5117133
-Reverse sorted;800;Insertion;3203101
-Reverse sorted;800;Bin. Insertion;2318726
-Reverse sorted;800;S. Counting;40824
+Almost sorted;800;Merge;172036
+Almost sorted;800;Quick;590150
+Almost sorted;800;Heap;179365
+Almost sorted;800;Shell-Tsiur;98393
+Almost sorted;800;Shell;121289
+Reverse sorted;800;Selection;2030583
+Reverse sorted;800;Bubble;7028126
+Reverse sorted;800;Bubble 1;7334547
+Reverse sorted;800;Bubble 1+2;5117293
+Reverse sorted;800;Insertion;3203391
+Reverse sorted;800;Bin. Insertion;2318897
+Reverse sorted;800;S. Counting;41796
 Reverse sorted;800;Radix;706913
-Reverse sorted;800;Merge;171174
-Reverse sorted;800;Quick;2082055
-Reverse sorted;800;Heap;182316
-Reverse sorted;800;Shell-Tsiur;99071
-Reverse sorted;800;Shell;124829
-Randomized 5;900;Selection;2440336
-Randomized 5;900;Bubble;7544190
-Randomized 5;900;Bubble 1;6614257
-Randomized 5;900;Bubble 1+2;4790497
-Randomized 5;900;Insertion;1799731
-Randomized 5;900;Bin. Insertion;1518800
-Randomized 5;900;S. Counting;32520
+Reverse sorted;800;Merge;171194
+Reverse sorted;800;Quick;2202064
+Reverse sorted;800;Heap;182775
+Reverse sorted;800;Shell-Tsiur;99513
+Reverse sorted;800;Shell;124699
+Randomized 5;900;Selection;2440519
+Randomized 5;900;Bubble;7529616
+Randomized 5;900;Bubble 1;6496468
+Randomized 5;900;Bubble 1+2;4753033
+Randomized 5;900;Insertion;1775441
+Randomized 5;900;Bin. Insertion;1509476
+Randomized 5;900;S. Counting;32522
 Randomized 5;900;Radix;795113
-Randomized 5;900;Merge;200683
-Randomized 5;900;Quick;374326
-Randomized 5;900;Heap;192609
-Randomized 5;900;Shell-Tsiur;101576
-Randomized 5;900;Shell;133865
-Randomized 4000;900;Selection;2444688
-Randomized 4000;900;Bubble;7725648
-Randomized 4000;900;Bubble 1;7689838
-Randomized 4000;900;Bubble 1+2;5105218
-Randomized 4000;900;Insertion;2102161
-Randomized 4000;900;Bin. Insertion;1555074
-Randomized 4000;900;S. Counting;88286
+Randomized 5;900;Merge;200821
+Randomized 5;900;Quick;373724
+Randomized 5;900;Heap;191933
+Randomized 5;900;Shell-Tsiur;101314
+Randomized 5;900;Shell;129384
+Randomized 4000;900;Selection;2444564
+Randomized 4000;900;Bubble;7653228
+Randomized 4000;900;Bubble 1;7619746
+Randomized 4000;900;Bubble 1+2;5021347
+Randomized 4000;900;Insertion;1981461
+Randomized 4000;900;Bin. Insertion;1470808
+Randomized 4000;900;S. Counting;88472
 Randomized 4000;900;Radix;795113
-Randomized 4000;900;Merge;201411
-Randomized 4000;900;Quick;107990
-Randomized 4000;900;Heap;226672
-Randomized 4000;900;Shell-Tsiur;157336
-Randomized 4000;900;Shell;215066
-Almost sorted;900;Selection;2441449
-Almost sorted;900;Bubble;6498606
-Almost sorted;900;Bubble 1;74348
-Almost sorted;900;Bubble 1+2;79613
-Almost sorted;900;Insertion;57091
-Almost sorted;900;Bin. Insertion;116492
-Almost sorted;900;S. Counting;45702
+Randomized 4000;900;Merge;201513
+Randomized 4000;900;Quick;91462
+Randomized 4000;900;Heap;225815
+Randomized 4000;900;Shell-Tsiur;157720
+Randomized 4000;900;Shell;212820
+Almost sorted;900;Selection;2521405
+Almost sorted;900;Bubble;8176548
+Almost sorted;900;Bubble 1;4947542
+Almost sorted;900;Bubble 1+2;4559147
+Almost sorted;900;Insertion;2853661
+Almost sorted;900;Bin. Insertion;2080190
+Almost sorted;900;S. Counting;89832
 Almost sorted;900;Radix;795113
-Almost sorted;900;Merge;196839
-Almost sorted;900;Quick;267540
-Almost sorted;900;Heap;234352
-Almost sorted;900;Shell-Tsiur;103310
-Almost sorted;900;Shell;119422
-Reverse sorted;900;Selection;2563763
-Reverse sorted;900;Bubble;8896470
-Reverse sorted;900;Bubble 1;9307762
-Reverse sorted;900;Bubble 1+2;6476812
-Reverse sorted;900;Insertion;4053531
-Reverse sorted;900;Bin. Insertion;2925048
-Reverse sorted;900;S. Counting;45892
+Almost sorted;900;Merge;195271
+Almost sorted;900;Quick;1167097
+Almost sorted;900;Heap;207044
+Almost sorted;900;Shell-Tsiur;110337
+Almost sorted;900;Shell;137869
+Reverse sorted;900;Selection;2569834
+Reverse sorted;900;Bubble;8896686
+Reverse sorted;900;Bubble 1;9308014
+Reverse sorted;900;Bubble 1+2;6477064
+Reverse sorted;900;Insertion;4053891
+Reverse sorted;900;Bin. Insertion;2925251
+Reverse sorted;900;S. Counting;46916
 Reverse sorted;900;Radix;795113
-Reverse sorted;900;Merge;195057
-Reverse sorted;900;Quick;2636739
-Reverse sorted;900;Heap;209484
-Reverse sorted;900;Shell-Tsiur;114450
-Reverse sorted;900;Shell;145272
-Randomized 5;1000;Selection;3011545
-Randomized 5;1000;Bubble;9322436
-Randomized 5;1000;Bubble 1;8128517
-Randomized 5;1000;Bubble 1+2;5913638
-Randomized 5;1000;Insertion;2233041
-Randomized 5;1000;Bin. Insertion;1886281
-Randomized 5;1000;S. Counting;36120
+Reverse sorted;900;Merge;195045
+Reverse sorted;900;Quick;2786952
+Reverse sorted;900;Heap;209856
+Reverse sorted;900;Shell-Tsiur;114567
+Reverse sorted;900;Shell;145506
+Randomized 5;1000;Selection;3011725
+Randomized 5;1000;Bubble;9291116
+Randomized 5;1000;Bubble 1;7995989
+Randomized 5;1000;Bubble 1+2;5857184
+Randomized 5;1000;Insertion;2180841
+Randomized 5;1000;Bin. Insertion;1843872
+Randomized 5;1000;S. Counting;36122
 Randomized 5;1000;Radix;883313
-Randomized 5;1000;Merge;225335
-Randomized 5;1000;Quick;460094
-Randomized 5;1000;Heap;216058
-Randomized 5;1000;Shell-Tsiur;115451
-Randomized 5;1000;Shell;138547
-Randomized 4000;1000;Selection;3016732
-Randomized 4000;1000;Bubble;9524240
-Randomized 4000;1000;Bubble 1;9507812
-Randomized 4000;1000;Bubble 1+2;6286642
-Randomized 4000;1000;Insertion;2569381
-Randomized 4000;1000;Bin. Insertion;1892641
-Randomized 4000;1000;S. Counting;91886
+Randomized 5;1000;Merge;225373
+Randomized 5;1000;Quick;454611
+Randomized 5;1000;Heap;215808
+Randomized 5;1000;Shell-Tsiur;115162
+Randomized 5;1000;Shell;132489
+Randomized 4000;1000;Selection;3016232
+Randomized 4000;1000;Bubble;9458654
+Randomized 4000;1000;Bubble 1;9447293
+Randomized 4000;1000;Bubble 1+2;6210744
+Randomized 4000;1000;Insertion;2460071
+Randomized 4000;1000;Bin. Insertion;1816561
+Randomized 4000;1000;S. Counting;92072
 Randomized 4000;1000;Radix;883313
-Randomized 4000;1000;Merge;226163
-Randomized 4000;1000;Quick;96000
-Randomized 4000;1000;Heap;255361
-Randomized 4000;1000;Shell-Tsiur;177100
-Randomized 4000;1000;Shell;203186
-Almost sorted;1000;Selection;3012729
-Almost sorted;1000;Bubble;8020706
-Almost sorted;1000;Bubble 1;82648
-Almost sorted;1000;Bubble 1+2;88513
-Almost sorted;1000;Insertion;63491
-Almost sorted;1000;Bin. Insertion;130948
-Almost sorted;1000;S. Counting;49302
+Randomized 4000;1000;Merge;226183
+Randomized 4000;1000;Quick;102774
+Randomized 4000;1000;Heap;254853
+Randomized 4000;1000;Shell-Tsiur;179244
+Randomized 4000;1000;Shell;207134
+Almost sorted;1000;Selection;3104114
+Almost sorted;1000;Bubble;9941648
+Almost sorted;1000;Bubble 1;5563342
+Almost sorted;1000;Bubble 1+2;5216047
+Almost sorted;1000;Insertion;3265061
+Almost sorted;1000;Bin. Insertion;2378811
+Almost sorted;1000;S. Counting;93432
 Almost sorted;1000;Radix;883313
-Almost sorted;1000;Merge;221691
-Almost sorted;1000;Quick;324481
-Almost sorted;1000;Heap;263924
-Almost sorted;1000;Shell-Tsiur;116785
-Almost sorted;1000;Shell;133121
-Reverse sorted;1000;Selection;3163869
-Reverse sorted;1000;Bubble;10984892
-Reverse sorted;1000;Bubble 1;11483872
-Reverse sorted;1000;Bubble 1+2;7996363
-Reverse sorted;1000;Insertion;5003801
-Reverse sorted;1000;Bin. Insertion;3601192
-Reverse sorted;1000;S. Counting;50870
+Almost sorted;1000;Merge;219211
+Almost sorted;1000;Quick;1233149
+Almost sorted;1000;Heap;235541
+Almost sorted;1000;Shell-Tsiur;127211
+Almost sorted;1000;Shell;152038
+Reverse sorted;1000;Selection;3172310
+Reverse sorted;1000;Bubble;10985150
+Reverse sorted;1000;Bubble 1;11484173
+Reverse sorted;1000;Bubble 1+2;7996664
+Reverse sorted;1000;Insertion;5004231
+Reverse sorted;1000;Bin. Insertion;3601493
+Reverse sorted;1000;S. Counting;52132
 Reverse sorted;1000;Radix;883313
-Reverse sorted;1000;Merge;219055
-Reverse sorted;1000;Quick;3227201
-Reverse sorted;1000;Heap;235287
-Reverse sorted;1000;Shell-Tsiur;127953
-Reverse sorted;1000;Shell;162143
-Randomized 5;1100;Selection;3642771
-Randomized 5;1100;Bubble;11301074
-Randomized 5;1100;Bubble 1;9883493
-Randomized 5;1100;Bubble 1+2;7183354
-Randomized 5;1100;Insertion;2733671
-Randomized 5;1100;Bin. Insertion;2290843
-Randomized 5;1100;S. Counting;39720
+Reverse sorted;1000;Merge;219009
+Reverse sorted;1000;Quick;3365460
+Reverse sorted;1000;Heap;235493
+Reverse sorted;1000;Shell-Tsiur;128239
+Reverse sorted;1000;Shell;162481
+Randomized 5;1100;Selection;3642868
+Randomized 5;1100;Bubble;11228498
+Randomized 5;1100;Bubble 1;9658037
+Randomized 5;1100;Bubble 1+2;7069682
+Randomized 5;1100;Insertion;2612711
+Randomized 5;1100;Bin. Insertion;2204041
+Randomized 5;1100;S. Counting;39722
 Randomized 5;1100;Radix;971513
-Randomized 5;1100;Merge;251234
-Randomized 5;1100;Quick;545493
-Randomized 5;1100;Heap;239501
-Randomized 5;1100;Shell-Tsiur;129332
-Randomized 5;1100;Shell;163088
-Randomized 4000;1100;Selection;3648190
-Randomized 4000;1100;Bubble;11513720
-Randomized 4000;1100;Bubble 1;11205058
-Randomized 4000;1100;Bubble 1+2;7576804
-Randomized 4000;1100;Insertion;3088081
-Randomized 4000;1100;Bin. Insertion;2266454
-Randomized 4000;1100;S. Counting;95486
+Randomized 5;1100;Merge;251298
+Randomized 5;1100;Quick;546991
+Randomized 5;1100;Heap;239195
+Randomized 5;1100;Shell-Tsiur;128363
+Randomized 5;1100;Shell;162243
+Randomized 4000;1100;Selection;3647943
+Randomized 4000;1100;Bubble;11466926
+Randomized 4000;1100;Bubble 1;11440832
+Randomized 4000;1100;Bubble 1+2;7538513
+Randomized 4000;1100;Insertion;3010091
+Randomized 4000;1100;Bin. Insertion;2212261
+Randomized 4000;1100;S. Counting;95672
 Randomized 4000;1100;Radix;971513
-Randomized 4000;1100;Merge;252106
-Randomized 4000;1100;Quick;143670
-Randomized 4000;1100;Heap;285090
-Randomized 4000;1100;Shell-Tsiur;198329
-Randomized 4000;1100;Shell;242080
-Almost sorted;1100;Selection;3643975
-Almost sorted;1100;Bubble;9702656
-Almost sorted;1100;Bubble 1;90773
-Almost sorted;1100;Bubble 1+2;97238
-Almost sorted;1100;Insertion;69641
-Almost sorted;1100;Bin. Insertion;145366
-Almost sorted;1100;S. Counting;59966
+Randomized 4000;1100;Merge;252130
+Randomized 4000;1100;Quick;117432
+Randomized 4000;1100;Heap;284341
+Randomized 4000;1100;Shell-Tsiur;201627
+Randomized 4000;1100;Shell;242977
+Almost sorted;1100;Selection;3746701
+Almost sorted;1100;Bubble;11866748
+Almost sorted;1100;Bubble 1;6179142
+Almost sorted;1100;Bubble 1+2;5872947
+Almost sorted;1100;Insertion;3676461
+Almost sorted;1100;Bin. Insertion;2677091
+Almost sorted;1100;S. Counting;97032
 Almost sorted;1100;Radix;971513
-Almost sorted;1100;Merge;246148
-Almost sorted;1100;Quick;341146
-Almost sorted;1100;Heap;295101
-Almost sorted;1100;Shell-Tsiur;130143
-Almost sorted;1100;Shell;158564
-Reverse sorted;1100;Selection;3827355
-Reverse sorted;1100;Bubble;13293470
-Reverse sorted;1100;Bubble 1;13897363
-Reverse sorted;1100;Bubble 1+2;9676104
-Reverse sorted;1100;Insertion;6054331
-Reverse sorted;1100;Bin. Insertion;4348364
-Reverse sorted;1100;S. Counting;56180
+Almost sorted;1100;Merge;244374
+Almost sorted;1100;Quick;1307616
+Almost sorted;1100;Heap;264516
+Almost sorted;1100;Shell-Tsiur;138651
+Almost sorted;1100;Shell;176904
+Reverse sorted;1100;Selection;3837972
+Reverse sorted;1100;Bubble;13293722
+Reverse sorted;1100;Bubble 1;13906456
+Reverse sorted;1100;Bubble 1+2;9676406
+Reverse sorted;1100;Insertion;6054751
+Reverse sorted;1100;Bin. Insertion;4348699
+Reverse sorted;1100;S. Counting;57294
 Reverse sorted;1100;Radix;971513
-Reverse sorted;1100;Merge;243976
-Reverse sorted;1100;Quick;4011130
-Reverse sorted;1100;Heap;264006
-Reverse sorted;1100;Shell-Tsiur;142849
-Reverse sorted;1100;Shell;189046
-Randomized 5;1200;Selection;4333890
-Randomized 5;1200;Bubble;13401510
-Randomized 5;1200;Bubble 1;11653108
-Randomized 5;1200;Bubble 1+2;8481184
-Randomized 5;1200;Insertion;3170631
-Randomized 5;1200;Bin. Insertion;2671139
-Randomized 5;1200;S. Counting;43320
+Reverse sorted;1100;Merge;244000
+Reverse sorted;1100;Quick;4087615
+Reverse sorted;1100;Heap;264339
+Reverse sorted;1100;Shell-Tsiur;143340
+Reverse sorted;1100;Shell;189085
+Randomized 5;1200;Selection;4334041
+Randomized 5;1200;Bubble;13359318
+Randomized 5;1200;Bubble 1;11411904
+Randomized 5;1200;Bubble 1+2;8391210
+Randomized 5;1200;Insertion;3100311
+Randomized 5;1200;Bin. Insertion;2615393
+Randomized 5;1200;S. Counting;43322
 Randomized 5;1200;Radix;1059713
-Randomized 5;1200;Merge;277490
-Randomized 5;1200;Quick;645037
-Randomized 5;1200;Heap;268440
-Randomized 5;1200;Shell-Tsiur;142058
-Randomized 5;1200;Shell;182702
-Randomized 4000;1200;Selection;4339909
-Randomized 4000;1200;Bubble;13714014
-Randomized 4000;1200;Bubble 1;13726318
-Randomized 4000;1200;Bubble 1+2;9049849
-Randomized 4000;1200;Insertion;3691471
-Randomized 4000;1200;Bin. Insertion;2699699
-Randomized 4000;1200;S. Counting;99086
+Randomized 5;1200;Merge;277570
+Randomized 5;1200;Quick;648261
+Randomized 5;1200;Heap;265626
+Randomized 5;1200;Shell-Tsiur;142108
+Randomized 5;1200;Shell;182115
+Randomized 4000;1200;Selection;4339962
+Randomized 4000;1200;Bubble;13657302
+Randomized 4000;1200;Bubble 1;13784941
+Randomized 4000;1200;Bubble 1+2;8987416
+Randomized 4000;1200;Insertion;3596951
+Randomized 4000;1200;Bin. Insertion;2633799
+Randomized 4000;1200;S. Counting;99272
 Randomized 4000;1200;Radix;1059713
-Randomized 4000;1200;Merge;278480
-Randomized 4000;1200;Quick;138228
-Randomized 4000;1200;Heap;314201
-Randomized 4000;1200;Shell-Tsiur;221427
-Randomized 4000;1200;Shell;281726
-Almost sorted;1200;Selection;4335255
-Almost sorted;1200;Bubble;11544756
-Almost sorted;1200;Bubble 1;99073
-Almost sorted;1200;Bubble 1+2;106138
-Almost sorted;1200;Insertion;76041
-Almost sorted;1200;Bin. Insertion;160414
-Almost sorted;1200;S. Counting;63566
+Randomized 4000;1200;Merge;278514
+Randomized 4000;1200;Quick;138063
+Randomized 4000;1200;Heap;313548
+Randomized 4000;1200;Shell-Tsiur;223541
+Randomized 4000;1200;Shell;275906
+Almost sorted;1200;Selection;4449799
+Almost sorted;1200;Bubble;13951848
+Almost sorted;1200;Bubble 1;6794942
+Almost sorted;1200;Bubble 1+2;6529847
+Almost sorted;1200;Insertion;4087861
+Almost sorted;1200;Bin. Insertion;2975657
+Almost sorted;1200;S. Counting;100632
 Almost sorted;1200;Radix;1059713
-Almost sorted;1200;Merge;272058
-Almost sorted;1200;Quick;369273
-Almost sorted;1200;Heap;326923
-Almost sorted;1200;Shell-Tsiur;143579
-Almost sorted;1200;Shell;172482
-Reverse sorted;1200;Selection;4554456
-Reverse sorted;1200;Bubble;15821928
-Reverse sorted;1200;Bubble 1;16550313
-Reverse sorted;1200;Bubble 1+2;11515713
-Reverse sorted;1200;Insertion;7204661
-Reverse sorted;1200;Bin. Insertion;5165618
-Reverse sorted;1200;S. Counting;61078
+Almost sorted;1200;Merge;270158
+Almost sorted;1200;Quick;1275644
+Almost sorted;1200;Heap;294083
+Almost sorted;1200;Shell-Tsiur;155813
+Almost sorted;1200;Shell;197383
+Reverse sorted;1200;Selection;4566408
+Reverse sorted;1200;Bubble;15822252
+Reverse sorted;1200;Bubble 1;16541092
+Reverse sorted;1200;Bubble 1+2;11516083
+Reverse sorted;1200;Insertion;7205201
+Reverse sorted;1200;Bin. Insertion;5166121
+Reverse sorted;1200;S. Counting;62224
 Reverse sorted;1200;Radix;1059713
-Reverse sorted;1200;Merge;269354
-Reverse sorted;1200;Quick;4748242
-Reverse sorted;1200;Heap;291759
-Reverse sorted;1200;Shell-Tsiur;157495
-Reverse sorted;1200;Shell;208856
-Randomized 5;1300;Selection;5085129
-Randomized 5;1300;Bubble;15767102
-Randomized 5;1300;Bubble 1;13782994
-Randomized 5;1300;Bubble 1+2;10010090
-Randomized 5;1300;Insertion;3782851
-Randomized 5;1300;Bin. Insertion;3161613
-Randomized 5;1300;S. Counting;46920
+Reverse sorted;1200;Merge;269356
+Reverse sorted;1200;Quick;4833992
+Reverse sorted;1200;Heap;291855
+Reverse sorted;1200;Shell-Tsiur;157833
+Reverse sorted;1200;Shell;209142
+Randomized 5;1300;Selection;5085178
+Randomized 5;1300;Bubble;15673856
+Randomized 5;1300;Bubble 1;13518222
+Randomized 5;1300;Bubble 1+2;9869458
+Randomized 5;1300;Insertion;3627441
+Randomized 5;1300;Bin. Insertion;3054350
+Randomized 5;1300;S. Counting;46922
 Randomized 5;1300;Radix;1147913
-Randomized 5;1300;Merge;303892
-Randomized 5;1300;Quick;754961
-Randomized 5;1300;Heap;291900
-Randomized 5;1300;Shell-Tsiur;156904
-Randomized 5;1300;Shell;197425
-Randomized 4000;1300;Selection;5091496
-Randomized 4000;1300;Bubble;16056326
-Randomized 4000;1300;Bubble 1;15607479
-Randomized 4000;1300;Bubble 1+2;10549434
-Randomized 4000;1300;Insertion;4264891
-Randomized 4000;1300;Bin. Insertion;3112028
-Randomized 4000;1300;S. Counting;102772
+Randomized 5;1300;Merge;303910
+Randomized 5;1300;Quick;752118
+Randomized 5;1300;Heap;291494
+Randomized 5;1300;Shell-Tsiur;156879
+Randomized 5;1300;Shell;195953
+Randomized 4000;1300;Selection;5091581
+Randomized 4000;1300;Bubble;16019126
+Randomized 4000;1300;Bubble 1;15730463
+Randomized 4000;1300;Bubble 1+2;10517178
+Randomized 4000;1300;Insertion;4202891
+Randomized 4000;1300;Bin. Insertion;3068986
+Randomized 4000;1300;S. Counting;102872
 Randomized 4000;1300;Radix;1147913
-Randomized 4000;1300;Merge;304968
-Randomized 4000;1300;Quick;140741
-Randomized 4000;1300;Heap;344700
-Randomized 4000;1300;Shell-Tsiur;242201
-Randomized 4000;1300;Shell;320851
-Almost sorted;1300;Selection;5086535
-Almost sorted;1300;Bubble;13546856
-Almost sorted;1300;Bubble 1;107373
-Almost sorted;1300;Bubble 1+2;115038
-Almost sorted;1300;Insertion;82441
-Almost sorted;1300;Bin. Insertion;175672
-Almost sorted;1300;S. Counting;67166
+Randomized 4000;1300;Merge;304994
+Randomized 4000;1300;Quick;151885
+Randomized 4000;1300;Heap;344326
+Randomized 4000;1300;Shell-Tsiur;248180
+Randomized 4000;1300;Shell;310089
+Almost sorted;1300;Selection;5212753
+Almost sorted;1300;Bubble;16196948
+Almost sorted;1300;Bubble 1;7410742
+Almost sorted;1300;Bubble 1+2;7186747
+Almost sorted;1300;Insertion;4499261
+Almost sorted;1300;Bin. Insertion;3274508
+Almost sorted;1300;S. Counting;104232
 Almost sorted;1300;Radix;1147913
-Almost sorted;1300;Merge;297862
-Almost sorted;1300;Quick;407799
-Almost sorted;1300;Heap;359151
-Almost sorted;1300;Shell-Tsiur;156924
-Almost sorted;1300;Shell;181091
-Reverse sorted;1300;Selection;5344559
-Reverse sorted;1300;Bubble;18570428
-Reverse sorted;1300;Bubble 1;19424513
-Reverse sorted;1300;Bubble 1+2;13515363
-Reverse sorted;1300;Insertion;8455061
-Reverse sorted;1300;Bin. Insertion;6052938
-Reverse sorted;1300;S. Counting;66122
+Almost sorted;1300;Merge;296060
+Almost sorted;1300;Quick;1650669
+Almost sorted;1300;Heap;323662
+Almost sorted;1300;Shell-Tsiur;171979
+Almost sorted;1300;Shell;211618
+Reverse sorted;1300;Selection;5358083
+Reverse sorted;1300;Bubble;18570710
+Reverse sorted;1300;Bubble 1;19424842
+Reverse sorted;1300;Bubble 1+2;13515692
+Reverse sorted;1300;Insertion;8455531
+Reverse sorted;1300;Bin. Insertion;6053373
+Reverse sorted;1300;S. Counting;67292
 Reverse sorted;1300;Radix;1147913
-Reverse sorted;1300;Merge;295006
-Reverse sorted;1300;Quick;5589167
-Reverse sorted;1300;Heap;321291
-Reverse sorted;1300;Shell-Tsiur;182109
-Reverse sorted;1300;Shell;232858
-Randomized 5;1400;Selection;5896295
-Randomized 5;1400;Bubble;18280424
-Randomized 5;1400;Bubble 1;15938574
-Randomized 5;1400;Bubble 1+2;11593549
-Randomized 5;1400;Insertion;4374621
-Randomized 5;1400;Bin. Insertion;3636919
-Randomized 5;1400;S. Counting;50520
+Reverse sorted;1300;Merge;294920
+Reverse sorted;1300;Quick;5631319
+Reverse sorted;1300;Heap;321535
+Reverse sorted;1300;Shell-Tsiur;182564
+Reverse sorted;1300;Shell;232780
+Randomized 5;1400;Selection;5896367
+Randomized 5;1400;Bubble;18183506
+Randomized 5;1400;Bubble 1;15646319
+Randomized 5;1400;Bubble 1+2;11443414
+Randomized 5;1400;Insertion;4213091
+Randomized 5;1400;Bin. Insertion;3537987
+Randomized 5;1400;S. Counting;50522
 Randomized 5;1400;Radix;1236113
-Randomized 5;1400;Merge;330258
-Randomized 5;1400;Quick;871576
-Randomized 5;1400;Heap;316058
-Randomized 5;1400;Shell-Tsiur;171094
-Randomized 5;1400;Shell;213562
-Randomized 4000;1400;Selection;5903665
-Randomized 4000;1400;Bubble;18612956
-Randomized 4000;1400;Bubble 1;18711915
-Randomized 4000;1400;Bubble 1+2;12255421
-Randomized 4000;1400;Insertion;4928841
-Randomized 4000;1400;Bin. Insertion;3587908
-Randomized 4000;1400;S. Counting;106372
+Randomized 5;1400;Merge;330388
+Randomized 5;1400;Quick;870016
+Randomized 5;1400;Heap;316054
+Randomized 5;1400;Shell-Tsiur;170622
+Randomized 5;1400;Shell;211940
+Randomized 4000;1400;Selection;5903499
+Randomized 4000;1400;Bubble;18533156
+Randomized 4000;1400;Bubble 1;18350039
+Randomized 4000;1400;Bubble 1+2;12151869
+Randomized 4000;1400;Insertion;4795841
+Randomized 4000;1400;Bin. Insertion;3495253
+Randomized 4000;1400;S. Counting;106472
 Randomized 4000;1400;Radix;1236113
-Randomized 4000;1400;Merge;331412
-Randomized 4000;1400;Quick;157196
-Randomized 4000;1400;Heap;374175
-Randomized 4000;1400;Shell-Tsiur;262879
-Randomized 4000;1400;Shell;312674
-Almost sorted;1400;Selection;5897815
-Almost sorted;1400;Bubble;15708956
-Almost sorted;1400;Bubble 1;115673
-Almost sorted;1400;Bubble 1+2;123938
-Almost sorted;1400;Insertion;88841
-Almost sorted;1400;Bin. Insertion;189859
-Almost sorted;1400;S. Counting;70766
+Randomized 4000;1400;Merge;331538
+Randomized 4000;1400;Quick;152071
+Randomized 4000;1400;Heap;374288
+Randomized 4000;1400;Shell-Tsiur;266960
+Randomized 4000;1400;Shell;314155
+Almost sorted;1400;Selection;6035593
+Almost sorted;1400;Bubble;18602048
+Almost sorted;1400;Bubble 1;8026542
+Almost sorted;1400;Bubble 1+2;7843647
+Almost sorted;1400;Insertion;4910661
+Almost sorted;1400;Bin. Insertion;3573394
+Almost sorted;1400;S. Counting;107832
 Almost sorted;1400;Radix;1236113
-Almost sorted;1400;Merge;323736
-Almost sorted;1400;Quick;457651
-Almost sorted;1400;Heap;390924
-Almost sorted;1400;Shell-Tsiur;170373
-Almost sorted;1400;Shell;197307
-Reverse sorted;1400;Selection;6198335
-Reverse sorted;1400;Bubble;21539006
-Reverse sorted;1400;Bubble 1;22506406
-Reverse sorted;1400;Bubble 1+2;15675079
-Reverse sorted;1400;Insertion;9805591
-Reverse sorted;1400;Bin. Insertion;7010374
-Reverse sorted;1400;S. Counting;71416
+Almost sorted;1400;Merge;321834
+Almost sorted;1400;Quick;1859286
+Almost sorted;1400;Heap;352170
+Almost sorted;1400;Shell-Tsiur;186845
+Almost sorted;1400;Shell;232368
+Reverse sorted;1400;Selection;6212623
+Reverse sorted;1400;Bubble;21539246
+Reverse sorted;1400;Bubble 1;22529084
+Reverse sorted;1400;Bubble 1+2;15675384
+Reverse sorted;1400;Insertion;9805991
+Reverse sorted;1400;Bin. Insertion;7010777
+Reverse sorted;1400;S. Counting;72646
 Reverse sorted;1400;Radix;1236113
-Reverse sorted;1400;Merge;320498
-Reverse sorted;1400;Quick;6573999
-Reverse sorted;1400;Heap;348369
-Reverse sorted;1400;Shell-Tsiur;190388
-Reverse sorted;1400;Shell;249372
-Randomized 5;1500;Selection;6767454
-Randomized 5;1500;Bubble;20957178
-Randomized 5;1500;Bubble 1;18188561
-Randomized 5;1500;Bubble 1+2;13259702
-Randomized 5;1500;Insertion;4972111
-Randomized 5;1500;Bin. Insertion;4127685
-Randomized 5;1500;S. Counting;54120
+Reverse sorted;1400;Merge;320484
+Reverse sorted;1400;Quick;6537311
+Reverse sorted;1400;Heap;349133
+Reverse sorted;1400;Shell-Tsiur;190471
+Reverse sorted;1400;Shell;249476
+Randomized 5;1500;Selection;6767519
+Randomized 5;1500;Bubble;20853750
+Randomized 5;1500;Bubble 1;17947905
+Randomized 5;1500;Bubble 1+2;13113981
+Randomized 5;1500;Insertion;4799731
+Randomized 5;1500;Bin. Insertion;4029594
+Randomized 5;1500;S. Counting;54122
 Randomized 5;1500;Radix;1324313
-Randomized 5;1500;Merge;356655
-Randomized 5;1500;Quick;1005606
-Randomized 5;1500;Heap;342166
-Randomized 5;1500;Shell-Tsiur;184463
-Randomized 5;1500;Shell;226787
-Randomized 4000;1500;Selection;6775282
-Randomized 4000;1500;Bubble;21377154
-Randomized 4000;1500;Bubble 1;21858268
-Randomized 4000;1500;Bubble 1+2;14085694
-Randomized 4000;1500;Insertion;5672071
-Randomized 4000;1500;Bin. Insertion;4119364
-Randomized 4000;1500;S. Counting;110032
+Randomized 5;1500;Merge;356781
+Randomized 5;1500;Quick;1002705
+Randomized 5;1500;Heap;340589
+Randomized 5;1500;Shell-Tsiur;183508
+Randomized 5;1500;Shell;223630
+Randomized 4000;1500;Selection;6774995
+Randomized 4000;1500;Bubble;21326850
+Randomized 4000;1500;Bubble 1;21679590
+Randomized 4000;1500;Bubble 1+2;14025801
+Randomized 4000;1500;Insertion;5588231
+Randomized 4000;1500;Bin. Insertion;4060983
+Randomized 4000;1500;S. Counting;110072
 Randomized 4000;1500;Radix;1324313
-Randomized 4000;1500;Merge;358027
-Randomized 4000;1500;Quick;163586
-Randomized 4000;1500;Heap;405599
-Randomized 4000;1500;Shell-Tsiur;284298
-Randomized 4000;1500;Shell;339970
-Almost sorted;1500;Selection;6769095
-Almost sorted;1500;Bubble;18031056
-Almost sorted;1500;Bubble 1;123973
-Almost sorted;1500;Bubble 1+2;132838
-Almost sorted;1500;Insertion;95241
-Almost sorted;1500;Bin. Insertion;203977
-Almost sorted;1500;S. Counting;74366
+Randomized 4000;1500;Merge;358085
+Randomized 4000;1500;Quick;163428
+Randomized 4000;1500;Heap;405390
+Randomized 4000;1500;Shell-Tsiur;289854
+Randomized 4000;1500;Shell;345008
+Almost sorted;1500;Selection;6918053
+Almost sorted;1500;Bubble;21167148
+Almost sorted;1500;Bubble 1;8642342
+Almost sorted;1500;Bubble 1+2;8500547
+Almost sorted;1500;Insertion;5322061
+Almost sorted;1500;Bin. Insertion;3872285
+Almost sorted;1500;S. Counting;111432
 Almost sorted;1500;Radix;1324313
-Almost sorted;1500;Merge;349507
-Almost sorted;1500;Quick;520529
-Almost sorted;1500;Heap;422752
-Almost sorted;1500;Shell-Tsiur;183861
-Almost sorted;1500;Shell;214484
-Reverse sorted;1500;Selection;7115583
-Reverse sorted;1500;Bubble;24727560
-Reverse sorted;1500;Bubble 1;25851068
-Reverse sorted;1500;Bubble 1+2;17994809
-Reverse sorted;1500;Insertion;11256081
-Reverse sorted;1500;Bin. Insertion;8037826
-Reverse sorted;1500;S. Counting;76588
+Almost sorted;1500;Merge;347717
+Almost sorted;1500;Quick;1677319
+Almost sorted;1500;Heap;383051
+Almost sorted;1500;Shell-Tsiur;201464
+Almost sorted;1500;Shell;242141
+Reverse sorted;1500;Selection;7129878
+Reverse sorted;1500;Bubble;24727722
+Reverse sorted;1500;Bubble 1;25863256
+Reverse sorted;1500;Bubble 1+2;17995006
+Reverse sorted;1500;Insertion;11256351
+Reverse sorted;1500;Bin. Insertion;8038067
+Reverse sorted;1500;S. Counting;77602
 Reverse sorted;1500;Radix;1324313
-Reverse sorted;1500;Merge;346217
-Reverse sorted;1500;Quick;7557733
-Reverse sorted;1500;Heap;379645
-Reverse sorted;1500;Shell-Tsiur;209961
-Reverse sorted;1500;Shell;266415
-Randomized 5;1600;Selection;7698577
-Randomized 5;1600;Bubble;23824940
-Randomized 5;1600;Bubble 1;20737113
-Randomized 5;1600;Bubble 1+2;15075744
-Randomized 5;1600;Insertion;5621281
-Randomized 5;1600;Bin. Insertion;4655052
-Randomized 5;1600;S. Counting;57720
+Reverse sorted;1500;Merge;346195
+Reverse sorted;1500;Quick;7465613
+Reverse sorted;1500;Heap;380002
+Reverse sorted;1500;Shell-Tsiur;210182
+Reverse sorted;1500;Shell;266441
+Randomized 5;1600;Selection;7698697
+Randomized 5;1600;Bubble;23726414
+Randomized 5;1600;Bubble 1;20404583
+Randomized 5;1600;Bubble 1+2;14915679
+Randomized 5;1600;Insertion;5457071
+Randomized 5;1600;Bin. Insertion;4576658
+Randomized 5;1600;S. Counting;57722
 Randomized 5;1600;Radix;1412513
-Randomized 5;1600;Merge;383071
-Randomized 5;1600;Quick;1132600
-Randomized 5;1600;Heap;365395
-Randomized 5;1600;Shell-Tsiur;197414
-Randomized 5;1600;Shell;255696
-Randomized 4000;1600;Selection;7707122
-Randomized 4000;1600;Bubble;24307358
-Randomized 4000;1600;Bubble 1;24653272
-Randomized 4000;1600;Bubble 1+2;16004972
-Randomized 4000;1600;Insertion;6425311
-Randomized 4000;1600;Bin. Insertion;4657779
-Randomized 4000;1600;S. Counting;113632
+Randomized 5;1600;Merge;383181
+Randomized 5;1600;Quick;1126778
+Randomized 5;1600;Heap;368731
+Randomized 5;1600;Shell-Tsiur;195465
+Randomized 5;1600;Shell;263801
+Randomized 4000;1600;Selection;7706818
+Randomized 4000;1600;Bubble;24306938
+Randomized 4000;1600;Bubble 1;24639983
+Randomized 4000;1600;Bubble 1+2;16004258
+Randomized 4000;1600;Insertion;6424611
+Randomized 4000;1600;Bin. Insertion;4657798
+Randomized 4000;1600;S. Counting;113672
 Randomized 4000;1600;Radix;1412513
-Randomized 4000;1600;Merge;384511
-Randomized 4000;1600;Quick;174559
-Randomized 4000;1600;Heap;436252
-Randomized 4000;1600;Shell-Tsiur;309320
-Randomized 4000;1600;Shell;422459
-Almost sorted;1600;Selection;7700341
-Almost sorted;1600;Bubble;20513006
-Almost sorted;1600;Bubble 1;132098
-Almost sorted;1600;Bubble 1+2;141563
-Almost sorted;1600;Insertion;101391
-Almost sorted;1600;Bin. Insertion;218685
-Almost sorted;1600;S. Counting;85464
+Randomized 4000;1600;Merge;384657
+Randomized 4000;1600;Quick;185998
+Randomized 4000;1600;Heap;437221
+Randomized 4000;1600;Shell-Tsiur;309548
+Randomized 4000;1600;Shell;417096
+Almost sorted;1600;Selection;7861174
+Almost sorted;1600;Bubble;23892248
+Almost sorted;1600;Bubble 1;9258142
+Almost sorted;1600;Bubble 1+2;9157447
+Almost sorted;1600;Insertion;5733461
+Almost sorted;1600;Bin. Insertion;4171043
+Almost sorted;1600;S. Counting;115032
 Almost sorted;1600;Radix;1412513
-Almost sorted;1600;Merge;375999
-Almost sorted;1600;Quick;541836
-Almost sorted;1600;Heap;454381
-Almost sorted;1600;Shell-Tsiur;197219
-Almost sorted;1600;Shell;233343
-Reverse sorted;1600;Selection;8096415
-Reverse sorted;1600;Bubble;28136030
-Reverse sorted;1600;Bubble 1;29414433
-Reverse sorted;1600;Bubble 1+2;20474424
-Reverse sorted;1600;Insertion;12806431
-Reverse sorted;1600;Bin. Insertion;9135175
-Reverse sorted;1600;S. Counting;81762
+Almost sorted;1600;Merge;373651
+Almost sorted;1600;Quick;1681994
+Almost sorted;1600;Heap;411345
+Almost sorted;1600;Shell-Tsiur;215173
+Almost sorted;1600;Shell;258278
+Reverse sorted;1600;Selection;8110095
+Reverse sorted;1600;Bubble;28136246
+Reverse sorted;1600;Bubble 1;29414685
+Reverse sorted;1600;Bubble 1+2;20474676
+Reverse sorted;1600;Insertion;12806791
+Reverse sorted;1600;Bin. Insertion;9135489
+Reverse sorted;1600;S. Counting;82632
 Reverse sorted;1600;Radix;1412513
-Reverse sorted;1600;Merge;371763
-Reverse sorted;1600;Quick;8506981
-Reverse sorted;1600;Heap;406683
-Reverse sorted;1600;Shell-Tsiur;218497
-Reverse sorted;1600;Shell;282135
-Randomized 5;1700;Selection;8689746
-Randomized 5;1700;Bubble;26887688
-Randomized 5;1700;Bubble 1;23438484
-Randomized 5;1700;Bubble 1+2;17015675
-Randomized 5;1700;Insertion;6328761
-Randomized 5;1700;Bin. Insertion;5220954
-Randomized 5;1700;S. Counting;61320
+Reverse sorted;1600;Merge;371791
+Reverse sorted;1600;Quick;8491427
+Reverse sorted;1600;Heap;405731
+Reverse sorted;1600;Shell-Tsiur;218601
+Reverse sorted;1600;Shell;282143
+Randomized 5;1700;Selection;8689902
+Randomized 5;1700;Bubble;26767088
+Randomized 5;1700;Bubble 1;23039403
+Randomized 5;1700;Bubble 1+2;16821813
+Randomized 5;1700;Insertion;6127761
+Randomized 5;1700;Bin. Insertion;5139314
+Randomized 5;1700;S. Counting;61322
 Randomized 5;1700;Radix;1500713
-Randomized 5;1700;Merge;409459
-Randomized 5;1700;Quick;1274869
-Randomized 5;1700;Heap;394682
-Randomized 5;1700;Shell-Tsiur;211466
-Randomized 5;1700;Shell;260421
-Randomized 4000;1700;Selection;8698604
-Randomized 4000;1700;Bubble;27441386
-Randomized 4000;1700;Bubble 1;27606606
-Randomized 4000;1700;Bubble 1+2;18062329
-Randomized 4000;1700;Insertion;7251591
-Randomized 4000;1700;Bin. Insertion;5247344
-Randomized 4000;1700;S. Counting;117232
+Randomized 5;1700;Merge;409699
+Randomized 5;1700;Quick;1283083
+Randomized 5;1700;Heap;392877
+Randomized 5;1700;Shell-Tsiur;209386
+Randomized 5;1700;Shell;256963
+Randomized 4000;1700;Selection;8698779
+Randomized 4000;1700;Bubble;27361814
+Randomized 4000;1700;Bubble 1;26793025
+Randomized 4000;1700;Bubble 1+2;17936635
+Randomized 4000;1700;Insertion;7118971
+Randomized 4000;1700;Bin. Insertion;5155147
+Randomized 4000;1700;S. Counting;117272
 Randomized 4000;1700;Radix;1500713
-Randomized 4000;1700;Merge;411137
-Randomized 4000;1700;Quick;209181
-Randomized 4000;1700;Heap;467401
-Randomized 4000;1700;Shell-Tsiur;330610
-Randomized 4000;1700;Shell;416338
-Almost sorted;1700;Selection;8691621
-Almost sorted;1700;Bubble;23155106
-Almost sorted;1700;Bubble 1;140398
-Almost sorted;1700;Bubble 1+2;150463
-Almost sorted;1700;Insertion;107791
-Almost sorted;1700;Bin. Insertion;233909
-Almost sorted;1700;S. Counting;89064
+Randomized 4000;1700;Merge;411133
+Randomized 4000;1700;Quick;194165
+Randomized 4000;1700;Heap;467598
+Randomized 4000;1700;Shell-Tsiur;330820
+Randomized 4000;1700;Shell;398920
+Almost sorted;1700;Selection;8864070
+Almost sorted;1700;Bubble;26777348
+Almost sorted;1700;Bubble 1;9873942
+Almost sorted;1700;Bubble 1+2;9814347
+Almost sorted;1700;Insertion;6144861
+Almost sorted;1700;Bin. Insertion;4470010
+Almost sorted;1700;S. Counting;118632
 Almost sorted;1700;Radix;1500713
-Almost sorted;1700;Merge;401103
-Almost sorted;1700;Quick;574953
-Almost sorted;1700;Heap;487051
-Almost sorted;1700;Shell-Tsiur;210642
-Almost sorted;1700;Shell;248740
-Reverse sorted;1700;Selection;9139721
-Reverse sorted;1700;Bubble;31764494
-Reverse sorted;1700;Bubble 1;33221390
-Reverse sorted;1700;Bubble 1+2;23114040
-Reverse sorted;1700;Insertion;14456771
-Reverse sorted;1700;Bin. Insertion;10302517
-Reverse sorted;1700;S. Counting;86752
+Almost sorted;1700;Merge;398701
+Almost sorted;1700;Quick;2498672
+Almost sorted;1700;Heap;442124
+Almost sorted;1700;Shell-Tsiur;231378
+Almost sorted;1700;Shell;276635
+Reverse sorted;1700;Selection;9153511
+Reverse sorted;1700;Bubble;31764776
+Reverse sorted;1700;Bubble 1;33221719
+Reverse sorted;1700;Bubble 1+2;23114369
+Reverse sorted;1700;Insertion;14457241
+Reverse sorted;1700;Bin. Insertion;10302879
+Reverse sorted;1700;S. Counting;87808
 Reverse sorted;1700;Radix;1500713
-Reverse sorted;1700;Merge;397403
-Reverse sorted;1700;Quick;9507950
-Reverse sorted;1700;Heap;436835
-Reverse sorted;1700;Shell-Tsiur;242644
-Reverse sorted;1700;Shell;301265
-Randomized 5;1800;Selection;9740902
-Randomized 5;1800;Bubble;30123960
-Randomized 5;1800;Bubble 1;26118845
-Randomized 5;1800;Bubble 1+2;19024541
-Randomized 5;1800;Insertion;7058781
-Randomized 5;1800;Bin. Insertion;5813598
-Randomized 5;1800;S. Counting;64920
+Reverse sorted;1700;Merge;397273
+Reverse sorted;1700;Quick;9639138
+Reverse sorted;1700;Heap;437011
+Reverse sorted;1700;Shell-Tsiur;242917
+Reverse sorted;1700;Shell;301499
+Randomized 5;1800;Selection;9741082
+Randomized 5;1800;Bubble;29961882
+Randomized 5;1800;Bubble 1;25785764
+Randomized 5;1800;Bubble 1+2;18805445
+Randomized 5;1800;Insertion;6788651
+Randomized 5;1800;Bin. Insertion;5702954
+Randomized 5;1800;S. Counting;64922
 Randomized 5;1800;Radix;1588913
-Randomized 5;1800;Merge;435982
-Randomized 5;1800;Quick;1430260
-Randomized 5;1800;Heap;418837
-Randomized 5;1800;Shell-Tsiur;225327
-Randomized 5;1800;Shell;281572
-Randomized 4000;1800;Selection;9750840
-Randomized 4000;1800;Bubble;30754980
-Randomized 4000;1800;Bubble 1;30569977
-Randomized 4000;1800;Bubble 1+2;20223712
-Randomized 4000;1800;Insertion;8110481
-Randomized 4000;1800;Bin. Insertion;5859867
-Randomized 4000;1800;S. Counting;120832
+Randomized 5;1800;Merge;436230
+Randomized 5;1800;Quick;1422819
+Randomized 5;1800;Heap;419723
+Randomized 5;1800;Shell-Tsiur;223843
+Randomized 5;1800;Shell;278559
+Randomized 4000;1800;Selection;9750317
+Randomized 4000;1800;Bubble;30691824
+Randomized 4000;1800;Bubble 1;30625886
+Randomized 4000;1800;Bubble 1+2;20155367
+Randomized 4000;1800;Insertion;8005221
+Randomized 4000;1800;Bin. Insertion;5786824
+Randomized 4000;1800;S. Counting;120872
 Randomized 4000;1800;Radix;1588913
-Randomized 4000;1800;Merge;437732
-Randomized 4000;1800;Quick;215581
-Randomized 4000;1800;Heap;498693
-Randomized 4000;1800;Shell-Tsiur;354924
-Randomized 4000;1800;Shell;520333
-Almost sorted;1800;Selection;9742901
-Almost sorted;1800;Bubble;25957206
-Almost sorted;1800;Bubble 1;148698
-Almost sorted;1800;Bubble 1+2;159363
-Almost sorted;1800;Insertion;114191
-Almost sorted;1800;Bin. Insertion;249196
-Almost sorted;1800;S. Counting;92664
+Randomized 4000;1800;Merge;437884
+Randomized 4000;1800;Quick;212104
+Randomized 4000;1800;Heap;499010
+Randomized 4000;1800;Shell-Tsiur;353806
+Randomized 4000;1800;Shell;477278
+Almost sorted;1800;Selection;9926915
+Almost sorted;1800;Bubble;29822448
+Almost sorted;1800;Bubble 1;10489742
+Almost sorted;1800;Bubble 1+2;10471247
+Almost sorted;1800;Insertion;6556261
+Almost sorted;1800;Bin. Insertion;4769593
+Almost sorted;1800;S. Counting;122232
 Almost sorted;1800;Radix;1588913
-Almost sorted;1800;Merge;426816
-Almost sorted;1800;Quick;618539
-Almost sorted;1800;Heap;518609
-Almost sorted;1800;Shell-Tsiur;224791
-Almost sorted;1800;Shell;264459
-Reverse sorted;1800;Selection;10245676
-Reverse sorted;1800;Bubble;35612970
-Reverse sorted;1800;Bubble 1;37245562
-Reverse sorted;1800;Bubble 1+2;25913662
-Reverse sorted;1800;Insertion;16207131
-Reverse sorted;1800;Bin. Insertion;11539850
-Reverse sorted;1800;S. Counting;91766
+Almost sorted;1800;Merge;424510
+Almost sorted;1800;Quick;1937181
+Almost sorted;1800;Heap;473208
+Almost sorted;1800;Shell-Tsiur;245616
+Almost sorted;1800;Shell;299178
+Reverse sorted;1800;Selection;10260619
+Reverse sorted;1800;Bubble;35613324
+Reverse sorted;1800;Bubble 1;37245975
+Reverse sorted;1800;Bubble 1+2;25914075
+Reverse sorted;1800;Insertion;16207721
+Reverse sorted;1800;Bin. Insertion;11540301
+Reverse sorted;1800;S. Counting;92998
 Reverse sorted;1800;Radix;1588913
-Reverse sorted;1800;Merge;423196
-Reverse sorted;1800;Quick;10662727
-Reverse sorted;1800;Heap;465534
-Reverse sorted;1800;Shell-Tsiur;258203
-Reverse sorted;1800;Shell;327244
-Randomized 5;1900;Selection;10852063
-Randomized 5;1900;Bubble;33537224
-Randomized 5;1900;Bubble 1;29042223
-Randomized 5;1900;Bubble 1+2;21158839
-Randomized 5;1900;Insertion;7817121
-Randomized 5;1900;Bin. Insertion;6428110
-Randomized 5;1900;S. Counting;68520
+Reverse sorted;1800;Merge;423164
+Reverse sorted;1800;Quick;10849266
+Reverse sorted;1800;Heap;465839
+Reverse sorted;1800;Shell-Tsiur;258557
+Reverse sorted;1800;Shell;327738
+Randomized 5;1900;Selection;10852225
+Randomized 5;1900;Bubble;33372662
+Randomized 5;1900;Bubble 1;28835035
+Randomized 5;1900;Bubble 1+2;20963710
+Randomized 5;1900;Insertion;7542851
+Randomized 5;1900;Bin. Insertion;6324744
+Randomized 5;1900;S. Counting;68522
 Randomized 5;1900;Radix;1677113
-Randomized 5;1900;Merge;462459
-Randomized 5;1900;Quick;1593640
-Randomized 5;1900;Heap;444536
-Randomized 5;1900;Shell-Tsiur;239928
-Randomized 5;1900;Shell;284105
-Randomized 4000;1900;Selection;10862511
-Randomized 4000;1900;Bubble;34253804
-Randomized 4000;1900;Bubble 1;34696316
-Randomized 4000;1900;Bubble 1+2;22536602
-Randomized 4000;1900;Insertion;9011421
-Randomized 4000;1900;Bin. Insertion;6502203
-Randomized 4000;1900;S. Counting;124432
+Randomized 5;1900;Merge;462735
+Randomized 5;1900;Quick;1590362
+Randomized 5;1900;Heap;443975
+Randomized 5;1900;Shell-Tsiur;237326
+Randomized 5;1900;Shell;279869
+Randomized 4000;1900;Selection;10862185
+Randomized 4000;1900;Bubble;34285304
+Randomized 4000;1900;Bubble 1;34565877
+Randomized 4000;1900;Bubble 1+2;22569700
+Randomized 4000;1900;Insertion;9063921
+Randomized 4000;1900;Bin. Insertion;6539343
+Randomized 4000;1900;S. Counting;124472
 Randomized 4000;1900;Radix;1677113
-Randomized 4000;1900;Merge;464283
-Randomized 4000;1900;Quick;210053
-Randomized 4000;1900;Heap;530238
-Randomized 4000;1900;Shell-Tsiur;380000
-Randomized 4000;1900;Shell;473043
-Almost sorted;1900;Selection;10854181
-Almost sorted;1900;Bubble;28919306
-Almost sorted;1900;Bubble 1;156998
-Almost sorted;1900;Bubble 1+2;168263
-Almost sorted;1900;Insertion;120591
-Almost sorted;1900;Bin. Insertion;264630
-Almost sorted;1900;S. Counting;96264
+Randomized 4000;1900;Merge;464457
+Randomized 4000;1900;Quick;217666
+Randomized 4000;1900;Heap;529912
+Randomized 4000;1900;Shell-Tsiur;376498
+Randomized 4000;1900;Shell;456080
+Almost sorted;1900;Selection;11049453
+Almost sorted;1900;Bubble;33027548
+Almost sorted;1900;Bubble 1;11105542
+Almost sorted;1900;Bubble 1+2;11128147
+Almost sorted;1900;Insertion;6967661
+Almost sorted;1900;Bin. Insertion;5069175
+Almost sorted;1900;S. Counting;125832
 Almost sorted;1900;Radix;1677113
-Almost sorted;1900;Merge;452581
-Almost sorted;1900;Quick;671245
-Almost sorted;1900;Heap;550334
-Almost sorted;1900;Shell-Tsiur;239640
-Almost sorted;1900;Shell;279948
-Reverse sorted;1900;Selection;11415278
-Reverse sorted;1900;Bubble;39681452
-Reverse sorted;1900;Bubble 1;41499741
-Reverse sorted;1900;Bubble 1+2;28873291
-Reverse sorted;1900;Insertion;18057501
-Reverse sorted;1900;Bin. Insertion;12847167
-Reverse sorted;1900;S. Counting;97388
+Almost sorted;1900;Merge;450225
+Almost sorted;1900;Quick;2356634
+Almost sorted;1900;Heap;504233
+Almost sorted;1900;Shell-Tsiur;261602
+Almost sorted;1900;Shell;313943
+Reverse sorted;1900;Selection;11431341
+Reverse sorted;1900;Bubble;39681830
+Reverse sorted;1900;Bubble 1;41500182
+Reverse sorted;1900;Bubble 1+2;28873732
+Reverse sorted;1900;Insertion;18058131
+Reverse sorted;1900;Bin. Insertion;12847634
+Reverse sorted;1900;S. Counting;98386
 Reverse sorted;1900;Radix;1677113
-Reverse sorted;1900;Merge;448885
-Reverse sorted;1900;Quick;11933230
-Reverse sorted;1900;Heap;498078
-Reverse sorted;1900;Shell-Tsiur;266035
-Reverse sorted;1900;Shell;342766
-Randomized 5;2000;Selection;12023185
-Randomized 5;2000;Bubble;37138568
-Randomized 5;2000;Bubble 1;32270352
-Randomized 5;2000;Bubble 1+2;23441772
-Randomized 5;2000;Insertion;8622261
-Randomized 5;2000;Bin. Insertion;7085824
-Randomized 5;2000;S. Counting;72120
+Reverse sorted;1900;Merge;448887
+Reverse sorted;1900;Quick;12149747
+Reverse sorted;1900;Heap;498203
+Reverse sorted;1900;Shell-Tsiur;266555
+Reverse sorted;1900;Shell;343104
+Randomized 5;2000;Selection;12023385
+Randomized 5;2000;Bubble;36979922
+Randomized 5;2000;Bubble 1;31893277
+Randomized 5;2000;Bubble 1+2;23217223
+Randomized 5;2000;Insertion;8357851
+Randomized 5;2000;Bin. Insertion;7007301
+Randomized 5;2000;S. Counting;72122
 Randomized 5;2000;Radix;1765313
-Randomized 5;2000;Merge;488984
-Randomized 5;2000;Quick;1746554
-Randomized 5;2000;Heap;469444
-Randomized 5;2000;Shell-Tsiur;253721
-Randomized 5;2000;Shell;314805
-Randomized 4000;2000;Selection;12034252
-Randomized 4000;2000;Bubble;37929890
-Randomized 4000;2000;Bubble 1;38121253
-Randomized 4000;2000;Bubble 1+2;24934319
-Randomized 4000;2000;Insertion;9941131
-Randomized 4000;2000;Bin. Insertion;7164405
-Randomized 4000;2000;S. Counting;128032
+Randomized 5;2000;Merge;489132
+Randomized 5;2000;Quick;1745280
+Randomized 5;2000;Heap;467442
+Randomized 5;2000;Shell-Tsiur;250499
+Randomized 5;2000;Shell;306010
+Randomized 4000;2000;Selection;12034015
+Randomized 4000;2000;Bubble;37951394
+Randomized 4000;2000;Bubble 1;37698369
+Randomized 4000;2000;Bubble 1+2;24942929
+Randomized 4000;2000;Insertion;9976971
+Randomized 4000;2000;Bin. Insertion;7189950
+Randomized 4000;2000;S. Counting;128072
 Randomized 4000;2000;Radix;1765313
-Randomized 4000;2000;Merge;491066
-Randomized 4000;2000;Quick;229693
-Randomized 4000;2000;Heap;560859
-Randomized 4000;2000;Shell-Tsiur;404820
-Randomized 4000;2000;Shell;476463
-Almost sorted;2000;Selection;12025461
-Almost sorted;2000;Bubble;32041406
-Almost sorted;2000;Bubble 1;165298
-Almost sorted;2000;Bubble 1+2;177163
-Almost sorted;2000;Insertion;126991
-Almost sorted;2000;Bin. Insertion;280076
-Almost sorted;2000;S. Counting;99864
+Randomized 4000;2000;Merge;491092
+Randomized 4000;2000;Quick;246558
+Randomized 4000;2000;Heap;561510
+Randomized 4000;2000;Shell-Tsiur;401621
+Randomized 4000;2000;Shell;481827
+Almost sorted;2000;Selection;12232498
+Almost sorted;2000;Bubble;36392648
+Almost sorted;2000;Bubble 1;11721342
+Almost sorted;2000;Bubble 1+2;11785047
+Almost sorted;2000;Insertion;7379061
+Almost sorted;2000;Bin. Insertion;5368701
+Almost sorted;2000;S. Counting;129432
 Almost sorted;2000;Radix;1765313
-Almost sorted;2000;Merge;481186
-Almost sorted;2000;Quick;734707
-Almost sorted;2000;Heap;582649
-Almost sorted;2000;Shell-Tsiur;254580
-Almost sorted;2000;Shell;294732
-Reverse sorted;2000;Selection;12648640
-Reverse sorted;2000;Bubble;43969922
-Reverse sorted;2000;Bubble 1;45967907
-Reverse sorted;2000;Bubble 1+2;31992898
-Reverse sorted;2000;Insertion;20007851
-Reverse sorted;2000;Bin. Insertion;14224484
-Reverse sorted;2000;S. Counting;102498
+Almost sorted;2000;Merge;476026
+Almost sorted;2000;Quick;2114715
+Almost sorted;2000;Heap;534338
+Almost sorted;2000;Shell-Tsiur;279317
+Almost sorted;2000;Shell;332703
+Reverse sorted;2000;Selection;12665520
+Reverse sorted;2000;Bubble;43970294
+Reverse sorted;2000;Bubble 1;45968341
+Reverse sorted;2000;Bubble 1+2;31993332
+Reverse sorted;2000;Insertion;20008471
+Reverse sorted;2000;Bin. Insertion;14224951
+Reverse sorted;2000;S. Counting;103426
 Reverse sorted;2000;Radix;1765313
-Reverse sorted;2000;Merge;474866
-Reverse sorted;2000;Quick;13187752
-Reverse sorted;2000;Heap;524375
-Reverse sorted;2000;Shell-Tsiur;291370
-Reverse sorted;2000;Shell;365466
-Randomized 5;2100;Selection;13254300
-Randomized 5;2100;Bubble;40881252
-Randomized 5;2100;Bubble 1;35518317
-Randomized 5;2100;Bubble 1+2;25771683
-Randomized 5;2100;Insertion;9396301
-Randomized 5;2100;Bin. Insertion;7727242
-Randomized 5;2100;S. Counting;75720
+Reverse sorted;2000;Merge;474810
+Reverse sorted;2000;Quick;13401617
+Reverse sorted;2000;Heap;524320
+Reverse sorted;2000;Shell-Tsiur;291734
+Reverse sorted;2000;Shell;365752
+Randomized 5;2100;Selection;13254527
+Randomized 5;2100;Bubble;40766562
+Randomized 5;2100;Bubble 1;35082130
+Randomized 5;2100;Bubble 1+2;25575445
+Randomized 5;2100;Insertion;9205151
+Randomized 5;2100;Bin. Insertion;7708056
+Randomized 5;2100;S. Counting;75722
 Randomized 5;2100;Radix;1853513
-Randomized 5;2100;Merge;516295
-Randomized 5;2100;Quick;1932342
-Randomized 5;2100;Heap;497494
-Randomized 5;2100;Shell-Tsiur;268226
-Randomized 5;2100;Shell;347599
-Randomized 4000;2100;Selection;13265596
-Randomized 4000;2100;Bubble;41823762
-Randomized 4000;2100;Bubble 1;41959994
-Randomized 4000;2100;Bubble 1+2;27493445
-Randomized 4000;2100;Insertion;10967151
-Randomized 4000;2100;Bin. Insertion;7893901
-Randomized 4000;2100;S. Counting;131632
+Randomized 5;2100;Merge;516673
+Randomized 5;2100;Quick;1928624
+Randomized 5;2100;Heap;495190
+Randomized 5;2100;Shell-Tsiur;265194
+Randomized 5;2100;Shell;341849
+Randomized 4000;2100;Selection;13265496
+Randomized 4000;2100;Bubble;41783658
+Randomized 4000;2100;Bubble 1;41090055
+Randomized 4000;2100;Bubble 1+2;27410103
+Randomized 4000;2100;Insertion;10900311
+Randomized 4000;2100;Bin. Insertion;7847842
+Randomized 4000;2100;S. Counting;131672
 Randomized 4000;2100;Radix;1853513
-Randomized 4000;2100;Merge;518595
-Randomized 4000;2100;Quick;262597
-Randomized 4000;2100;Heap;592808
-Randomized 4000;2100;Shell-Tsiur;430006
-Randomized 4000;2100;Shell;575580
-Almost sorted;2100;Selection;13256707
-Almost sorted;2100;Bubble;35323356
-Almost sorted;2100;Bubble 1;173423
-Almost sorted;2100;Bubble 1+2;185888
-Almost sorted;2100;Insertion;133141
-Almost sorted;2100;Bin. Insertion;295407
-Almost sorted;2100;S. Counting;111102
+Randomized 4000;2100;Merge;518655
+Randomized 4000;2100;Quick;247232
+Randomized 4000;2100;Heap;593946
+Randomized 4000;2100;Shell-Tsiur;426392
+Randomized 4000;2100;Shell;557906
+Almost sorted;2100;Selection;13475298
+Almost sorted;2100;Bubble;39917748
+Almost sorted;2100;Bubble 1;12337142
+Almost sorted;2100;Bubble 1+2;12441947
+Almost sorted;2100;Insertion;7790461
+Almost sorted;2100;Bin. Insertion;5668054
+Almost sorted;2100;S. Counting;133032
 Almost sorted;2100;Radix;1853513
-Almost sorted;2100;Merge;505183
-Almost sorted;2100;Quick;761075
-Almost sorted;2100;Heap;616082
-Almost sorted;2100;Shell-Tsiur;269377
-Almost sorted;2100;Shell;335328
-Reverse sorted;2100;Selection;13944992
-Reverse sorted;2100;Bubble;48478464
-Reverse sorted;2100;Bubble 1;50698155
-Reverse sorted;2100;Bubble 1+2;35272605
-Reverse sorted;2100;Insertion;22058321
-Reverse sorted;2100;Bin. Insertion;15672428
-Reverse sorted;2100;S. Counting;107914
+Almost sorted;2100;Merge;502819
+Almost sorted;2100;Quick;2995779
+Almost sorted;2100;Heap;565616
+Almost sorted;2100;Shell-Tsiur;297019
+Almost sorted;2100;Shell;364763
+Reverse sorted;2100;Selection;13962457
+Reverse sorted;2100;Bubble;48478806
+Reverse sorted;2100;Bubble 1;50698554
+Reverse sorted;2100;Bubble 1+2;35273004
+Reverse sorted;2100;Insertion;22058891
+Reverse sorted;2100;Bin. Insertion;15672897
+Reverse sorted;2100;S. Counting;108608
 Reverse sorted;2100;Radix;1853513
-Reverse sorted;2100;Merge;501637
-Reverse sorted;2100;Quick;14640555
-Reverse sorted;2100;Heap;554504
-Reverse sorted;2100;Shell-Tsiur;307078
-Reverse sorted;2100;Shell;399590
-Randomized 5;2200;Selection;14545512
-Randomized 5;2200;Bubble;44851244
-Randomized 5;2200;Bubble 1;38713623
-Randomized 5;2200;Bubble 1+2;28213399
-Randomized 5;2200;Insertion;10282521
-Randomized 5;2200;Bin. Insertion;8437275
-Randomized 5;2200;S. Counting;79320
+Reverse sorted;2100;Merge;501639
+Reverse sorted;2100;Quick;14739741
+Reverse sorted;2100;Heap;555231
+Reverse sorted;2100;Shell-Tsiur;307213
+Reverse sorted;2100;Shell;399759
+Randomized 5;2200;Selection;14545740
+Randomized 5;2200;Bubble;44720648
+Randomized 5;2200;Bubble 1;38578860
+Randomized 5;2200;Bubble 1+2;28064708
+Randomized 5;2200;Insertion;10064861
+Randomized 5;2200;Bin. Insertion;8429619
+Randomized 5;2200;S. Counting;79322
 Randomized 5;2200;Radix;1941713
-Randomized 5;2200;Merge;544581
-Randomized 5;2200;Quick;2113189
-Randomized 5;2200;Heap;524710
-Randomized 5;2200;Shell-Tsiur;281938
-Randomized 5;2200;Shell;363574
-Randomized 4000;2200;Selection;14557394
-Randomized 4000;2200;Bubble;45860876
-Randomized 4000;2200;Bubble 1;46596746
-Randomized 4000;2200;Bubble 1+2;30138444
-Randomized 4000;2200;Insertion;11965241
-Randomized 4000;2200;Bin. Insertion;8604072
-Randomized 4000;2200;S. Counting;135262
+Randomized 5;2200;Merge;544863
+Randomized 5;2200;Quick;2101738
+Randomized 5;2200;Heap;523548
+Randomized 5;2200;Shell-Tsiur;278778
+Randomized 5;2200;Shell;360864
+Randomized 4000;2200;Selection;14557501
+Randomized 4000;2200;Bubble;45883838
+Randomized 4000;2200;Bubble 1;46359550
+Randomized 4000;2200;Bubble 1+2;30160523
+Randomized 4000;2200;Insertion;12003511
+Randomized 4000;2200;Bin. Insertion;8631626
+Randomized 4000;2200;S. Counting;135272
 Randomized 4000;2200;Radix;1941713
-Randomized 4000;2200;Merge;546839
-Randomized 4000;2200;Quick;267630
-Randomized 4000;2200;Heap;625471
-Randomized 4000;2200;Shell-Tsiur;451684
-Randomized 4000;2200;Shell;572545
-Almost sorted;2200;Selection;14547987
-Almost sorted;2200;Bubble;38765456
-Almost sorted;2200;Bubble 1;181723
-Almost sorted;2200;Bubble 1+2;194788
-Almost sorted;2200;Insertion;139541
-Almost sorted;2200;Bin. Insertion;310960
-Almost sorted;2200;S. Counting;114702
+Randomized 4000;2200;Merge;546929
+Randomized 4000;2200;Quick;255572
+Randomized 4000;2200;Heap;625581
+Randomized 4000;2200;Shell-Tsiur;447555
+Randomized 4000;2200;Shell;566911
+Almost sorted;2200;Selection;14778323
+Almost sorted;2200;Bubble;43602848
+Almost sorted;2200;Bubble 1;12952942
+Almost sorted;2200;Bubble 1+2;13098847
+Almost sorted;2200;Insertion;8201861
+Almost sorted;2200;Bin. Insertion;5967422
+Almost sorted;2200;S. Counting;136632
 Almost sorted;2200;Radix;1941713
-Almost sorted;2200;Merge;532875
-Almost sorted;2200;Quick;798141
-Almost sorted;2200;Heap;650266
-Almost sorted;2200;Shell-Tsiur;284187
-Almost sorted;2200;Shell;348587
-Reverse sorted;2200;Selection;15304023
-Reverse sorted;2200;Bubble;53206928
-Reverse sorted;2200;Bubble 1;55642313
-Reverse sorted;2200;Bubble 1+2;38712213
-Reverse sorted;2200;Insertion;24208661
-Reverse sorted;2200;Bin. Insertion;17190868
-Reverse sorted;2200;S. Counting;113126
+Almost sorted;2200;Merge;530343
+Almost sorted;2200;Quick;2842601
+Almost sorted;2200;Heap;596462
+Almost sorted;2200;Shell-Tsiur;312628
+Almost sorted;2200;Shell;380118
+Reverse sorted;2200;Selection;15322312
+Reverse sorted;2200;Bubble;53207288
+Reverse sorted;2200;Bubble 1;55642733
+Reverse sorted;2200;Bubble 1+2;38712633
+Reverse sorted;2200;Insertion;24209261
+Reverse sorted;2200;Bin. Insertion;17191333
+Reverse sorted;2200;S. Counting;113868
 Reverse sorted;2200;Radix;1941713
-Reverse sorted;2200;Merge;529005
-Reverse sorted;2200;Quick;15918389
-Reverse sorted;2200;Heap;584034
-Reverse sorted;2200;Shell-Tsiur;326699
-Reverse sorted;2200;Shell;423036
-Randomized 5;2300;Selection;15896628
-Randomized 5;2300;Bubble;48985898
-Randomized 5;2300;Bubble 1;42611936
-Randomized 5;2300;Bubble 1+2;30863562
-Randomized 5;2300;Insertion;11176511
-Randomized 5;2300;Bin. Insertion;9166231
-Randomized 5;2300;S. Counting;82920
+Reverse sorted;2200;Merge;529159
+Reverse sorted;2200;Quick;16077683
+Reverse sorted;2200;Heap;584652
+Reverse sorted;2200;Shell-Tsiur;327396
+Reverse sorted;2200;Shell;423088
+Randomized 5;2300;Selection;15896829
+Randomized 5;2300;Bubble;48905882
+Randomized 5;2300;Bubble 1;41948215
+Randomized 5;2300;Bubble 1+2;30651945
+Randomized 5;2300;Insertion;11043151
+Randomized 5;2300;Bin. Insertion;9246710
+Randomized 5;2300;S. Counting;82922
 Randomized 5;2300;Radix;2029913
-Randomized 5;2300;Merge;572820
-Randomized 5;2300;Quick;2298611
-Randomized 5;2300;Heap;555897
-Randomized 5;2300;Shell-Tsiur;293850
-Randomized 5;2300;Shell;371241
-Randomized 4000;2300;Selection;15909132
-Randomized 4000;2300;Bubble;50142980
-Randomized 4000;2300;Bubble 1;50787894
-Randomized 4000;2300;Bubble 1+2;32957717
-Randomized 4000;2300;Insertion;13104981
-Randomized 4000;2300;Bin. Insertion;9413478
-Randomized 4000;2300;S. Counting;138862
+Randomized 5;2300;Merge;573000
+Randomized 5;2300;Quick;2309342
+Randomized 5;2300;Heap;550358
+Randomized 5;2300;Shell-Tsiur;293789
+Randomized 5;2300;Shell;374095
+Randomized 4000;2300;Selection;15909362
+Randomized 4000;2300;Bubble;50177672
+Randomized 4000;2300;Bubble 1;50570782
+Randomized 4000;2300;Bubble 1+2;32992598
+Randomized 4000;2300;Insertion;13162801
+Randomized 4000;2300;Bin. Insertion;9454965
+Randomized 4000;2300;S. Counting;138872
 Randomized 4000;2300;Radix;2029913
-Randomized 4000;2300;Merge;575206
-Randomized 4000;2300;Quick;297373
-Randomized 4000;2300;Heap;658605
-Randomized 4000;2300;Shell-Tsiur;470749
-Randomized 4000;2300;Shell;571458
-Almost sorted;2300;Selection;15899267
-Almost sorted;2300;Bubble;42367556
-Almost sorted;2300;Bubble 1;190023
-Almost sorted;2300;Bubble 1+2;203688
-Almost sorted;2300;Insertion;145941
-Almost sorted;2300;Bin. Insertion;326505
-Almost sorted;2300;S. Counting;118302
+Randomized 4000;2300;Merge;575292
+Randomized 4000;2300;Quick;275514
+Randomized 4000;2300;Heap;658020
+Randomized 4000;2300;Shell-Tsiur;472581
+Randomized 4000;2300;Shell;573594
+Almost sorted;2300;Selection;16140820
+Almost sorted;2300;Bubble;47447948
+Almost sorted;2300;Bubble 1;13568742
+Almost sorted;2300;Bubble 1+2;13755747
+Almost sorted;2300;Insertion;8613261
+Almost sorted;2300;Bin. Insertion;6267204
+Almost sorted;2300;S. Counting;140232
 Almost sorted;2300;Radix;2029913
-Almost sorted;2300;Merge;560778
-Almost sorted;2300;Quick;846492
-Almost sorted;2300;Heap;685300
-Almost sorted;2300;Shell-Tsiur;299075
-Almost sorted;2300;Shell;366685
-Reverse sorted;2300;Selection;16726394
-Reverse sorted;2300;Bubble;58155554
-Reverse sorted;2300;Bubble 1;60816660
-Reverse sorted;2300;Bubble 1+2;42312010
-Reverse sorted;2300;Insertion;26459271
-Reverse sorted;2300;Bin. Insertion;18779454
-Reverse sorted;2300;S. Counting;118570
+Almost sorted;2300;Merge;558026
+Almost sorted;2300;Quick;3224261
+Almost sorted;2300;Heap;628006
+Almost sorted;2300;Shell-Tsiur;330883
+Almost sorted;2300;Shell;411492
+Reverse sorted;2300;Selection;16745053
+Reverse sorted;2300;Bubble;58155728
+Reverse sorted;2300;Bubble 1;60816863
+Reverse sorted;2300;Bubble 1+2;42312213
+Reverse sorted;2300;Insertion;26459561
+Reverse sorted;2300;Bin. Insertion;18779651
+Reverse sorted;2300;S. Counting;118826
 Reverse sorted;2300;Radix;2029913
-Reverse sorted;2300;Merge;556660
-Reverse sorted;2300;Quick;17674312
-Reverse sorted;2300;Heap;617332
-Reverse sorted;2300;Shell-Tsiur;337761
-Reverse sorted;2300;Shell;455855
-Randomized 5;2400;Selection;17307745
-Randomized 5;2400;Bubble;53272578
-Randomized 5;2400;Bubble 1;46238568
-Randomized 5;2400;Bubble 1+2;33511383
-Randomized 5;2400;Insertion;12057211
-Randomized 5;2400;Bin. Insertion;9898040
-Randomized 5;2400;S. Counting;86520
+Reverse sorted;2300;Merge;556804
+Reverse sorted;2300;Quick;17551205
+Reverse sorted;2300;Heap;617164
+Reverse sorted;2300;Shell-Tsiur;337808
+Reverse sorted;2300;Shell;456453
+Randomized 5;2400;Selection;17307967
+Randomized 5;2400;Bubble;53229798
+Randomized 5;2400;Bubble 1;46054265
+Randomized 5;2400;Bubble 1+2;33434138
+Randomized 5;2400;Insertion;11985911
+Randomized 5;2400;Bin. Insertion;10029542
+Randomized 5;2400;S. Counting;86522
 Randomized 5;2400;Radix;2118113
-Randomized 5;2400;Merge;601007
-Randomized 5;2400;Quick;2522573
-Randomized 5;2400;Heap;582747
-Randomized 5;2400;Shell-Tsiur;308894
-Randomized 5;2400;Shell;409652
-Randomized 4000;2400;Selection;17321106
-Randomized 4000;2400;Bubble;54512874
-Randomized 4000;2400;Bubble 1;54040449
-Randomized 4000;2400;Bubble 1+2;35747499
-Randomized 4000;2400;Insertion;14124371
-Randomized 4000;2400;Bin. Insertion;10138562
-Randomized 4000;2400;S. Counting;142462
+Randomized 5;2400;Merge;601325
+Randomized 5;2400;Quick;2496051
+Randomized 5;2400;Heap;580148
+Randomized 5;2400;Shell-Tsiur;310563
+Randomized 5;2400;Shell;407700
+Randomized 4000;2400;Selection;17321030
+Randomized 4000;2400;Bubble;54716160
+Randomized 4000;2400;Bubble 1;55410357
+Randomized 4000;2400;Bubble 1+2;36021777
+Randomized 4000;2400;Insertion;14463181
+Randomized 4000;2400;Bin. Insertion;10376814
+Randomized 4000;2400;S. Counting;142472
 Randomized 4000;2400;Radix;2118113
-Randomized 4000;2400;Merge;603547
-Randomized 4000;2400;Quick;302713
-Randomized 4000;2400;Heap;690650
-Randomized 4000;2400;Shell-Tsiur;499047
-Randomized 4000;2400;Shell;637995
-Almost sorted;2400;Selection;17310547
-Almost sorted;2400;Bubble;46129656
-Almost sorted;2400;Bubble 1;198323
-Almost sorted;2400;Bubble 1+2;212588
-Almost sorted;2400;Insertion;152341
-Almost sorted;2400;Bin. Insertion;342922
-Almost sorted;2400;S. Counting;121902
+Randomized 4000;2400;Merge;603627
+Randomized 4000;2400;Quick;279100
+Randomized 4000;2400;Heap;689786
+Randomized 4000;2400;Shell-Tsiur;500388
+Randomized 4000;2400;Shell;678238
+Almost sorted;2400;Selection;17563846
+Almost sorted;2400;Bubble;51453048
+Almost sorted;2400;Bubble 1;14184542
+Almost sorted;2400;Bubble 1+2;14412647
+Almost sorted;2400;Insertion;9024661
+Almost sorted;2400;Bin. Insertion;6566768
+Almost sorted;2400;S. Counting;143832
 Almost sorted;2400;Radix;2118113
-Almost sorted;2400;Merge;588947
-Almost sorted;2400;Quick;905837
-Almost sorted;2400;Heap;719591
-Almost sorted;2400;Shell-Tsiur;313911
-Almost sorted;2400;Shell;379062
-Reverse sorted;2400;Selection;18212382
-Reverse sorted;2400;Bubble;63323958
-Reverse sorted;2400;Bubble 1;66220748
-Reverse sorted;2400;Bubble 1+2;46071548
-Reverse sorted;2400;Insertion;28809511
-Reverse sorted;2400;Bin. Insertion;20437715
-Reverse sorted;2400;S. Counting;123492
+Almost sorted;2400;Merge;585735
+Almost sorted;2400;Quick;2685301
+Almost sorted;2400;Heap;658791
+Almost sorted;2400;Shell-Tsiur;350191
+Almost sorted;2400;Shell;428828
+Reverse sorted;2400;Selection;18230844
+Reverse sorted;2400;Bubble;63324174
+Reverse sorted;2400;Bubble 1;66221000
+Reverse sorted;2400;Bubble 1+2;46071800
+Reverse sorted;2400;Insertion;28809871
+Reverse sorted;2400;Bin. Insertion;20438028
+Reverse sorted;2400;S. Counting;123902
 Reverse sorted;2400;Radix;2118113
-Reverse sorted;2400;Merge;584173
-Reverse sorted;2400;Quick;19114742
-Reverse sorted;2400;Heap;644783
-Reverse sorted;2400;Shell-Tsiur;357162
-Reverse sorted;2400;Shell;466962
-Randomized 5;2500;Selection;18778998
-Randomized 5;2500;Bubble;57856046
-Randomized 5;2500;Bubble 1;50309578
-Randomized 5;2500;Bubble 1+2;36436718
-Randomized 5;2500;Insertion;13165891
-Randomized 5;2500;Bin. Insertion;10823477
-Randomized 5;2500;S. Counting;90120
+Reverse sorted;2400;Merge;584351
+Reverse sorted;2400;Quick;18993894
+Reverse sorted;2400;Heap;645019
+Reverse sorted;2400;Shell-Tsiur;358189
+Reverse sorted;2400;Shell;467170
+Randomized 5;2500;Selection;18779114
+Randomized 5;2500;Bubble;57734864
+Randomized 5;2500;Bubble 1;49888213
+Randomized 5;2500;Bubble 1+2;36238464
+Randomized 5;2500;Insertion;12963921
+Randomized 5;2500;Bin. Insertion;10839764
+Randomized 5;2500;S. Counting;90122
 Randomized 5;2500;Radix;2206313
-Randomized 5;2500;Merge;629526
-Randomized 5;2500;Quick;2711661
-Randomized 5;2500;Heap;610107
-Randomized 5;2500;Shell-Tsiur;323977
-Randomized 5;2500;Shell;421426
-Randomized 4000;2500;Selection;18792684
-Randomized 4000;2500;Bubble;59183828
-Randomized 4000;2500;Bubble 1;58878306
-Randomized 4000;2500;Bubble 1+2;38835217
-Randomized 4000;2500;Insertion;15378861
-Randomized 4000;2500;Bin. Insertion;11028312
-Randomized 4000;2500;S. Counting;146062
+Randomized 5;2500;Merge;629564
+Randomized 5;2500;Quick;2712037
+Randomized 5;2500;Heap;606326
+Randomized 5;2500;Shell-Tsiur;325163
+Randomized 5;2500;Shell;419159
+Randomized 4000;2500;Selection;18793137
+Randomized 4000;2500;Bubble;59343458
+Randomized 4000;2500;Bubble 1;58124588
+Randomized 4000;2500;Bubble 1+2;38972008
+Randomized 4000;2500;Insertion;15644911
+Randomized 4000;2500;Bin. Insertion;11215652
+Randomized 4000;2500;S. Counting;146072
 Randomized 4000;2500;Radix;2206313
-Randomized 4000;2500;Merge;632102
-Randomized 4000;2500;Quick;296371
-Randomized 4000;2500;Heap;722898
-Randomized 4000;2500;Shell-Tsiur;524903
-Randomized 4000;2500;Shell;654756
-Almost sorted;2500;Selection;18781827
-Almost sorted;2500;Bubble;50051756
-Almost sorted;2500;Bubble 1;206623
-Almost sorted;2500;Bubble 1+2;221488
-Almost sorted;2500;Insertion;158741
-Almost sorted;2500;Bin. Insertion;359381
-Almost sorted;2500;S. Counting;125502
+Randomized 4000;2500;Merge;631966
+Randomized 4000;2500;Quick;307597
+Randomized 4000;2500;Heap;721549
+Randomized 4000;2500;Shell-Tsiur;519934
+Randomized 4000;2500;Shell;677150
+Almost sorted;2500;Selection;19046637
+Almost sorted;2500;Bubble;55618148
+Almost sorted;2500;Bubble 1;14800342
+Almost sorted;2500;Bubble 1+2;15069547
+Almost sorted;2500;Insertion;9436061
+Almost sorted;2500;Bin. Insertion;6866412
+Almost sorted;2500;S. Counting;147432
 Almost sorted;2500;Radix;2206313
-Almost sorted;2500;Merge;616058
-Almost sorted;2500;Quick;974098
-Almost sorted;2500;Heap;754302
-Almost sorted;2500;Shell-Tsiur;328760
-Almost sorted;2500;Shell;396937
-Reverse sorted;2500;Selection;19761383
-Reverse sorted;2500;Bubble;68712398
-Reverse sorted;2500;Bubble 1;71854878
-Reverse sorted;2500;Bubble 1+2;49991128
-Reverse sorted;2500;Insertion;31259811
-Reverse sorted;2500;Bin. Insertion;22165999
-Reverse sorted;2500;S. Counting;128828
+Almost sorted;2500;Merge;613414
+Almost sorted;2500;Quick;3442533
+Almost sorted;2500;Heap;690173
+Almost sorted;2500;Shell-Tsiur;364273
+Almost sorted;2500;Shell;435004
+Reverse sorted;2500;Selection;19779690
+Reverse sorted;2500;Bubble;68712668
+Reverse sorted;2500;Bubble 1;71855193
+Reverse sorted;2500;Bubble 1+2;49991443
+Reverse sorted;2500;Insertion;31260261
+Reverse sorted;2500;Bin. Insertion;22166414
+Reverse sorted;2500;S. Counting;128992
 Reverse sorted;2500;Radix;2206313
-Reverse sorted;2500;Merge;612136
-Reverse sorted;2500;Quick;20719538
-Reverse sorted;2500;Heap;676081
-Reverse sorted;2500;Shell-Tsiur;370535
-Reverse sorted;2500;Shell;494763
-Randomized 5;2600;Selection;20310116
-Randomized 5;2600;Bubble;62541632
-Randomized 5;2600;Bubble 1;54429860
-Randomized 5;2600;Bubble 1+2;39378630
-Randomized 5;2600;Insertion;14178101
-Randomized 5;2600;Bin. Insertion;11646290
-Randomized 5;2600;S. Counting;93720
+Reverse sorted;2500;Merge;612168
+Reverse sorted;2500;Quick;20671950
+Reverse sorted;2500;Heap;675172
+Reverse sorted;2500;Shell-Tsiur;370873
+Reverse sorted;2500;Shell;494789
+Randomized 5;2600;Selection;20310290
+Randomized 5;2600;Bubble;62446646
+Randomized 5;2600;Bubble 1;53903063
+Randomized 5;2600;Bubble 1+2;39183323
+Randomized 5;2600;Insertion;14019791
+Randomized 5;2600;Bin. Insertion;11712714
+Randomized 5;2600;S. Counting;93722
 Randomized 5;2600;Radix;2294513
-Randomized 5;2600;Merge;657639
-Randomized 5;2600;Quick;2927873
-Randomized 5;2600;Heap;639873
-Randomized 5;2600;Shell-Tsiur;337754
-Randomized 5;2600;Shell;436644
-Randomized 4000;2600;Selection;20324538
-Randomized 4000;2600;Bubble;64027352
-Randomized 4000;2600;Bubble 1;65127569
-Randomized 4000;2600;Bubble 1+2;42058015
-Randomized 4000;2600;Insertion;16654301
-Randomized 4000;2600;Bin. Insertion;11932711
-Randomized 4000;2600;S. Counting;149662
+Randomized 5;2600;Merge;657905
+Randomized 5;2600;Quick;2931902
+Randomized 5;2600;Heap;636177
+Randomized 5;2600;Shell-Tsiur;338003
+Randomized 5;2600;Shell;430835
+Randomized 4000;2600;Selection;20324778
+Randomized 4000;2600;Bubble;64237658
+Randomized 4000;2600;Bubble 1;64936147
+Randomized 4000;2600;Bubble 1+2;42296022
+Randomized 4000;2600;Insertion;17004811
+Randomized 4000;2600;Bin. Insertion;12179266
+Randomized 4000;2600;S. Counting;149672
 Randomized 4000;2600;Radix;2294513
-Randomized 4000;2600;Merge;660403
-Randomized 4000;2600;Quick;305822
-Randomized 4000;2600;Heap;755980
-Randomized 4000;2600;Shell-Tsiur;548026
-Randomized 4000;2600;Shell;747024
-Almost sorted;2600;Selection;20313073
-Almost sorted;2600;Bubble;54133706
-Almost sorted;2600;Bubble 1;214748
-Almost sorted;2600;Bubble 1+2;230213
-Almost sorted;2600;Insertion;164891
-Almost sorted;2600;Bin. Insertion;375161
-Almost sorted;2600;S. Counting;136098
+Randomized 4000;2600;Merge;660413
+Randomized 4000;2600;Quick;333812
+Randomized 4000;2600;Heap;754659
+Randomized 4000;2600;Shell-Tsiur;545097
+Randomized 4000;2600;Shell;720064
+Almost sorted;2600;Selection;20589706
+Almost sorted;2600;Bubble;59943248
+Almost sorted;2600;Bubble 1;15416142
+Almost sorted;2600;Bubble 1+2;15726447
+Almost sorted;2600;Insertion;9847461
+Almost sorted;2600;Bin. Insertion;7166233
+Almost sorted;2600;S. Counting;151032
 Almost sorted;2600;Radix;2294513
-Almost sorted;2600;Merge;643681
-Almost sorted;2600;Quick;1005217
-Almost sorted;2600;Heap;789272
-Almost sorted;2600;Shell-Tsiur;343570
-Almost sorted;2600;Shell;398755
-Reverse sorted;2600;Selection;21373814
-Reverse sorted;2600;Bubble;74320904
-Reverse sorted;2600;Bubble 1;77719085
-Reverse sorted;2600;Bubble 1+2;54070785
-Reverse sorted;2600;Insertion;33810221
-Reverse sorted;2600;Bin. Insertion;23964437
-Reverse sorted;2600;S. Counting;133874
+Almost sorted;2600;Merge;641177
+Almost sorted;2600;Quick;3625616
+Almost sorted;2600;Heap;723185
+Almost sorted;2600;Shell-Tsiur;380565
+Almost sorted;2600;Shell;460101
+Reverse sorted;2600;Selection;21391973
+Reverse sorted;2600;Bubble;74321132
+Reverse sorted;2600;Bubble 1;77719351
+Reverse sorted;2600;Bubble 1+2;54071051
+Reverse sorted;2600;Insertion;33810601
+Reverse sorted;2600;Bin. Insertion;23964802
+Reverse sorted;2600;S. Counting;133818
 Reverse sorted;2600;Radix;2294513
-Reverse sorted;2600;Merge;639937
-Reverse sorted;2600;Quick;22439421
-Reverse sorted;2600;Heap;705072
-Reverse sorted;2600;Shell-Tsiur;385827
-Reverse sorted;2600;Shell;518832
-Randomized 5;2700;Selection;21901276
-Randomized 5;2700;Bubble;67535466
-Randomized 5;2700;Bubble 1;58751103
-Randomized 5;2700;Bubble 1+2;42560013
-Randomized 5;2700;Insertion;15437391
-Randomized 5;2700;Bin. Insertion;12639888
-Randomized 5;2700;S. Counting;97320
+Reverse sorted;2600;Merge;640013
+Reverse sorted;2600;Quick;22261519
+Reverse sorted;2600;Heap;705375
+Reverse sorted;2600;Shell-Tsiur;386152
+Reverse sorted;2600;Shell;518559
+Randomized 5;2700;Selection;21901426
+Randomized 5;2700;Bubble;67337760
+Randomized 5;2700;Bubble 1;58239659
+Randomized 5;2700;Bubble 1+2;42272507
+Randomized 5;2700;Insertion;15107881
+Randomized 5;2700;Bin. Insertion;12609685
+Randomized 5;2700;S. Counting;97322
 Randomized 5;2700;Radix;2382713
-Randomized 5;2700;Merge;686198
-Randomized 5;2700;Quick;3163575
-Randomized 5;2700;Heap;664286
-Randomized 5;2700;Shell-Tsiur;352814
-Randomized 5;2700;Shell;463037
-Randomized 4000;2700;Selection;21916685
-Randomized 4000;2700;Bubble;68983332
-Randomized 4000;2700;Bubble 1;69706251
-Randomized 4000;2700;Bubble 1+2;45271926
-Randomized 4000;2700;Insertion;17850501
-Randomized 4000;2700;Bin. Insertion;12781767
-Randomized 4000;2700;S. Counting;153262
+Randomized 5;2700;Merge;686260
+Randomized 5;2700;Quick;3156372
+Randomized 5;2700;Heap;664632
+Randomized 5;2700;Shell-Tsiur;352332
+Randomized 5;2700;Shell;446053
+Randomized 4000;2700;Selection;21916846
+Randomized 4000;2700;Bubble;69333426
+Randomized 4000;2700;Bubble 1;69509922
+Randomized 4000;2700;Bubble 1+2;45664143
+Randomized 4000;2700;Insertion;18433991
+Randomized 4000;2700;Bin. Insertion;13191519
+Randomized 4000;2700;S. Counting;153272
 Randomized 4000;2700;Radix;2382713
-Randomized 4000;2700;Merge;688800
-Randomized 4000;2700;Quick;360609
-Randomized 4000;2700;Heap;788775
-Randomized 4000;2700;Shell-Tsiur;566075
-Randomized 4000;2700;Shell;740650
-Almost sorted;2700;Selection;21904353
-Almost sorted;2700;Bubble;58375806
-Almost sorted;2700;Bubble 1;223048
-Almost sorted;2700;Bubble 1+2;239113
-Almost sorted;2700;Insertion;171291
-Almost sorted;2700;Bin. Insertion;390018
-Almost sorted;2700;S. Counting;139698
+Randomized 4000;2700;Merge;688814
+Randomized 4000;2700;Quick;341503
+Randomized 4000;2700;Heap;786488
+Randomized 4000;2700;Shell-Tsiur;567473
+Randomized 4000;2700;Shell;746728
+Almost sorted;2700;Selection;22192188
+Almost sorted;2700;Bubble;64428348
+Almost sorted;2700;Bubble 1;16031942
+Almost sorted;2700;Bubble 1+2;16383347
+Almost sorted;2700;Insertion;10258861
+Almost sorted;2700;Bin. Insertion;7466085
+Almost sorted;2700;S. Counting;154632
 Almost sorted;2700;Radix;2382713
-Almost sorted;2700;Merge;671500
-Almost sorted;2700;Quick;1047249
-Almost sorted;2700;Heap;823996
-Almost sorted;2700;Shell-Tsiur;358367
-Almost sorted;2700;Shell;416942
-Reverse sorted;2700;Selection;23048964
-Reverse sorted;2700;Bubble;80149422
-Reverse sorted;2700;Bubble 1;83791707
-Reverse sorted;2700;Bubble 1+2;58310448
-Reverse sorted;2700;Insertion;36460651
-Reverse sorted;2700;Bin. Insertion;25832941
-Reverse sorted;2700;S. Counting;139096
+Almost sorted;2700;Merge;668776
+Almost sorted;2700;Quick;3939370
+Almost sorted;2700;Heap;757525
+Almost sorted;2700;Shell-Tsiur;395908
+Almost sorted;2700;Shell;480886
+Reverse sorted;2700;Selection;23066994
+Reverse sorted;2700;Bubble;80149674
+Reverse sorted;2700;Bubble 1;83813600
+Reverse sorted;2700;Bubble 1+2;58310750
+Reverse sorted;2700;Insertion;36461071
+Reverse sorted;2700;Bin. Insertion;25833324
+Reverse sorted;2700;S. Counting;138892
 Reverse sorted;2700;Radix;2382713
-Reverse sorted;2700;Merge;667612
-Reverse sorted;2700;Quick;24147689
-Reverse sorted;2700;Heap;739445
-Reverse sorted;2700;Shell-Tsiur;403922
-Reverse sorted;2700;Shell;533019
-Randomized 5;2800;Selection;23552479
-Randomized 5;2800;Bubble;72602990
-Randomized 5;2800;Bubble 1;63234045
-Randomized 5;2800;Bubble 1+2;45753906
-Randomized 5;2800;Insertion;16552831
-Randomized 5;2800;Bin. Insertion;13548992
-Randomized 5;2800;S. Counting;100920
+Reverse sorted;2700;Merge;667684
+Reverse sorted;2700;Quick;24056558
+Reverse sorted;2700;Heap;738557
+Reverse sorted;2700;Shell-Tsiur;404226
+Reverse sorted;2700;Shell;533097
+Randomized 5;2800;Selection;23552521
+Randomized 5;2800;Bubble;72331034
+Randomized 5;2800;Bubble 1;62737571
+Randomized 5;2800;Bubble 1+2;45400812
+Randomized 5;2800;Insertion;16099571
+Randomized 5;2800;Bin. Insertion;13455873
+Randomized 5;2800;S. Counting;100922
 Randomized 5;2800;Radix;2470913
-Randomized 5;2800;Merge;714299
-Randomized 5;2800;Quick;3392778
-Randomized 5;2800;Heap;696320
-Randomized 5;2800;Shell-Tsiur;367514
-Randomized 5;2800;Shell;472666
-Randomized 4000;2800;Selection;23567910
-Randomized 4000;2800;Bubble;74218598
-Randomized 4000;2800;Bubble 1;74145718
-Randomized 4000;2800;Bubble 1+2;48697463
-Randomized 4000;2800;Insertion;19245511
-Randomized 4000;2800;Bin. Insertion;13770185
-Randomized 4000;2800;S. Counting;156862
+Randomized 5;2800;Merge;714543
+Randomized 5;2800;Quick;3394448
+Randomized 5;2800;Heap;693897
+Randomized 5;2800;Shell-Tsiur;366558
+Randomized 5;2800;Shell;467401
+Randomized 4000;2800;Selection;23568190
+Randomized 4000;2800;Bubble;74575946
+Randomized 4000;2800;Bubble 1;75861766
+Randomized 4000;2800;Bubble 1+2;49146414
+Randomized 4000;2800;Insertion;19841091
+Randomized 4000;2800;Bin. Insertion;14188373
+Randomized 4000;2800;S. Counting;156872
 Randomized 4000;2800;Radix;2470913
-Randomized 4000;2800;Merge;717295
-Randomized 4000;2800;Quick;338160
-Randomized 4000;2800;Heap;822798
-Randomized 4000;2800;Shell-Tsiur;591792
-Randomized 4000;2800;Shell;747530
-Almost sorted;2800;Selection;23555633
-Almost sorted;2800;Bubble;62777906
-Almost sorted;2800;Bubble 1;231348
-Almost sorted;2800;Bubble 1+2;248013
-Almost sorted;2800;Insertion;177691
-Almost sorted;2800;Bin. Insertion;404921
-Almost sorted;2800;S. Counting;143298
+Randomized 4000;2800;Merge;717381
+Randomized 4000;2800;Quick;335803
+Randomized 4000;2800;Heap;820025
+Randomized 4000;2800;Shell-Tsiur;588967
+Randomized 4000;2800;Shell;742894
+Almost sorted;2800;Selection;23855160
+Almost sorted;2800;Bubble;69073448
+Almost sorted;2800;Bubble 1;16647742
+Almost sorted;2800;Bubble 1+2;17040247
+Almost sorted;2800;Insertion;10670261
+Almost sorted;2800;Bin. Insertion;7765916
+Almost sorted;2800;S. Counting;158232
 Almost sorted;2800;Radix;2470913
-Almost sorted;2800;Merge;699093
-Almost sorted;2800;Quick;1100259
-Almost sorted;2800;Heap;858367
-Almost sorted;2800;Shell-Tsiur;373125
-Almost sorted;2800;Shell;433933
-Reverse sorted;2800;Selection;24787120
-Reverse sorted;2800;Bubble;86197970
-Reverse sorted;2800;Bubble 1;90137562
-Reverse sorted;2800;Bubble 1+2;62710162
-Reverse sorted;2800;Insertion;39211131
-Reverse sorted;2800;Bin. Insertion;27771461
-Reverse sorted;2800;S. Counting;144228
+Almost sorted;2800;Merge;696487
+Almost sorted;2800;Quick;3749855
+Almost sorted;2800;Heap;786105
+Almost sorted;2800;Shell-Tsiur;412993
+Almost sorted;2800;Shell;507496
+Reverse sorted;2800;Selection;24805278
+Reverse sorted;2800;Bubble;86198180
+Reverse sorted;2800;Bubble 1;90137807
+Reverse sorted;2800;Bubble 1+2;62710407
+Reverse sorted;2800;Insertion;39211481
+Reverse sorted;2800;Bin. Insertion;27771762
+Reverse sorted;2800;S. Counting;143922
 Reverse sorted;2800;Radix;2470913
-Reverse sorted;2800;Merge;695491
-Reverse sorted;2800;Quick;26031686
-Reverse sorted;2800;Heap;767743
-Reverse sorted;2800;Shell-Tsiur;424094
-Reverse sorted;2800;Shell;555827
-Randomized 5;2900;Selection;25263622
-Randomized 5;2900;Bubble;77912420
-Randomized 5;2900;Bubble 1;67648557
-Randomized 5;2900;Bubble 1+2;49071467
-Randomized 5;2900;Insertion;17804781
-Randomized 5;2900;Bin. Insertion;14547695
-Randomized 5;2900;S. Counting;104520
+Reverse sorted;2800;Merge;695621
+Reverse sorted;2800;Quick;25889046
+Reverse sorted;2800;Heap;767270
+Reverse sorted;2800;Shell-Tsiur;424471
+Reverse sorted;2800;Shell;555944
+Randomized 5;2900;Selection;25263747
+Randomized 5;2900;Bubble;77702852
+Randomized 5;2900;Bubble 1;67334464
+Randomized 5;2900;Bubble 1+2;48812880
+Randomized 5;2900;Insertion;17455501
+Randomized 5;2900;Bin. Insertion;14536918
+Randomized 5;2900;S. Counting;104522
 Randomized 5;2900;Radix;2559113
-Randomized 5;2900;Merge;742787
-Randomized 5;2900;Quick;3659652
-Randomized 5;2900;Heap;721844
-Randomized 5;2900;Shell-Tsiur;383824
-Randomized 5;2900;Shell;483197
-Randomized 4000;2900;Selection;25279743
-Randomized 4000;2900;Bubble;79676888
-Randomized 4000;2900;Bubble 1;79404285
-Randomized 4000;2900;Bubble 1+2;52301458
-Randomized 4000;2900;Insertion;20745561
-Randomized 4000;2900;Bin. Insertion;14832080
-Randomized 4000;2900;S. Counting;160462
+Randomized 5;2900;Merge;743007
+Randomized 5;2900;Quick;3626979
+Randomized 5;2900;Heap;720935
+Randomized 5;2900;Shell-Tsiur;381462
+Randomized 5;2900;Shell;479923
+Randomized 4000;2900;Selection;25280056
+Randomized 4000;2900;Bubble;79956086
+Randomized 4000;2900;Bubble 1;80773971
+Randomized 4000;2900;Bubble 1+2;52659544
+Randomized 4000;2900;Insertion;21210891
+Randomized 4000;2900;Bin. Insertion;15159001
+Randomized 4000;2900;S. Counting;160472
 Randomized 4000;2900;Radix;2559113
-Randomized 4000;2900;Merge;745777
-Randomized 4000;2900;Quick;369204
-Randomized 4000;2900;Heap;855335
-Randomized 4000;2900;Shell-Tsiur;612979
-Randomized 4000;2900;Shell;776505
-Almost sorted;2900;Selection;25266913
-Almost sorted;2900;Bubble;67340006
-Almost sorted;2900;Bubble 1;239648
-Almost sorted;2900;Bubble 1+2;256913
-Almost sorted;2900;Insertion;184091
-Almost sorted;2900;Bin. Insertion;419801
-Almost sorted;2900;S. Counting;146898
+Randomized 4000;2900;Merge;745823
+Randomized 4000;2900;Quick;384263
+Randomized 4000;2900;Heap;853782
+Randomized 4000;2900;Shell-Tsiur;618924
+Randomized 4000;2900;Shell;754955
+Almost sorted;2900;Selection;25577993
+Almost sorted;2900;Bubble;73878548
+Almost sorted;2900;Bubble 1;17263542
+Almost sorted;2900;Bubble 1+2;17697147
+Almost sorted;2900;Insertion;11081661
+Almost sorted;2900;Bin. Insertion;8065781
+Almost sorted;2900;S. Counting;161832
 Almost sorted;2900;Radix;2559113
-Almost sorted;2900;Merge;726687
-Almost sorted;2900;Quick;1167781
-Almost sorted;2900;Heap;893286
-Almost sorted;2900;Shell-Tsiur;387935
-Almost sorted;2900;Shell;453575
-Reverse sorted;2900;Selection;26588282
-Reverse sorted;2900;Bubble;92466344
-Reverse sorted;2900;Bubble 1;96691615
-Reverse sorted;2900;Bubble 1+2;67269665
-Reverse sorted;2900;Insertion;42061321
-Reverse sorted;2900;Bin. Insertion;29779713
-Reverse sorted;2900;S. Counting;149100
+Almost sorted;2900;Merge;724229
+Almost sorted;2900;Quick;4145997
+Almost sorted;2900;Heap;819528
+Almost sorted;2900;Shell-Tsiur;427946
+Almost sorted;2900;Shell;510778
+Reverse sorted;2900;Selection;26606891
+Reverse sorted;2900;Bubble;92466746
+Reverse sorted;2900;Bubble 1;96692084
+Reverse sorted;2900;Bubble 1+2;67270134
+Reverse sorted;2900;Insertion;42061991
+Reverse sorted;2900;Bin. Insertion;29780332
+Reverse sorted;2900;S. Counting;149110
 Reverse sorted;2900;Radix;2559113
-Reverse sorted;2900;Merge;723459
-Reverse sorted;2900;Quick;27663808
-Reverse sorted;2900;Heap;798161
-Reverse sorted;2900;Shell-Tsiur;439784
-Reverse sorted;2900;Shell;573385
-Randomized 5;3000;Selection;27034740
-Randomized 5;3000;Bubble;83358456
-Randomized 5;3000;Bubble 1;72392566
-Randomized 5;3000;Bubble 1+2;52493989
-Randomized 5;3000;Insertion;19017741
-Randomized 5;3000;Bin. Insertion;15545058
-Randomized 5;3000;S. Counting;108120
+Reverse sorted;2900;Merge;723417
+Reverse sorted;2900;Quick;27845475
+Reverse sorted;2900;Heap;798258
+Reverse sorted;2900;Shell-Tsiur;439953
+Reverse sorted;2900;Shell;573853
+Randomized 5;3000;Selection;27034937
+Randomized 5;3000;Bubble;83099064
+Randomized 5;3000;Bubble 1;72185938
+Randomized 5;3000;Bubble 1+2;52210639
+Randomized 5;3000;Insertion;18585421
+Randomized 5;3000;Bin. Insertion;15484595
+Randomized 5;3000;S. Counting;108122
 Randomized 5;3000;Radix;2647313
-Randomized 5;3000;Merge;771022
-Randomized 5;3000;Quick;3901460
-Randomized 5;3000;Heap;746561
-Randomized 5;3000;Shell-Tsiur;397893
-Randomized 5;3000;Shell;504376
-Randomized 4000;3000;Selection;27051452
-Randomized 4000;3000;Bubble;85256526
-Randomized 4000;3000;Bubble 1;85310535
-Randomized 4000;3000;Bubble 1+2;55970361
-Randomized 4000;3000;Insertion;22181191
-Randomized 4000;3000;Bin. Insertion;15848994
-Randomized 4000;3000;S. Counting;164062
+Randomized 5;3000;Merge;771360
+Randomized 5;3000;Quick;3868574
+Randomized 5;3000;Heap;749589
+Randomized 5;3000;Shell-Tsiur;396060
+Randomized 5;3000;Shell;495314
+Randomized 4000;3000;Selection;27051959
+Randomized 4000;3000;Bubble;85644294
+Randomized 4000;3000;Bubble 1;87346865
+Randomized 4000;3000;Bubble 1+2;56457440
+Randomized 4000;3000;Insertion;22827471
+Randomized 4000;3000;Bin. Insertion;16302543
+Randomized 4000;3000;S. Counting;164072
 Randomized 4000;3000;Radix;2647313
-Randomized 4000;3000;Merge;774324
-Randomized 4000;3000;Quick;396601
-Randomized 4000;3000;Heap;889363
-Randomized 4000;3000;Shell-Tsiur;640613
-Randomized 4000;3000;Shell;785921
-Almost sorted;3000;Selection;27038193
-Almost sorted;3000;Bubble;72062106
-Almost sorted;3000;Bubble 1;247948
-Almost sorted;3000;Bubble 1+2;265813
-Almost sorted;3000;Insertion;190491
-Almost sorted;3000;Bin. Insertion;434727
-Almost sorted;3000;S. Counting;150498
+Randomized 4000;3000;Merge;774396
+Randomized 4000;3000;Quick;385782
+Randomized 4000;3000;Heap;887590
+Randomized 4000;3000;Shell-Tsiur;643567
+Randomized 4000;3000;Shell;830080
+Almost sorted;3000;Selection;27361047
+Almost sorted;3000;Bubble;78843648
+Almost sorted;3000;Bubble 1;17879342
+Almost sorted;3000;Bubble 1+2;18354047
+Almost sorted;3000;Insertion;11493061
+Almost sorted;3000;Bin. Insertion;8365672
+Almost sorted;3000;S. Counting;165432
 Almost sorted;3000;Radix;2647313
-Almost sorted;3000;Merge;755312
-Almost sorted;3000;Quick;1245111
-Almost sorted;3000;Heap;927596
-Almost sorted;3000;Shell-Tsiur;402784
-Almost sorted;3000;Shell;471021
-Reverse sorted;3000;Selection;28452106
-Reverse sorted;3000;Bubble;98954844
-Reverse sorted;3000;Bubble 1;103475815
-Reverse sorted;3000;Bubble 1+2;71989315
-Reverse sorted;3000;Insertion;45011721
-Reverse sorted;3000;Bin. Insertion;31858183
-Reverse sorted;3000;S. Counting;154264
+Almost sorted;3000;Merge;751848
+Almost sorted;3000;Quick;4566402
+Almost sorted;3000;Heap;853508
+Almost sorted;3000;Shell-Tsiur;446435
+Almost sorted;3000;Shell;526871
+Reverse sorted;3000;Selection;28471825
+Reverse sorted;3000;Bubble;98955186
+Reverse sorted;3000;Bubble 1;103476214
+Reverse sorted;3000;Bubble 1+2;71989714
+Reverse sorted;3000;Insertion;45012291
+Reverse sorted;3000;Bin. Insertion;31858686
+Reverse sorted;3000;S. Counting;154074
 Reverse sorted;3000;Radix;2647313
-Reverse sorted;3000;Merge;751510
-Reverse sorted;3000;Quick;29536365
-Reverse sorted;3000;Heap;828732
-Reverse sorted;3000;Shell-Tsiur;465771
-Reverse sorted;3000;Shell;593762
-Randomized 5;3100;Selection;28865934
-Randomized 5;3100;Bubble;89003864
-Randomized 5;3100;Bubble 1;77141716
-Randomized 5;3100;Bubble 1+2;56014697
-Randomized 5;3100;Insertion;20296321
-Randomized 5;3100;Bin. Insertion;16583575
-Randomized 5;3100;S. Counting;111720
+Reverse sorted;3000;Merge;751638
+Reverse sorted;3000;Quick;29651297
+Reverse sorted;3000;Heap;827784
+Reverse sorted;3000;Shell-Tsiur;466130
+Reverse sorted;3000;Shell;593944
+Randomized 5;3100;Selection;28866128
+Randomized 5;3100;Bubble;88693064
+Randomized 5;3100;Bubble 1;77051905
+Randomized 5;3100;Bubble 1+2;55707130
+Randomized 5;3100;Insertion;19778321
+Randomized 5;3100;Bin. Insertion;16476205
+Randomized 5;3100;S. Counting;111722
 Randomized 5;3100;Radix;2735513
-Randomized 5;3100;Merge;799434
-Randomized 5;3100;Quick;4153171
-Randomized 5;3100;Heap;776921
-Randomized 5;3100;Shell-Tsiur;414195
-Randomized 5;3100;Shell;523603
-Randomized 4000;3100;Selection;28883661
-Randomized 4000;3100;Bubble;91059794
-Randomized 4000;3100;Bubble 1;92460580
-Randomized 4000;3100;Bubble 1+2;59824150
-Randomized 4000;3100;Insertion;23722871
-Randomized 4000;3100;Bin. Insertion;16940044
-Randomized 4000;3100;S. Counting;167662
+Randomized 5;3100;Merge;799640
+Randomized 5;3100;Quick;4135000
+Randomized 5;3100;Heap;779288
+Randomized 5;3100;Shell-Tsiur;410675
+Randomized 5;3100;Shell;509712
+Randomized 4000;3100;Selection;28884105
+Randomized 4000;3100;Bubble;91454306
+Randomized 4000;3100;Bubble 1;93317628
+Randomized 4000;3100;Bubble 1+2;60289078
+Randomized 4000;3100;Insertion;24380391
+Randomized 4000;3100;Bin. Insertion;17401568
+Randomized 4000;3100;S. Counting;167672
 Randomized 4000;3100;Radix;2735513
-Randomized 4000;3100;Merge;802786
-Randomized 4000;3100;Quick;378721
-Randomized 4000;3100;Heap;922360
-Randomized 4000;3100;Shell-Tsiur;667485
-Randomized 4000;3100;Shell;1043662
-Almost sorted;3100;Selection;28869439
-Almost sorted;3100;Bubble;76944056
-Almost sorted;3100;Bubble 1;256073
-Almost sorted;3100;Bubble 1+2;274538
-Almost sorted;3100;Insertion;196641
-Almost sorted;3100;Bin. Insertion;449788
-Almost sorted;3100;S. Counting;160868
+Randomized 4000;3100;Merge;802812
+Randomized 4000;3100;Quick;373639
+Randomized 4000;3100;Heap;921024
+Randomized 4000;3100;Shell-Tsiur;660667
+Randomized 4000;3100;Shell;982045
+Almost sorted;3100;Selection;29203561
+Almost sorted;3100;Bubble;83968748
+Almost sorted;3100;Bubble 1;18495142
+Almost sorted;3100;Bubble 1+2;19010947
+Almost sorted;3100;Insertion;11904461
+Almost sorted;3100;Bin. Insertion;8665469
+Almost sorted;3100;S. Counting;169032
 Almost sorted;3100;Radix;2735513
-Almost sorted;3100;Merge;782018
-Almost sorted;3100;Quick;1282296
-Almost sorted;3100;Heap;962600
-Almost sorted;3100;Shell-Tsiur;417503
-Almost sorted;3100;Shell;494441
-Reverse sorted;3100;Selection;30378649
-Reverse sorted;3100;Bubble;105663350
-Reverse sorted;3100;Bubble 1;110490022
-Reverse sorted;3100;Bubble 1+2;76868972
-Reverse sorted;3100;Insertion;48062131
-Reverse sorted;3100;Bin. Insertion;34006673
-Reverse sorted;3100;S. Counting;159138
+Almost sorted;3100;Merge;779526
+Almost sorted;3100;Quick;4399430
+Almost sorted;3100;Heap;884249
+Almost sorted;3100;Shell-Tsiur;464469
+Almost sorted;3100;Shell;545213
+Reverse sorted;3100;Selection;30399320
+Reverse sorted;3100;Bubble;105663626
+Reverse sorted;3100;Bubble 1;110490344
+Reverse sorted;3100;Bubble 1+2;76869294
+Reverse sorted;3100;Insertion;48062591
+Reverse sorted;3100;Bin. Insertion;34007074
+Reverse sorted;3100;S. Counting;158996
 Reverse sorted;3100;Radix;2735513
-Reverse sorted;3100;Merge;779622
-Reverse sorted;3100;Quick;31540357
-Reverse sorted;3100;Heap;862183
-Reverse sorted;3100;Shell-Tsiur;494965
-Reverse sorted;3100;Shell;605330
-Randomized 5;3200;Selection;30757102
-Randomized 5;3200;Bubble;94863548
-Randomized 5;3200;Bubble 1;82587768
-Randomized 5;3200;Bubble 1+2;59787113
-Randomized 5;3200;Insertion;21665361
-Randomized 5;3200;Bin. Insertion;17686889
-Randomized 5;3200;S. Counting;115320
+Reverse sorted;3100;Merge;779680
+Reverse sorted;3100;Quick;31527646
+Reverse sorted;3100;Heap;863094
+Reverse sorted;3100;Shell-Tsiur;495940
+Reverse sorted;3100;Shell;605720
+Randomized 5;3200;Selection;30757249
+Randomized 5;3200;Bubble;94497422
+Randomized 5;3200;Bubble 1;82135022
+Randomized 5;3200;Bubble 1+2;59354873
+Randomized 5;3200;Insertion;21055151
+Randomized 5;3200;Bin. Insertion;17540563
+Randomized 5;3200;S. Counting;115322
 Randomized 5;3200;Radix;2823713
-Randomized 5;3200;Merge;827766
-Randomized 5;3200;Quick;4395780
-Randomized 5;3200;Heap;804002
-Randomized 5;3200;Shell-Tsiur;429674
-Randomized 5;3200;Shell;581693
-Randomized 4000;3200;Selection;30775237
-Randomized 4000;3200;Bubble;97011866
-Randomized 4000;3200;Bubble 1;99173589
-Randomized 4000;3200;Bubble 1+2;63730909
-Randomized 4000;3200;Insertion;25245891
-Randomized 4000;3200;Bin. Insertion;18018094
-Randomized 4000;3200;S. Counting;171262
+Randomized 5;3200;Merge;827880
+Randomized 5;3200;Quick;4423893
+Randomized 5;3200;Heap;802876
+Randomized 5;3200;Shell-Tsiur;425390
+Randomized 5;3200;Shell;572470
+Randomized 4000;3200;Selection;30775890
+Randomized 4000;3200;Bubble;97506938
+Randomized 4000;3200;Bubble 1;99060000
+Randomized 4000;3200;Bubble 1+2;64301473
+Randomized 4000;3200;Insertion;26071011
+Randomized 4000;3200;Bin. Insertion;18597155
+Randomized 4000;3200;S. Counting;171272
 Randomized 4000;3200;Radix;2823713
-Randomized 4000;3200;Merge;831178
-Randomized 4000;3200;Quick;376126
-Randomized 4000;3200;Heap;956753
-Randomized 4000;3200;Shell-Tsiur;695685
-Randomized 4000;3200;Shell;1025132
-Almost sorted;3200;Selection;30760719
-Almost sorted;3200;Bubble;81986156
-Almost sorted;3200;Bubble 1;264373
-Almost sorted;3200;Bubble 1+2;283438
-Almost sorted;3200;Insertion;203041
-Almost sorted;3200;Bin. Insertion;465799
-Almost sorted;3200;S. Counting;164468
+Randomized 4000;3200;Merge;831372
+Randomized 4000;3200;Quick;406469
+Randomized 4000;3200;Heap;955181
+Randomized 4000;3200;Shell-Tsiur;691471
+Randomized 4000;3200;Shell;1064601
+Almost sorted;3200;Selection;31106495
+Almost sorted;3200;Bubble;89253848
+Almost sorted;3200;Bubble 1;19110942
+Almost sorted;3200;Bubble 1+2;19667847
+Almost sorted;3200;Insertion;12315861
+Almost sorted;3200;Bin. Insertion;8965305
+Almost sorted;3200;S. Counting;172632
 Almost sorted;3200;Radix;2823713
-Almost sorted;3200;Merge;811646
-Almost sorted;3200;Quick;1331770
-Almost sorted;3200;Heap;996523
-Almost sorted;3200;Shell-Tsiur;432326
-Almost sorted;3200;Shell;511884
-Reverse sorted;3200;Selection;32368236
-Reverse sorted;3200;Bubble;112591892
-Reverse sorted;3200;Bubble 1;117708672
-Reverse sorted;3200;Bubble 1+2;81908663
-Reverse sorted;3200;Insertion;51212601
-Reverse sorted;3200;Bin. Insertion;36225227
-Reverse sorted;3200;S. Counting;164224
+Almost sorted;3200;Merge;807288
+Almost sorted;3200;Quick;4279755
+Almost sorted;3200;Heap;915064
+Almost sorted;3200;Shell-Tsiur;480085
+Almost sorted;3200;Shell;558031
+Reverse sorted;3200;Selection;32389610
+Reverse sorted;3200;Bubble;112592126
+Reverse sorted;3200;Bubble 1;117734544
+Reverse sorted;3200;Bubble 1+2;81908944
+Reverse sorted;3200;Insertion;51212991
+Reverse sorted;3200;Bin. Insertion;36225548
+Reverse sorted;3200;S. Counting;163922
 Reverse sorted;3200;Radix;2823713
-Reverse sorted;3200;Merge;807138
-Reverse sorted;3200;Quick;33643163
-Reverse sorted;3200;Heap;892807
-Reverse sorted;3200;Shell-Tsiur;506383
-Reverse sorted;3200;Shell;629407
-Randomized 5;3300;Selection;32708239
-Randomized 5;3300;Bubble;100878870
-Randomized 5;3300;Bubble 1;87627952
-Randomized 5;3300;Bubble 1+2;63534697
-Randomized 5;3300;Insertion;23027131
-Randomized 5;3300;Bin. Insertion;18791164
-Randomized 5;3300;S. Counting;118920
+Reverse sorted;3200;Merge;807286
+Reverse sorted;3200;Quick;33531926
+Reverse sorted;3200;Heap;892832
+Reverse sorted;3200;Shell-Tsiur;507129
+Reverse sorted;3200;Shell;629438
+Randomized 5;3300;Selection;32708456
+Randomized 5;3300;Bubble;100604850
+Randomized 5;3300;Bubble 1;87440257
+Randomized 5;3300;Bubble 1+2;63241462
+Randomized 5;3300;Insertion;22570431
+Randomized 5;3300;Bin. Insertion;18744768
+Randomized 5;3300;S. Counting;118922
 Randomized 5;3300;Radix;2911913
-Randomized 5;3300;Merge;856171
-Randomized 5;3300;Quick;4674449
-Randomized 5;3300;Heap;831226
-Randomized 5;3300;Shell-Tsiur;444060
-Randomized 5;3300;Shell;552256
-Randomized 4000;3300;Selection;32726992
-Randomized 4000;3300;Bubble;103249686
-Randomized 4000;3300;Bubble 1;104411773
-Randomized 4000;3300;Bubble 1+2;67853293
-Randomized 4000;3300;Insertion;26978491
-Randomized 4000;3300;Bin. Insertion;19242857
-Randomized 4000;3300;S. Counting;174862
+Randomized 5;3300;Merge;856425
+Randomized 5;3300;Quick;4682451
+Randomized 5;3300;Heap;831294
+Randomized 5;3300;Shell-Tsiur;440406
+Randomized 5;3300;Shell;549786
+Randomized 4000;3300;Selection;32727965
+Randomized 4000;3300;Bubble;103599420
+Randomized 4000;3300;Bubble 1;105611766
+Randomized 4000;3300;Bubble 1+2;68273301
+Randomized 4000;3300;Insertion;27561381
+Randomized 4000;3300;Bin. Insertion;19652117
+Randomized 4000;3300;S. Counting;174872
 Randomized 4000;3300;Radix;2911913
-Randomized 4000;3300;Merge;859787
-Randomized 4000;3300;Quick;453883
-Randomized 4000;3300;Heap;990010
-Randomized 4000;3300;Shell-Tsiur;722437
-Randomized 4000;3300;Shell;932376
-Almost sorted;3300;Selection;32711999
-Almost sorted;3300;Bubble;87188256
-Almost sorted;3300;Bubble 1;272673
-Almost sorted;3300;Bubble 1+2;292338
-Almost sorted;3300;Insertion;209441
-Almost sorted;3300;Bin. Insertion;481950
-Almost sorted;3300;S. Counting;168068
+Randomized 4000;3300;Merge;859923
+Randomized 4000;3300;Quick;420182
+Randomized 4000;3300;Heap;986407
+Randomized 4000;3300;Shell-Tsiur;711934
+Randomized 4000;3300;Shell;905845
+Almost sorted;3300;Selection;33069357
+Almost sorted;3300;Bubble;94698948
+Almost sorted;3300;Bubble 1;19726742
+Almost sorted;3300;Bubble 1+2;20324747
+Almost sorted;3300;Insertion;12727261
+Almost sorted;3300;Bin. Insertion;9264964
+Almost sorted;3300;S. Counting;176232
 Almost sorted;3300;Radix;2911913
-Almost sorted;3300;Merge;837345
-Almost sorted;3300;Quick;1389920
-Almost sorted;3300;Heap;1031363
-Almost sorted;3300;Shell-Tsiur;447136
-Almost sorted;3300;Shell;528214
-Reverse sorted;3300;Selection;34421463
-Reverse sorted;3300;Bubble;119740386
-Reverse sorted;3300;Bubble 1;125129267
-Reverse sorted;3300;Bubble 1+2;87108263
-Reverse sorted;3300;Insertion;54462991
-Reverse sorted;3300;Bin. Insertion;38513701
-Reverse sorted;3300;S. Counting;169390
+Almost sorted;3300;Merge;834241
+Almost sorted;3300;Quick;5075420
+Almost sorted;3300;Heap;948978
+Almost sorted;3300;Shell-Tsiur;495688
+Almost sorted;3300;Shell;550264
+Reverse sorted;3300;Selection;34443528
+Reverse sorted;3300;Bubble;119740698
+Reverse sorted;3300;Bubble 1;125182429
+Reverse sorted;3300;Bubble 1+2;87108670
+Reverse sorted;3300;Insertion;54463511
+Reverse sorted;3300;Bin. Insertion;38514102
+Reverse sorted;3300;S. Counting;169282
 Reverse sorted;3300;Radix;2911913
-Reverse sorted;3300;Merge;834881
-Reverse sorted;3300;Quick;35743735
-Reverse sorted;3300;Heap;923627
-Reverse sorted;3300;Shell-Tsiur;526938
-Reverse sorted;3300;Shell;674532
-Randomized 5;3400;Selection;34719397
-Randomized 5;3400;Bubble;107135834
-Randomized 5;3400;Bubble 1;93318569
-Randomized 5;3400;Bubble 1+2;67549369
-Randomized 5;3400;Insertion;24524971
-Randomized 5;3400;Bin. Insertion;19994282
-Randomized 5;3400;S. Counting;122520
+Reverse sorted;3300;Merge;835071
+Reverse sorted;3300;Quick;35831976
+Reverse sorted;3300;Heap;924075
+Reverse sorted;3300;Shell-Tsiur;526847
+Reverse sorted;3300;Shell;675039
+Randomized 5;3400;Selection;34719636
+Randomized 5;3400;Bubble;106837496
+Randomized 5;3400;Bubble 1;92725717
+Randomized 5;3400;Bubble 1+2;67152393
+Randomized 5;3400;Insertion;24027741
+Randomized 5;3400;Bin. Insertion;19938221
+Randomized 5;3400;S. Counting;122522
 Randomized 5;3400;Radix;3000113
-Randomized 5;3400;Merge;884394
-Randomized 5;3400;Quick;4962631
-Randomized 5;3400;Heap;860619
-Randomized 5;3400;Shell-Tsiur;460977
-Randomized 5;3400;Shell;571589
-Randomized 4000;3400;Selection;34739527
-Randomized 4000;3400;Bubble;109552826
-Randomized 4000;3400;Bubble 1;112348997
-Randomized 4000;3400;Bubble 1+2;71985843
-Randomized 4000;3400;Insertion;28553291
-Randomized 4000;3400;Bin. Insertion;20357213
-Randomized 4000;3400;S. Counting;178462
+Randomized 5;3400;Merge;884818
+Randomized 5;3400;Quick;4965028
+Randomized 5;3400;Heap;860777
+Randomized 5;3400;Shell-Tsiur;456558
+Randomized 5;3400;Shell;568196
+Randomized 4000;3400;Selection;34739497
+Randomized 4000;3400;Bubble;109984412
+Randomized 4000;3400;Bubble 1;109425440
+Randomized 4000;3400;Bubble 1+2;72414075
+Randomized 4000;3400;Insertion;29272601
+Randomized 4000;3400;Bin. Insertion;20862015
+Randomized 4000;3400;S. Counting;178472
 Randomized 4000;3400;Radix;3000113
-Randomized 4000;3400;Merge;888304
-Randomized 4000;3400;Quick;427372
-Randomized 4000;3400;Heap;1023734
-Randomized 4000;3400;Shell-Tsiur;746448
-Randomized 4000;3400;Shell;938231
-Almost sorted;3400;Selection;34723279
-Almost sorted;3400;Bubble;92550356
-Almost sorted;3400;Bubble 1;280973
-Almost sorted;3400;Bubble 1+2;301238
-Almost sorted;3400;Insertion;215841
-Almost sorted;3400;Bin. Insertion;498024
-Almost sorted;3400;S. Counting;171668
+Randomized 4000;3400;Merge;888384
+Randomized 4000;3400;Quick;437849
+Randomized 4000;3400;Heap;1019963
+Randomized 4000;3400;Shell-Tsiur;740233
+Randomized 4000;3400;Shell;934592
+Almost sorted;3400;Selection;35092393
+Almost sorted;3400;Bubble;100304048
+Almost sorted;3400;Bubble 1;20342542
+Almost sorted;3400;Bubble 1+2;20981647
+Almost sorted;3400;Insertion;13138661
+Almost sorted;3400;Bin. Insertion;9565343
+Almost sorted;3400;S. Counting;179832
 Almost sorted;3400;Radix;3000113
-Almost sorted;3400;Merge;865006
-Almost sorted;3400;Quick;1461981
-Almost sorted;3400;Heap;1065868
-Almost sorted;3400;Shell-Tsiur;461816
-Almost sorted;3400;Shell;545125
-Reverse sorted;3400;Selection;36538077
-Reverse sorted;3400;Bubble;127108922
-Reverse sorted;3400;Bubble 1;132912706
-Reverse sorted;3400;Bubble 1+2;92468006
-Reverse sorted;3400;Insertion;57813451
-Reverse sorted;3400;Bin. Insertion;40872223
-Reverse sorted;3400;S. Counting;174450
+Almost sorted;3400;Merge;861858
+Almost sorted;3400;Quick;5252153
+Almost sorted;3400;Heap;980648
+Almost sorted;3400;Shell-Tsiur;511447
+Almost sorted;3400;Shell;599068
+Reverse sorted;3400;Selection;36560485
+Reverse sorted;3400;Bubble;127109048
+Reverse sorted;3400;Bubble 1;132912853
+Reverse sorted;3400;Bubble 1+2;92468153
+Reverse sorted;3400;Insertion;57813661
+Reverse sorted;3400;Bin. Insertion;40872373
+Reverse sorted;3400;S. Counting;174270
 Reverse sorted;3400;Radix;3000113
-Reverse sorted;3400;Merge;862808
-Reverse sorted;3400;Quick;38015667
-Reverse sorted;3400;Heap;956185
-Reverse sorted;3400;Shell-Tsiur;535407
-Reverse sorted;3400;Shell;672320
-Randomized 5;3500;Selection;36790577
-Randomized 5;3500;Bubble;113480294
-Randomized 5;3500;Bubble 1;99042199
-Randomized 5;3500;Bubble 1+2;71563244
-Randomized 5;3500;Insertion;25901971
-Randomized 5;3500;Bin. Insertion;21109662
-Randomized 5;3500;S. Counting;126120
+Reverse sorted;3400;Merge;862868
+Reverse sorted;3400;Quick;37818391
+Reverse sorted;3400;Heap;956079
+Reverse sorted;3400;Shell-Tsiur;535030
+Reverse sorted;3400;Shell;672406
+Randomized 5;3500;Selection;36790738
+Randomized 5;3500;Bubble;113187806
+Randomized 5;3500;Bubble 1;98112984
+Randomized 5;3500;Bubble 1+2;71104849
+Randomized 5;3500;Insertion;25414491
+Randomized 5;3500;Bin. Insertion;21096577
+Randomized 5;3500;S. Counting;126122
 Randomized 5;3500;Radix;3088313
-Randomized 5;3500;Merge;912912
-Randomized 5;3500;Quick;5267710
-Randomized 5;3500;Heap;887345
-Randomized 5;3500;Shell-Tsiur;475969
-Randomized 5;3500;Shell;576516
-Randomized 4000;3500;Selection;36811277
-Randomized 4000;3500;Bubble;116142242
-Randomized 4000;3500;Bubble 1;117015274
-Randomized 4000;3500;Bubble 1+2;76312295
-Randomized 4000;3500;Insertion;30338551
-Randomized 4000;3500;Bin. Insertion;21618553
-Randomized 4000;3500;S. Counting;182062
+Randomized 5;3500;Merge;913114
+Randomized 5;3500;Quick;5245028
+Randomized 5;3500;Heap;886259
+Randomized 5;3500;Shell-Tsiur;470942
+Randomized 5;3500;Shell;577444
+Randomized 4000;3500;Selection;36811867
+Randomized 4000;3500;Bubble;116481962
+Randomized 4000;3500;Bubble 1;118979558
+Randomized 4000;3500;Bubble 1+2;76734031
+Randomized 4000;3500;Insertion;30904751
+Randomized 4000;3500;Bin. Insertion;22016503
+Randomized 4000;3500;S. Counting;182072
 Randomized 4000;3500;Radix;3088313
-Randomized 4000;3500;Merge;916830
-Randomized 4000;3500;Quick;482484
-Randomized 4000;3500;Heap;1055829
-Randomized 4000;3500;Shell-Tsiur;772262
-Randomized 4000;3500;Shell;961159
-Almost sorted;3500;Selection;36794565
-Almost sorted;3500;Bubble;98072450
-Almost sorted;3500;Bubble 1;289266
-Almost sorted;3500;Bubble 1+2;310131
-Almost sorted;3500;Insertion;222231
-Almost sorted;3500;Bin. Insertion;514078
-Almost sorted;3500;S. Counting;175268
+Randomized 4000;3500;Merge;916996
+Randomized 4000;3500;Quick;437773
+Randomized 4000;3500;Heap;1055165
+Randomized 4000;3500;Shell-Tsiur;766198
+Randomized 4000;3500;Shell;956989
+Almost sorted;3500;Selection;37174920
+Almost sorted;3500;Bubble;106069148
+Almost sorted;3500;Bubble 1;20958342
+Almost sorted;3500;Bubble 1+2;21638547
+Almost sorted;3500;Insertion;13550061
+Almost sorted;3500;Bin. Insertion;9865646
+Almost sorted;3500;S. Counting;183432
 Almost sorted;3500;Radix;3088313
-Almost sorted;3500;Merge;892578
-Almost sorted;3500;Quick;1543092
-Almost sorted;3500;Heap;1100921
-Almost sorted;3500;Shell-Tsiur;476639
-Almost sorted;3500;Shell;560934
-Reverse sorted;3500;Selection;38717842
-Reverse sorted;3500;Bubble;134697332
-Reverse sorted;3500;Bubble 1;140790803
-Reverse sorted;3500;Bubble 1+2;97987526
-Reverse sorted;3500;Insertion;61263701
-Reverse sorted;3500;Bin. Insertion;43300601
-Reverse sorted;3500;S. Counting;179404
+Almost sorted;3500;Merge;889442
+Almost sorted;3500;Quick;4295609
+Almost sorted;3500;Heap;1015653
+Almost sorted;3500;Shell-Tsiur;527427
+Almost sorted;3500;Shell;592956
+Reverse sorted;3500;Selection;38739285
+Reverse sorted;3500;Bubble;134697590
+Reverse sorted;3500;Bubble 1;140847102
+Reverse sorted;3500;Bubble 1+2;97987852
+Reverse sorted;3500;Insertion;61264131
+Reverse sorted;3500;Bin. Insertion;43300911
+Reverse sorted;3500;S. Counting;179512
 Reverse sorted;3500;Radix;3088313
-Reverse sorted;3500;Merge;890848
-Reverse sorted;3500;Quick;39964516
-Reverse sorted;3500;Heap;989914
-Reverse sorted;3500;Shell-Tsiur;563603
-Reverse sorted;3500;Shell;690419
-Randomized 5;3600;Selection;38921716
-Randomized 5;3600;Bubble;120050754
-Randomized 5;3600;Bubble 1;104756437
-Randomized 5;3600;Bubble 1+2;75698335
-Randomized 5;3600;Insertion;27388971
-Randomized 5;3600;Bin. Insertion;22312857
-Randomized 5;3600;S. Counting;129720
+Reverse sorted;3500;Merge;890888
+Reverse sorted;3500;Quick;40160574
+Reverse sorted;3500;Heap;990151
+Reverse sorted;3500;Shell-Tsiur;563876
+Reverse sorted;3500;Shell;690718
+Randomized 5;3600;Selection;38921963
+Randomized 5;3600;Bubble;119756406
+Randomized 5;3600;Bubble 1;103894649
+Randomized 5;3600;Bubble 1+2;75251834
+Randomized 5;3600;Insertion;26898391
+Randomized 5;3600;Bin. Insertion;22314214
+Randomized 5;3600;S. Counting;129722
 Randomized 5;3600;Radix;3176513
-Randomized 5;3600;Merge;941355
-Randomized 5;3600;Quick;5552049
-Randomized 5;3600;Heap;916166
-Randomized 5;3600;Shell-Tsiur;489725
-Randomized 5;3600;Shell;635146
-Randomized 4000;3600;Selection;38943500
-Randomized 4000;3600;Bubble;122866266
-Randomized 4000;3600;Bubble 1;124168641
-Randomized 4000;3600;Bubble 1+2;80733939
-Randomized 4000;3600;Insertion;32081491
-Randomized 4000;3600;Bin. Insertion;22850664
-Randomized 4000;3600;S. Counting;185662
+Randomized 5;3600;Merge;941735
+Randomized 5;3600;Quick;5544767
+Randomized 5;3600;Heap;914100
+Randomized 5;3600;Shell-Tsiur;486480
+Randomized 5;3600;Shell;612661
+Randomized 4000;3600;Selection;38943396
+Randomized 4000;3600;Bubble;123275424
+Randomized 4000;3600;Bubble 1;125855550
+Randomized 4000;3600;Bubble 1+2;81228825
+Randomized 4000;3600;Insertion;32763421
+Randomized 4000;3600;Bin. Insertion;23329431
+Randomized 4000;3600;S. Counting;185672
 Randomized 4000;3600;Radix;3176513
-Randomized 4000;3600;Merge;945439
-Randomized 4000;3600;Quick;429393
-Randomized 4000;3600;Heap;1088534
-Randomized 4000;3600;Shell-Tsiur;794339
-Randomized 4000;3600;Shell;1152600
-Almost sorted;3600;Selection;38901850
-Almost sorted;3600;Bubble;103856538
-Almost sorted;3600;Bubble 1;101069057
-Almost sorted;3600;Bubble 1+2;58531907
-Almost sorted;3600;Insertion;398611
-Almost sorted;3600;Bin. Insertion;649349
-Almost sorted;3600;S. Counting;180232
+Randomized 4000;3600;Merge;945673
+Randomized 4000;3600;Quick;468986
+Randomized 4000;3600;Heap;1087030
+Randomized 4000;3600;Shell-Tsiur;784102
+Randomized 4000;3600;Shell;1163740
+Almost sorted;3600;Selection;39317840
+Almost sorted;3600;Bubble;111994248
+Almost sorted;3600;Bubble 1;21574142
+Almost sorted;3600;Bubble 1+2;22295447
+Almost sorted;3600;Insertion;13961461
+Almost sorted;3600;Bin. Insertion;10166076
+Almost sorted;3600;S. Counting;187032
 Almost sorted;3600;Radix;3176513
-Almost sorted;3600;Merge;919967
-Almost sorted;3600;Quick;2366622
-Almost sorted;3600;Heap;1150019
-Almost sorted;3600;Shell-Tsiur;502920
-Almost sorted;3600;Shell;616436
-Reverse sorted;3600;Selection;40960158
-Reverse sorted;3600;Bubble;142505868
-Reverse sorted;3600;Bubble 1;148982244
-Reverse sorted;3600;Bubble 1+2;103667235
-Reverse sorted;3600;Insertion;64814161
-Reverse sorted;3600;Bin. Insertion;45799123
-Reverse sorted;3600;S. Counting;184536
+Almost sorted;3600;Merge;917095
+Almost sorted;3600;Quick;4496512
+Almost sorted;3600;Heap;1048273
+Almost sorted;3600;Shell-Tsiur;544213
+Almost sorted;3600;Shell;650245
+Reverse sorted;3600;Selection;40981397
+Reverse sorted;3600;Bubble;142506090
+Reverse sorted;3600;Bubble 1;149011302
+Reverse sorted;3600;Bubble 1+2;103667502
+Reverse sorted;3600;Insertion;64814531
+Reverse sorted;3600;Bin. Insertion;45799401
+Reverse sorted;3600;S. Counting;184620
 Reverse sorted;3600;Radix;3176513
-Reverse sorted;3600;Merge;919017
-Reverse sorted;3600;Quick;42420319
-Reverse sorted;3600;Heap;1021454
-Reverse sorted;3600;Shell-Tsiur;570258
-Reverse sorted;3600;Shell;727823
-Randomized 5;3700;Selection;41112820
-Randomized 5;3700;Bubble;126797624
-Randomized 5;3700;Bubble 1;110502624
-Randomized 5;3700;Bubble 1+2;79916349
-Randomized 5;3700;Insertion;28903321
-Randomized 5;3700;Bin. Insertion;23539869
-Randomized 5;3700;S. Counting;133320
+Reverse sorted;3600;Merge;918989
+Reverse sorted;3600;Quick;42418909
+Reverse sorted;3600;Heap;1021448
+Reverse sorted;3600;Shell-Tsiur;570705
+Reverse sorted;3600;Shell;728083
+Randomized 5;3700;Selection;41113069
+Randomized 5;3700;Bubble;126469922
+Randomized 5;3700;Bubble 1;109439528
+Randomized 5;3700;Bubble 1+2;79397226
+Randomized 5;3700;Insertion;28357151
+Randomized 5;3700;Bin. Insertion;23524942
+Randomized 5;3700;S. Counting;133322
 Randomized 5;3700;Radix;3264713
-Randomized 5;3700;Merge;969828
-Randomized 5;3700;Quick;5869816
-Randomized 5;3700;Heap;944183
-Randomized 5;3700;Shell-Tsiur;503261
-Randomized 5;3700;Shell;611849
-Randomized 4000;3700;Selection;41134230
-Randomized 4000;3700;Bubble;129739316
-Randomized 4000;3700;Bubble 1;131930790
-Randomized 4000;3700;Bubble 1+2;85238291
-Randomized 4000;3700;Insertion;33806141
-Randomized 4000;3700;Bin. Insertion;24069811
-Randomized 4000;3700;S. Counting;189262
+Randomized 5;3700;Merge;969942
+Randomized 5;3700;Quick;5859532
+Randomized 5;3700;Heap;942232
+Randomized 5;3700;Shell-Tsiur;501395
+Randomized 5;3700;Shell;613159
+Randomized 4000;3700;Selection;41135893
+Randomized 4000;3700;Bubble;130274942
+Randomized 4000;3700;Bubble 1;132437291
+Randomized 4000;3700;Bubble 1+2;85861626
+Randomized 4000;3700;Insertion;34698851
+Randomized 4000;3700;Bin. Insertion;24695984
+Randomized 4000;3700;S. Counting;189272
 Randomized 4000;3700;Radix;3264713
-Randomized 4000;3700;Merge;974026
-Randomized 4000;3700;Quick;468436
-Randomized 4000;3700;Heap;1124500
-Randomized 4000;3700;Shell-Tsiur;814206
-Randomized 4000;3700;Shell;992402
-Almost sorted;3700;Selection;41092450
-Almost sorted;3700;Bubble;109695638
-Almost sorted;3700;Bubble 1;103869857
-Almost sorted;3700;Bubble 1+2;61682807
-Almost sorted;3700;Insertion;400011
-Almost sorted;3700;Bin. Insertion;662076
-Almost sorted;3700;S. Counting;185182
+Randomized 4000;3700;Merge;974094
+Randomized 4000;3700;Quick;467834
+Randomized 4000;3700;Heap;1121605
+Randomized 4000;3700;Shell-Tsiur;809867
+Randomized 4000;3700;Shell;983651
+Almost sorted;3700;Selection;41510972
+Almost sorted;3700;Bubble;118276280
+Almost sorted;3700;Bubble 1;119741208
+Almost sorted;3700;Bubble 1+2;71872449
+Almost sorted;3700;Insertion;14701081
+Almost sorted;3700;Bin. Insertion;10696175
+Almost sorted;3700;S. Counting;190632
 Almost sorted;3700;Radix;3264713
-Almost sorted;3700;Merge;947432
-Almost sorted;3700;Quick;2506085
-Almost sorted;3700;Heap;1184746
-Almost sorted;3700;Shell-Tsiur;515520
-Almost sorted;3700;Shell;631962
-Reverse sorted;3700;Selection;43265816
-Reverse sorted;3700;Bubble;150534404
-Reverse sorted;3700;Bubble 1;157405285
-Reverse sorted;3700;Bubble 1+2;109506935
-Reverse sorted;3700;Insertion;68464621
-Reverse sorted;3700;Bin. Insertion;48367629
-Reverse sorted;3700;S. Counting;189710
+Almost sorted;3700;Merge;944906
+Almost sorted;3700;Quick;5434240
+Almost sorted;3700;Heap;1082384
+Almost sorted;3700;Shell-Tsiur;597978
+Almost sorted;3700;Shell;730504
+Reverse sorted;3700;Selection;43286229
+Reverse sorted;3700;Bubble;150534554
+Reverse sorted;3700;Bubble 1;157375861
+Reverse sorted;3700;Bubble 1+2;109507102
+Reverse sorted;3700;Insertion;68464871
+Reverse sorted;3700;Bin. Insertion;48367809
+Reverse sorted;3700;S. Counting;189858
 Reverse sorted;3700;Radix;3264713
-Reverse sorted;3700;Merge;946872
-Reverse sorted;3700;Quick;44938044
-Reverse sorted;3700;Heap;1051491
-Reverse sorted;3700;Shell-Tsiur;596596
-Reverse sorted;3700;Shell;744332
-Randomized 5;3800;Selection;43364000
-Randomized 5;3800;Bubble;133759268
-Randomized 5;3800;Bubble 1;116498312
-Randomized 5;3800;Bubble 1+2;84295977
-Randomized 5;3800;Insertion;30508961
-Randomized 5;3800;Bin. Insertion;24829949
-Randomized 5;3800;S. Counting;136920
+Reverse sorted;3700;Merge;946840
+Reverse sorted;3700;Quick;44818809
+Reverse sorted;3700;Heap;1051987
+Reverse sorted;3700;Shell-Tsiur;596505
+Reverse sorted;3700;Shell;744241
+Randomized 5;3800;Selection;43364312
+Randomized 5;3800;Bubble;133387328
+Randomized 5;3800;Bubble 1;115122013
+Randomized 5;3800;Bubble 1+2;83670963
+Randomized 5;3800;Insertion;29889061
+Randomized 5;3800;Bin. Insertion;24784468
+Randomized 5;3800;S. Counting;136922
 Randomized 5;3800;Radix;3352913
-Randomized 5;3800;Merge;998190
-Randomized 5;3800;Quick;6170886
-Randomized 5;3800;Heap;970026
-Randomized 5;3800;Shell-Tsiur;518428
-Randomized 5;3800;Shell;633281
-Randomized 4000;3800;Selection;43386415
-Randomized 4000;3800;Bubble;136852748
-Randomized 4000;3800;Bubble 1;138164378
-Randomized 4000;3800;Bubble 1+2;89895828
-Randomized 4000;3800;Insertion;35664761
-Randomized 4000;3800;Bin. Insertion;25382468
-Randomized 4000;3800;S. Counting;192862
+Randomized 5;3800;Merge;998654
+Randomized 5;3800;Quick;6168344
+Randomized 5;3800;Heap;973341
+Randomized 5;3800;Shell-Tsiur;515793
+Randomized 5;3800;Shell;628440
+Randomized 4000;3800;Selection;43387526
+Randomized 4000;3800;Bubble;137349140
+Randomized 4000;3800;Bubble 1;140172255
+Randomized 4000;3800;Bubble 1+2;90496901
+Randomized 4000;3800;Insertion;36492081
+Randomized 4000;3800;Bin. Insertion;25963255
+Randomized 4000;3800;S. Counting;192872
 Randomized 4000;3800;Radix;3352913
-Randomized 4000;3800;Merge;1002532
-Randomized 4000;3800;Quick;465912
-Randomized 4000;3800;Heap;1157759
-Randomized 4000;3800;Shell-Tsiur;837484
-Randomized 4000;3800;Shell;1105955
-Almost sorted;3800;Selection;43343050
-Almost sorted;3800;Bubble;115694738
-Almost sorted;3800;Bubble 1;106670657
-Almost sorted;3800;Bubble 1+2;64833707
-Almost sorted;3800;Insertion;401411
-Almost sorted;3800;Bin. Insertion;674847
-Almost sorted;3800;S. Counting;190486
+Randomized 4000;3800;Merge;1002764
+Randomized 4000;3800;Quick;516000
+Randomized 4000;3800;Heap;1155405
+Randomized 4000;3800;Shell-Tsiur;836444
+Randomized 4000;3800;Shell;1049816
+Almost sorted;3800;Selection;43679534
+Almost sorted;3800;Bubble;126524150
+Almost sorted;3800;Bubble 1;128333474
+Almost sorted;3800;Bubble 1+2;77871347
+Almost sorted;3800;Insertion;18450431
+Almost sorted;3800;Bin. Insertion;13333750
+Almost sorted;3800;S. Counting;194232
 Almost sorted;3800;Radix;3352913
-Almost sorted;3800;Merge;974776
-Almost sorted;3800;Quick;2727005
-Almost sorted;3800;Heap;1219643
-Almost sorted;3800;Shell-Tsiur;528120
-Almost sorted;3800;Shell;638471
-Reverse sorted;3800;Selection;45634544
-Reverse sorted;3800;Bubble;158782826
-Reverse sorted;3800;Bubble 1;166029394
-Reverse sorted;3800;Bubble 1+2;115506494
-Reverse sorted;3800;Insertion;72214891
-Reverse sorted;3800;Bin. Insertion;51006023
-Reverse sorted;3800;S. Counting;194546
+Almost sorted;3800;Merge;973522
+Almost sorted;3800;Quick;8565901
+Almost sorted;3800;Heap;1114538
+Almost sorted;3800;Shell-Tsiur;641966
+Almost sorted;3800;Shell;768992
+Reverse sorted;3800;Selection;45654277
+Reverse sorted;3800;Bubble;158783132
+Reverse sorted;3800;Bubble 1;165999352
+Reverse sorted;3800;Bubble 1+2;115506843
+Reverse sorted;3800;Insertion;72215401
+Reverse sorted;3800;Bin. Insertion;51006363
+Reverse sorted;3800;S. Counting;195082
 Reverse sorted;3800;Radix;3352913
-Reverse sorted;3800;Merge;974836
-Reverse sorted;3800;Quick;47211516
-Reverse sorted;3800;Heap;1084170
+Reverse sorted;3800;Merge;974900
+Reverse sorted;3800;Quick;47558743
+Reverse sorted;3800;Heap;1085146
 Reverse sorted;3800;Shell-Tsiur;612124
-Reverse sorted;3800;Shell;763080
-Randomized 5;3900;Selection;45675105
-Randomized 5;3900;Bubble;140754000
-Randomized 5;3900;Bubble 1;122754727
-Randomized 5;3900;Bubble 1+2;88669417
-Randomized 5;3900;Insertion;31903081
-Randomized 5;3900;Bin. Insertion;25991612
-Randomized 5;3900;S. Counting;140520
+Reverse sorted;3800;Shell;763665
+Randomized 5;3900;Selection;45675553
+Randomized 5;3900;Bubble;140545338
+Randomized 5;3900;Bubble 1;121980905
+Randomized 5;3900;Bubble 1+2;88320578
+Randomized 5;3900;Insertion;31555311
+Randomized 5;3900;Bin. Insertion;26142562
+Randomized 5;3900;S. Counting;140522
 Randomized 5;3900;Radix;3441113
-Randomized 5;3900;Merge;1026561
-Randomized 5;3900;Quick;6521626
-Randomized 5;3900;Heap;997893
-Randomized 5;3900;Shell-Tsiur;533713
-Randomized 5;3900;Shell;639610
-Randomized 4000;3900;Selection;45698347
-Randomized 4000;3900;Bubble;144096054
-Randomized 4000;3900;Bubble 1;146371558
-Randomized 4000;3900;Bubble 1+2;94641124
-Randomized 4000;3900;Insertion;37473171
-Randomized 4000;3900;Bin. Insertion;26660526
-Randomized 4000;3900;S. Counting;196462
+Randomized 5;3900;Merge;1027041
+Randomized 5;3900;Quick;6515247
+Randomized 5;3900;Heap;997166
+Randomized 5;3900;Shell-Tsiur;530439
+Randomized 5;3900;Shell;641419
+Randomized 4000;3900;Selection;45699058
+Randomized 4000;3900;Bubble;144603072
+Randomized 4000;3900;Bubble 1;147306268
+Randomized 4000;3900;Bubble 1+2;95236891
+Randomized 4000;3900;Insertion;38318201
+Randomized 4000;3900;Bin. Insertion;27253537
+Randomized 4000;3900;S. Counting;196472
 Randomized 4000;3900;Radix;3441113
-Randomized 4000;3900;Merge;1031249
-Randomized 4000;3900;Quick;524849
-Randomized 4000;3900;Heap;1189682
-Randomized 4000;3900;Shell-Tsiur;868851
-Randomized 4000;3900;Shell;1062675
-Almost sorted;3900;Selection;45653650
-Almost sorted;3900;Bubble;121853838
-Almost sorted;3900;Bubble 1;109471457
-Almost sorted;3900;Bubble 1+2;67984607
-Almost sorted;3900;Insertion;402811
-Almost sorted;3900;Bin. Insertion;687590
-Almost sorted;3900;S. Counting;195632
+Randomized 4000;3900;Merge;1031337
+Randomized 4000;3900;Quick;514439
+Randomized 4000;3900;Heap;1189307
+Randomized 4000;3900;Shell-Tsiur;859617
+Randomized 4000;3900;Shell;1062993
+Almost sorted;3900;Selection;45910931
+Almost sorted;3900;Bubble;134991960
+Almost sorted;3900;Bubble 1;137216468
+Almost sorted;3900;Bubble 1+2;84030209
+Almost sorted;3900;Insertion;22299681
+Almost sorted;3900;Bin. Insertion;16041240
+Almost sorted;3900;S. Counting;197832
 Almost sorted;3900;Radix;3441113
-Almost sorted;3900;Merge;1002113
-Almost sorted;3900;Quick;3028774
-Almost sorted;3900;Heap;1255550
-Almost sorted;3900;Shell-Tsiur;540720
-Almost sorted;3900;Shell;646829
-Reverse sorted;3900;Selection;48065598
-Reverse sorted;3900;Bubble;167251272
-Reverse sorted;3900;Bubble 1;174883531
-Reverse sorted;3900;Bubble 1+2;121666081
-Reverse sorted;3900;Insertion;76065201
-Reverse sorted;3900;Bin. Insertion;53714465
-Reverse sorted;3900;S. Counting;199732
+Almost sorted;3900;Merge;1002033
+Almost sorted;3900;Quick;11475663
+Almost sorted;3900;Heap;1137361
+Almost sorted;3900;Shell-Tsiur;642275
+Almost sorted;3900;Shell;787058
+Reverse sorted;3900;Selection;48085634
+Reverse sorted;3900;Bubble;167251608
+Reverse sorted;3900;Bubble 1;174883923
+Reverse sorted;3900;Bubble 1+2;121666473
+Reverse sorted;3900;Insertion;76065761
+Reverse sorted;3900;Bin. Insertion;53714821
+Reverse sorted;3900;S. Counting;200260
 Reverse sorted;3900;Radix;3441113
-Reverse sorted;3900;Merge;1003177
-Reverse sorted;3900;Quick;49550241
-Reverse sorted;3900;Heap;1118064
-Reverse sorted;3900;Shell-Tsiur;635950
-Reverse sorted;3900;Shell;794781
-Randomized 5;4000;Selection;48046296
-Randomized 5;4000;Bubble;148047452
-Randomized 5;4000;Bubble 1;129091389
-Randomized 5;4000;Bubble 1+2;93249830
-Randomized 5;4000;Insertion;33528401
-Randomized 5;4000;Bin. Insertion;27294394
-Randomized 5;4000;S. Counting;144120
+Reverse sorted;3900;Merge;1003055
+Reverse sorted;3900;Quick;50007230
+Reverse sorted;3900;Heap;1119019
+Reverse sorted;3900;Shell-Tsiur;636145
+Reverse sorted;3900;Shell;795106
+Randomized 5;4000;Selection;48046669
+Randomized 5;4000;Bubble;147707750
+Randomized 5;4000;Bubble 1;128343081
+Randomized 5;4000;Bubble 1+2;92783826
+Randomized 5;4000;Insertion;32962231
+Randomized 5;4000;Bin. Insertion;27345823
+Randomized 5;4000;S. Counting;144122
 Randomized 5;4000;Radix;3529313
-Randomized 5;4000;Merge;1055187
-Randomized 5;4000;Quick;6836540
-Randomized 5;4000;Heap;1029377
-Randomized 5;4000;Shell-Tsiur;547134
-Randomized 5;4000;Shell;693861
-Randomized 4000;4000;Selection;48070341
-Randomized 4000;4000;Bubble;151498040
-Randomized 4000;4000;Bubble 1;153276445
-Randomized 4000;4000;Bubble 1+2;99449331
-Randomized 4000;4000;Insertion;39279381
-Randomized 4000;4000;Bin. Insertion;27936736
-Randomized 4000;4000;S. Counting;200062
+Randomized 5;4000;Merge;1055291
+Randomized 5;4000;Quick;6827025
+Randomized 5;4000;Heap;1023521
+Randomized 5;4000;Shell-Tsiur;544436
+Randomized 5;4000;Shell;689509
+Randomized 4000;4000;Selection;48071866
+Randomized 4000;4000;Bubble;152160566
+Randomized 4000;4000;Bubble 1;155457348
+Randomized 4000;4000;Bubble 1+2;100240648
+Randomized 4000;4000;Insertion;40383591
+Randomized 4000;4000;Bin. Insertion;28711353
+Randomized 4000;4000;S. Counting;200072
 Randomized 4000;4000;Radix;3529313
-Randomized 4000;4000;Merge;1059977
-Randomized 4000;4000;Quick;529345
-Randomized 4000;4000;Heap;1224299
-Randomized 4000;4000;Shell-Tsiur;895063
-Randomized 4000;4000;Shell;1143893
-Almost sorted;4000;Selection;48024250
-Almost sorted;4000;Bubble;128172938
-Almost sorted;4000;Bubble 1;112272257
-Almost sorted;4000;Bubble 1+2;71135507
-Almost sorted;4000;Insertion;404211
-Almost sorted;4000;Bin. Insertion;700341
-Almost sorted;4000;S. Counting;200816
+Randomized 4000;4000;Merge;1059941
+Randomized 4000;4000;Quick;527605
+Randomized 4000;4000;Heap;1223694
+Randomized 4000;4000;Shell-Tsiur;889051
+Randomized 4000;4000;Shell;1172627
+Almost sorted;4000;Selection;48207700
+Almost sorted;4000;Bubble;143679938
+Almost sorted;4000;Bubble 1;146235261
+Almost sorted;4000;Bubble 1+2;90349207
+Almost sorted;4000;Insertion;26249211
+Almost sorted;4000;Bin. Insertion;18818945
+Almost sorted;4000;S. Counting;201432
 Almost sorted;4000;Radix;3529313
-Almost sorted;4000;Merge;1035255
-Almost sorted;4000;Quick;3402066
-Almost sorted;4000;Heap;1290829
-Almost sorted;4000;Shell-Tsiur;553320
-Almost sorted;4000;Shell;560480
-Reverse sorted;4000;Selection;50559616
-Reverse sorted;4000;Bubble;175939760
-Reverse sorted;4000;Bubble 1;183967717
-Reverse sorted;4000;Bubble 1+2;127985717
-Reverse sorted;4000;Insertion;80015581
-Reverse sorted;4000;Bin. Insertion;56492955
-Reverse sorted;4000;S. Counting;204798
+Almost sorted;4000;Merge;1030597
+Almost sorted;4000;Quick;15129737
+Almost sorted;4000;Heap;1162542
+Almost sorted;4000;Shell-Tsiur;676537
+Almost sorted;4000;Shell;836282
+Reverse sorted;4000;Selection;50580101
+Reverse sorted;4000;Bubble;175940102
+Reverse sorted;4000;Bubble 1;183968116
+Reverse sorted;4000;Bubble 1+2;127986116
+Reverse sorted;4000;Insertion;80016151
+Reverse sorted;4000;Bin. Insertion;56493311
+Reverse sorted;4000;S. Counting;205186
 Reverse sorted;4000;Radix;3529313
-Reverse sorted;4000;Merge;1031313
-Reverse sorted;4000;Quick;52075776
-Reverse sorted;4000;Heap;1148713
-Reverse sorted;4000;Shell-Tsiur;644801
-Reverse sorted;4000;Shell;812392
-Randomized 5;4100;Selection;50477517
-Randomized 5;4100;Bubble;155616446
-Randomized 5;4100;Bubble 1;135661251
-Randomized 5;4100;Bubble 1+2;98045674
-Randomized 5;4100;Insertion;35346291
-Randomized 5;4100;Bin. Insertion;28729475
-Randomized 5;4100;S. Counting;147720
+Reverse sorted;4000;Merge;1031283
+Reverse sorted;4000;Quick;52516761
+Reverse sorted;4000;Heap;1150141
+Reverse sorted;4000;Shell-Tsiur;644970
+Reverse sorted;4000;Shell;812977
+Randomized 5;4100;Selection;50477763
+Randomized 5;4100;Bubble;155255240
+Randomized 5;4100;Bubble 1;134780658
+Randomized 5;4100;Bubble 1+2;97532994
+Randomized 5;4100;Insertion;34744281
+Randomized 5;4100;Bin. Insertion;28795449
+Randomized 5;4100;S. Counting;147722
 Randomized 5;4100;Radix;3617513
-Randomized 5;4100;Merge;1083806
-Randomized 5;4100;Quick;7166748
-Randomized 5;4100;Heap;1058710
-Randomized 5;4100;Shell-Tsiur;561688
-Randomized 5;4100;Shell;796475
-Randomized 4000;4100;Selection;50502493
-Randomized 4000;4100;Bubble;159195746
-Randomized 4000;4100;Bubble 1;160402074
-Randomized 4000;4100;Bubble 1+2;104500669
-Randomized 4000;4100;Insertion;41311791
-Randomized 4000;4100;Bin. Insertion;29371567
-Randomized 4000;4100;S. Counting;203662
+Randomized 5;4100;Merge;1084040
+Randomized 5;4100;Quick;7185913
+Randomized 5;4100;Heap;1051511
+Randomized 5;4100;Shell-Tsiur;559435
+Randomized 5;4100;Shell;790488
+Randomized 4000;4100;Selection;50503239
+Randomized 4000;4100;Bubble;159739364
+Randomized 4000;4100;Bubble 1;159921129
+Randomized 4000;4100;Bubble 1+2;105102029
+Randomized 4000;4100;Insertion;42217821
+Randomized 4000;4100;Bin. Insertion;30007368
+Randomized 4000;4100;S. Counting;203672
 Randomized 4000;4100;Radix;3617513
-Randomized 4000;4100;Merge;1088870
-Randomized 4000;4100;Quick;518119
-Randomized 4000;4100;Heap;1259124
-Randomized 4000;4100;Shell-Tsiur;923100
-Randomized 4000;4100;Shell;1928914
-Almost sorted;4100;Selection;50454850
-Almost sorted;4100;Bubble;134652038
-Almost sorted;4100;Bubble 1;115073057
-Almost sorted;4100;Bubble 1+2;74286407
-Almost sorted;4100;Insertion;405611
-Almost sorted;4100;Bin. Insertion;713110
-Almost sorted;4100;S. Counting;205844
+Randomized 4000;4100;Merge;1088958
+Randomized 4000;4100;Quick;516866
+Randomized 4000;4100;Heap;1256489
+Randomized 4000;4100;Shell-Tsiur;918758
+Randomized 4000;4100;Shell;2145929
+Almost sorted;4100;Selection;50558273
+Almost sorted;4100;Bubble;152587898
+Almost sorted;4100;Bubble 1;155612029
+Almost sorted;4100;Bubble 1+2;96828270
+Almost sorted;4100;Insertion;30298711
+Almost sorted;4100;Bin. Insertion;21666685
+Almost sorted;4100;S. Counting;205032
 Almost sorted;4100;Radix;3617513
-Almost sorted;4100;Merge;1056916
-Almost sorted;4100;Quick;3853957
-Almost sorted;4100;Heap;1326001
-Almost sorted;4100;Shell-Tsiur;565920
-Almost sorted;4100;Shell;729401
-Reverse sorted;4100;Selection;53116691
-Reverse sorted;4100;Bubble;184848332
-Reverse sorted;4100;Bubble 1;193282001
-Reverse sorted;4100;Bubble 1+2;134465451
-Reverse sorted;4100;Insertion;84066101
-Reverse sorted;4100;Bin. Insertion;59341569
+Almost sorted;4100;Merge;1058760
+Almost sorted;4100;Quick;18826819
+Almost sorted;4100;Heap;1272946
+Almost sorted;4100;Shell-Tsiur;679387
+Almost sorted;4100;Shell;940158
+Reverse sorted;4100;Selection;53137709
+Reverse sorted;4100;Bubble;184848494
+Reverse sorted;4100;Bubble 1;193282190
+Reverse sorted;4100;Bubble 1+2;134465640
+Reverse sorted;4100;Insertion;84066371
+Reverse sorted;4100;Bin. Insertion;59341715
 Reverse sorted;4100;S. Counting;210170
 Reverse sorted;4100;Radix;3617513
-Reverse sorted;4100;Merge;1059826
-Reverse sorted;4100;Quick;54921857
-Reverse sorted;4100;Heap;1180068
-Reverse sorted;4100;Shell-Tsiur;653124
-Reverse sorted;4100;Shell;863805
+Reverse sorted;4100;Merge;1059820
+Reverse sorted;4100;Quick;54820180
+Reverse sorted;4100;Heap;1180079
+Reverse sorted;4100;Shell-Tsiur;653098
+Reverse sorted;4100;Shell;863974

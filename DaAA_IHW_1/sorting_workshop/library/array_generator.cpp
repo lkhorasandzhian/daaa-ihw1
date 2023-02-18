@@ -20,10 +20,8 @@ int *generateAlmostSortedArray(int size, int lower_bound, int upper_bound) {
 
     stableCountingSort(array, size);
 
-    for (int step = 500; step < size - 500; step += 500) {
-        for (int i = 0; i < 5; ++i) {
-            std::swap(array[(step - 500) + i], array[step + i]);
-        }
+    for (int step = 1; step <= size * 0.1; ++step) {
+        std::swap(array[step], array[size - step]);
     }
 
     return array;

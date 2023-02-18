@@ -4,5 +4,4 @@ int main() {
     startProcess();
     return 0;
 }
-// TODO: построить графики элементарных операций.
 // TODO: не забыть про таблицы в excel.
