@@ -1,6 +1,7 @@
 #ifndef SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_RESULT_FILE_RECORDER_H_
 #define SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_RESULT_FILE_RECORDER_H_
 
+/// Запуск процесса тестировки и записи полученных результатов в соответствующие файлы.
 void startProcess();
 
 #endif //SORTING_WORKSHOP_SORTING_WORKSHOP_LIBRARY_RESULT_FILE_RECORDER_H_

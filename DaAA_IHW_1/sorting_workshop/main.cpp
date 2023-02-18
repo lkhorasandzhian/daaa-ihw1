@@ -4,4 +4,3 @@ int main() {
     startProcess();
     return 0;
 }
-// TODO: не забыть про таблицы в excel.
