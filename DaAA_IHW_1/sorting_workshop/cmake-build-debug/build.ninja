@@ -79,6 +79,12 @@ build CMakeFiles/sorting_workshop.dir/library/result_file_recorder.cpp.obj: CXX_
   OBJECT_DIR = CMakeFiles\sorting_workshop.dir
   OBJECT_FILE_DIR = CMakeFiles\sorting_workshop.dir\library
 
+build CMakeFiles/sorting_workshop.dir/library/elementary_counter.cpp.obj: CXX_COMPILER__sorting_workshop_Debug D$:/source/repos/cpp_solutions/DaAA_IHW1/daaa-ihw1/DaAA_IHW_1/sorting_workshop/library/elementary_counter.cpp || cmake_object_order_depends_target_sorting_workshop
+  DEP_FILE = CMakeFiles\sorting_workshop.dir\library\elementary_counter.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\sorting_workshop.dir
+  OBJECT_FILE_DIR = CMakeFiles\sorting_workshop.dir\library
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target sorting_workshop
@@ -87,7 +93,7 @@ build CMakeFiles/sorting_workshop.dir/library/result_file_recorder.cpp.obj: CXX_
 #############################################
 # Link the executable sorting_workshop.exe
 
-build sorting_workshop.exe: CXX_EXECUTABLE_LINKER__sorting_workshop_Debug CMakeFiles/sorting_workshop.dir/main.cpp.obj CMakeFiles/sorting_workshop.dir/library/sorting_algorithms.cpp.obj CMakeFiles/sorting_workshop.dir/library/test.cpp.obj CMakeFiles/sorting_workshop.dir/library/array_generator.cpp.obj CMakeFiles/sorting_workshop.dir/library/result_file_recorder.cpp.obj
+build sorting_workshop.exe: CXX_EXECUTABLE_LINKER__sorting_workshop_Debug CMakeFiles/sorting_workshop.dir/main.cpp.obj CMakeFiles/sorting_workshop.dir/library/sorting_algorithms.cpp.obj CMakeFiles/sorting_workshop.dir/library/test.cpp.obj CMakeFiles/sorting_workshop.dir/library/array_generator.cpp.obj CMakeFiles/sorting_workshop.dir/library/result_file_recorder.cpp.obj CMakeFiles/sorting_workshop.dir/library/elementary_counter.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\sorting_workshop.dir

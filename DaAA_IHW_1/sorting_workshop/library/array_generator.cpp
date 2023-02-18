@@ -36,7 +36,7 @@ int *generateReverseSortedArray(int size, int lower_bound, int upper_bound) {
 
     int *backward_array = new int[size];
     for (int i = 0; i < size; ++i) {
-        backward_array[i] = forward_array[i];
+        backward_array[i] = forward_array[size - 1 - i];
     }
 
     delete[] forward_array;

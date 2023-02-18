@@ -2,6 +2,7 @@
 #include <chrono>
 #include <fstream>
 #include "sorting_algorithms.h"
+#include "elementary_counter.h"
 
 bool checkCorrectness(const int arr[], int n) {
     for (int i = 1; i < n; ++i) {
@@ -230,11 +231,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         selectionSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -245,11 +246,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         bubbleSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -260,11 +261,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         bubbleSortIversonFirst(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -275,11 +276,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         bubbleSortIversonFirstAndSecond(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -290,11 +291,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         insertionSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -305,11 +306,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         binaryInsertionSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -320,11 +321,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         stableCountingSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -335,11 +336,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         radixSort10(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -350,11 +351,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         mergeSort(array, 0, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -365,11 +366,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         quickSort(array, 0, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -380,11 +381,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         heapSort(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -395,11 +396,11 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         shellSortTsiurSequence(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
 
@@ -410,13 +411,165 @@ void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, 
         copyElements(initial_array, array, n);
         auto start_time_point =  std::chrono::high_resolution_clock::now();
         shellSortShellSequence(array, n);
+        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
+        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
         if (!checkCorrectness(array, n)) {
             exit(-1);
         }
-        auto elapsed_time = std::chrono::high_resolution_clock::now() - start_time_point;
-        nanoseconds += std::chrono::duration_cast<std::chrono::nanoseconds>(elapsed_time).count();
     }
     *output << nanoseconds / count_of_repeats << "\n";
+}
+
+void launchCounterChecker(const int initial_array[], int n, std::ofstream *output, const std::string &info) {
+    const int count_of_tests = 13;
+    const std::string tests[count_of_tests] { "Selection",
+                                              "Bubble",
+                                              "Bubble 1",
+                                              "Bubble 1+2",
+                                              "Insertion",
+                                              "Bin. Insertion",
+                                              "S. Counting",
+                                              "Radix",
+                                              "Merge",
+                                              "Quick",
+                                              "Heap",
+                                              "Shell-Tsiur",
+                                              "Shell"
+    };
+    int current_test = 0;
+
+    int array[n];
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    selectionSortCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    bubbleSortCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    bubbleSortIversonFirstCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    bubbleIversonFirstAndSecondCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    insertionSortCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    binaryInsertionSortCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    stableCountingSortCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    radixSort10Counter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    mergeSortCounter(array, 0, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    quickSortCounter(array, 0, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    heapSortCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    shellSortTsiurSequenceCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+
+    *output << info << tests[current_test++] << ";";
+    global_counter = 0;
+    copyElements(initial_array, array, n);
+    shellSortShellSequenceCounter(array, n);
+    if (!checkCorrectness(array, n)) {
+        exit(-1);
+    }
+    *output << global_counter << "\n";
+
+    global_counter = 0;
 }
 
 void launchArrayViewer(const int initial_array[], int n, std::ofstream *output, const std::string &info) {

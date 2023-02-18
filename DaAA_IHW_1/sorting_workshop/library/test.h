@@ -7,6 +7,9 @@ void launchCorrectnessChecker(const int initial_array[], int n, std::ofstream *o
 /// Вывод в файл замеров времени работы всех сортировок заголовка \b sorting_algorithms.h .
 void launchTimeChecker(const int initial_array[], int n, std::ofstream *output, const std::string &info);
 
+/// Вывод в файл подсчётов элементарных операций всех сортировок заголовка \b sorting_algorithms.h .
+void launchCounterChecker(const int initial_array[], int n, std::ofstream *output, const std::string &info);
+
 /// Вывод в файл массива до и после сортировки пузырьком.
 void launchArrayViewer(const int initial_array[], int n, std::ofstream *output, const std::string &info);
 

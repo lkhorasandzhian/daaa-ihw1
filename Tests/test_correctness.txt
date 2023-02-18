@@ -1,0 +1,80 @@
+--------------------[START Randomized 5 TEST]--------------------
+
+Selection Sort: SUCCESS
+Bubble Sort: SUCCESS
+Bubble Sort (Iverson 1): SUCCESS
+Bubble Sort (Iverson 1+2): SUCCESS
+Insertion Sort: SUCCESS
+Binary Insertion Sort: SUCCESS
+Stable Counting Sort: SUCCESS
+Radix Sort: SUCCESS
+Merge Sort: SUCCESS
+Quick Sort: SUCCESS
+Heap Sort: SUCCESS
+Shell Sort (Tsiur Sequence): SUCCESS
+Shell Sort (Shell Sequence): SUCCESS
+
+--------------------[FINISH Randomized 5 TEST]--------------------
+SUCCESSFUL TESTS: 13/13
+FAILED TESTS: 0/13
+
+--------------------[START Randomized 4000 TEST]--------------------
+
+Selection Sort: SUCCESS
+Bubble Sort: SUCCESS
+Bubble Sort (Iverson 1): SUCCESS
+Bubble Sort (Iverson 1+2): SUCCESS
+Insertion Sort: SUCCESS
+Binary Insertion Sort: SUCCESS
+Stable Counting Sort: SUCCESS
+Radix Sort: SUCCESS
+Merge Sort: SUCCESS
+Quick Sort: SUCCESS
+Heap Sort: SUCCESS
+Shell Sort (Tsiur Sequence): SUCCESS
+Shell Sort (Shell Sequence): SUCCESS
+
+--------------------[FINISH Randomized 4000 TEST]--------------------
+SUCCESSFUL TESTS: 13/13
+FAILED TESTS: 0/13
+
+--------------------[START Almost sorted TEST]--------------------
+
+Selection Sort: SUCCESS
+Bubble Sort: SUCCESS
+Bubble Sort (Iverson 1): SUCCESS
+Bubble Sort (Iverson 1+2): SUCCESS
+Insertion Sort: SUCCESS
+Binary Insertion Sort: SUCCESS
+Stable Counting Sort: SUCCESS
+Radix Sort: SUCCESS
+Merge Sort: SUCCESS
+Quick Sort: SUCCESS
+Heap Sort: SUCCESS
+Shell Sort (Tsiur Sequence): SUCCESS
+Shell Sort (Shell Sequence): SUCCESS
+
+--------------------[FINISH Almost sorted TEST]--------------------
+SUCCESSFUL TESTS: 13/13
+FAILED TESTS: 0/13
+
+--------------------[START Reverse sorted TEST]--------------------
+
+Selection Sort: SUCCESS
+Bubble Sort: SUCCESS
+Bubble Sort (Iverson 1): SUCCESS
+Bubble Sort (Iverson 1+2): SUCCESS
+Insertion Sort: SUCCESS
+Binary Insertion Sort: SUCCESS
+Stable Counting Sort: SUCCESS
+Radix Sort: SUCCESS
+Merge Sort: SUCCESS
+Quick Sort: SUCCESS
+Heap Sort: SUCCESS
+Shell Sort (Tsiur Sequence): SUCCESS
+Shell Sort (Shell Sequence): SUCCESS
+
+--------------------[FINISH Reverse sorted TEST]--------------------
+SUCCESSFUL TESTS: 13/13
+FAILED TESTS: 0/13
+
