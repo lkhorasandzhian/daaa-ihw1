@@ -1,5 +1,4 @@
 #include <random>
-#include "sorting_algorithms.h"
 
 int *generateRandomizedArray(int size, int lower_bound, int upper_bound) {
     std::random_device rd;
@@ -28,17 +27,12 @@ int *generateAlmostSortedArray(int size) {
     return array;
 }
 
-int *generateReverseSortedArray(int size, int lower_bound, int upper_bound) {
-    int *forward_array = generateRandomizedArray(size, lower_bound, upper_bound);
+int *generateReverseSortedArray(int size) {
+    int *forward_array = new int[size];
 
-    stableCountingSort(forward_array, size);
-
-    int *backward_array = new int[size];
-    for (int i = 0; i < size; ++i) {
-        backward_array[i] = forward_array[size - 1 - i];
+    for (int number = size - 1; number >= 0; --number) {
+        forward_array[size - 1 - number] = number + 1;
     }
 
-    delete[] forward_array;
-
-    return backward_array;
+    return forward_array;
 }

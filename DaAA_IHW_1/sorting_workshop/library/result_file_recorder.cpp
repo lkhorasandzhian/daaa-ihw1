@@ -27,7 +27,7 @@ void startProcess() {
                 launchArrayViewer(initial_arrays[i], 4100, &viewer_output, "Almost sorted");
                 break;
             case 3:
-                initial_arrays[i] = generateReverseSortedArray(4100, 1, 4100);
+                initial_arrays[i] = generateReverseSortedArray(4100);
                 launchCorrectnessChecker(initial_arrays[i], 4100, &correctness_output, "Reverse sorted");
                 launchArrayViewer(initial_arrays[i], 4100, &viewer_output, "Reverse sorted");
                 break;
