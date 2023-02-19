@@ -22,7 +22,7 @@ void startProcess() {
                 launchArrayViewer(initial_arrays[i], 4100, &viewer_output, "Randomized 4000");
                 break;
             case 2:
-                initial_arrays[i] = generateAlmostSortedArray(4100, 1, 4100);
+                initial_arrays[i] = generateAlmostSortedArray(4100);
                 launchCorrectnessChecker(initial_arrays[i], 4100, &correctness_output, "Almost sorted");
                 launchArrayViewer(initial_arrays[i], 4100, &viewer_output, "Almost sorted");
                 break;

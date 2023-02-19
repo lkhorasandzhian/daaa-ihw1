@@ -15,13 +15,14 @@ int *generateRandomizedArray(int size, int lower_bound, int upper_bound) {
     return array;
 }
 
-int *generateAlmostSortedArray(int size, int lower_bound, int upper_bound) {
-    int *array = generateRandomizedArray(size, lower_bound, upper_bound);
+int *generateAlmostSortedArray(int size) {
+    int *array = new int[size];
 
-    stableCountingSort(array, size);
-
-    for (int step = 1; step <= size * 0.1; ++step) {
-        std::swap(array[step], array[size - step]);
+    for (int number = 0; number < size; ++number) {
+        array[number] = number + 1;
+        if (number % 75 == 0) {
+            std::swap(array[number], array[number - 70]);
+        }
     }
 
     return array;
